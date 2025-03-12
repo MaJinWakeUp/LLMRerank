@@ -106,7 +106,7 @@ def detect_web(path):
 
 if __name__ == "__main__":
     save_dir = "./gcloud_output"
-    images_dir = "/scratch/jin7/datasets/AMMeBa/images_part1/"
+    images_dir = "./images"
     demo_image_id = "68a6062ab9404ffdc6fc84212b83008936ab06d07cf3503d95262db4"
     demo_image_path = os.path.join(images_dir, demo_image_id + ".jpg")
     res = detect_web(demo_image_path)

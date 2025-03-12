@@ -31,4 +31,4 @@ for item in tqdm(data, desc="Processing items"):
         item["rerank"] = llm_rerank
     all_data.append(item)
 
-json.dump(all_data, open("llm_rerank.json", "w"), indent=2)
+json.dump(all_data, open("./data/llm_rerank.json", "w"), indent=2)

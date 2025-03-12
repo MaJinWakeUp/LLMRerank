@@ -6,14 +6,10 @@ from transformers import pipeline
 from time import sleep
 from tqdm import tqdm
 
-demo_file = "/scratch/jin7/datasets/AMMeBa/demo_refine.json"
+demo_file = "./data/demo_refine.json"
 demo_data = json.load(open(demo_file, "r"))
-images_dir = "/scratch/jin7/datasets/AMMeBa/images_part1/"
-gcloud_out_dir = "/home/jin7/projects/misinformation/gcloud_output/"
-
-img_save_dir = "./images/"
-if not os.path.exists(img_save_dir):
-    os.makedirs(img_save_dir)
+images_dir = "./images"
+gcloud_out_dir = "./gcloud_output/"
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
@@ -79,9 +75,4 @@ for i, item in enumerate(tqdm(demo_data[:20], desc="Processing items")):
     cur_data["initial_rank"] = initial_rank
     all_data.append(cur_data)
 
-    # save the image
-    img_path = os.path.join(images_dir, f"{item['image_id']}.jpg")
-    img_save_path = os.path.join(img_save_dir, f"{item['image_id']}.jpg")
-    os.system(f"cp {img_path} {img_save_path}")
-
-json.dump(all_data, open("initial_rank.json", "w"), indent=2)
+json.dump(all_data, open("./data/initial_rank.json", "w"), indent=2)
