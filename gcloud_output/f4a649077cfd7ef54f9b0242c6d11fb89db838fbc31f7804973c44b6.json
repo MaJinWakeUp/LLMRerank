@@ -1,0 +1,145 @@
+{
+    "best_guess_labels": [
+        "generator charging tesla"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.reddit.com/r/electricvehicles/comments/jk8zo5/tesla_charging_with_gasoline_generator_spotted_in/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/065wv79x01w51.jpg",
+                "https://preview.redd.it/065wv79x01w51.jpg?width=1080&crop=smart&auto=webp&s=0203be9c4e4200ea6e1662a04a0c7033c19ee156",
+                "https://preview.redd.it/065wv79x01w51.jpg?width=640&crop=smart&auto=webp&s=0a779ef8156336e03c663963e0ce5ada8b581780",
+                "https://a.thumbs.redditmedia.com/k-vvWABPaPzRifwrOg8k28BBMBmnjU7KWj7xeMemOJ0.jpg"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/teslamotors/comments/jj5qtk/wonder_what_kind_of_mpg_theyre_getting/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://preview.redd.it/zayiycziwmv51.png?auto=webp&s=392fc06d6a787966df5ff342534e72836cc1fa0b",
+                "https://preview.redd.it/zayiycziwmv51.png?width=1080&crop=smart&auto=webp&s=7e2df19e740a712d6150b370ced50c841522224f",
+                "https://preview.redd.it/zayiycziwmv51.png?width=640&crop=smart&auto=webp&s=61d6dd63b31c200375092aaf6dbf43a12343e822",
+                "https://i.redd.it/zayiycziwmv51.png",
+                "https://b.thumbs.redditmedia.com/R5-uVsw5ZPruZEsIxStTO5qaaG2Kjg_oWeY-T3k0HOU.jpg"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/facepalm/comments/qoua2o/using_a_gas_generator_to_charge_electric_car/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://preview.redd.it/809ceoyvs7y71.jpg?width=640&crop=smart&auto=webp&s=bfc6406140348829fdfb0caf2616f96dcc83255e",
+                "https://i.redd.it/809ceoyvs7y71.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/gas-generator-tesla-photo/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2021/11/tesla-not-united-states.jpg",
+                "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/11/tesla-not-united-states.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2021/11/tesla-not-united-states.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2021/11/tesla-not-united-states.jpg"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/funny/comments/jj0im1/gas_powered_tesla/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://preview.redd.it/zayiycziwmv51.png?auto=webp&s=392fc06d6a787966df5ff342534e72836cc1fa0b",
+                "https://preview.redd.it/zayiycziwmv51.png?width=1080&crop=smart&auto=webp&s=7e2df19e740a712d6150b370ced50c841522224f",
+                "https://preview.redd.it/zayiycziwmv51.png?width=640&crop=smart&auto=webp&s=61d6dd63b31c200375092aaf6dbf43a12343e822",
+                "https://i.redd.it/zayiycziwmv51.png"
+            ]
+        },
+        {
+            "url": "https://www.aqualumyachts.com.ar/?a=500592515",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2021/11/tesla-not-united-states.jpg"
+            ]
+        },
+        {
+            "url": "https://www.maracasbayview.com/?m=502188915",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2021/11/tesla-not-united-states.jpg"
+            ]
+        },
+        {
+            "url": "https://rosewood.pk/nwegs.php?cygj=zcjb140454371&cid=90&m=2&g=13",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/065wv79x01w51.jpg"
+            ]
+        },
+        {
+            "url": "https://thebookland.org/?t=499148015",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2021/11/tesla-not-united-states.jpg"
+            ]
+        },
+        {
+            "url": "https://www.geezz.com/?g=501575415",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/11/tesla-not-united-states.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.1233500242233276,
+            "description": "Tesla"
+        },
+        {
+            "score": 0.9972000122070312,
+            "description": "Tesla"
+        },
+        {
+            "score": 0.9466500282287598,
+            "description": "Car"
+        },
+        {
+            "score": 0.9035999774932861,
+            "description": "Tesla Model X"
+        },
+        {
+            "score": 0.8206055760383606,
+            "description": "Myers Motors NmG"
+        },
+        {
+            "score": 0.8083500266075134,
+            "description": "Tesla Model 3"
+        },
+        {
+            "score": 0.7488999962806702,
+            "description": ""
+        },
+        {
+            "score": 0.7107248902320862,
+            "description": "Electric car"
+        },
+        {
+            "score": 0.7089999914169312,
+            "description": "Electric generator"
+        },
+        {
+            "score": 0.6895999908447266,
+            "description": "Electric vehicle"
+        }
+    ],
+    "visually_similar_images": [
+        "https://i.redd.it/ie3sjsooarfe1.jpeg",
+        "x-raw-image:///951bca18efe33d4a4824326c9e1ab043e1dc5ac950e1474683dedb12843e8e18",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1138988631035220",
+        "https://www.boredpanda.com/blog/wp-content/uploads/2025/02/1865404371082559994-png__700.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3484598182010179428",
+        "https://nola.gov/nola/media/Mayor-s-Office/Project%20Why/hydrantblur.jpg",
+        "https://external-preview.redd.it/cities-skylines-1-player-vs-cities-skylines-2-player-v0-eGZobWlwaWN6YmxlMVR2xs8w0bdwDboI0Tk6hHyfRucnPJlo2LvXYCMd0EZk.png?format=pjpg&auto=webp&s=073de00ae88ab7388ef0b930ada3f7c42e9c56ea",
+        "https://media.licdn.com/dms/image/v2/C4E05AQHNW-KKBEoQag/videocover-high/videocover-high/0/1671634229351?e=2147483647&v=beta&t=ZrxhyxKUb5SZAIufrIwSka-7RqWuK3qZam3jgLC8dtY",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3576796014851793606",
+        "https://s.yimg.com/ny/api/res/1.2/UCIP3NonSQXxyMSJioHr5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTcwOQ--/https://media.zenfs.com/en/aol_bored_panda_979/2688b8cb7bee225b69c4cb6ae37647e0"
+    ]
+}

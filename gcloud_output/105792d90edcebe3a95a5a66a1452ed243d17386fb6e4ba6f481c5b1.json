@@ -1,0 +1,69 @@
+{
+    "best_guess_labels": [
+        "art"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.bostonglobe.com/2021/11/04/opinion/with-covid-19-vaccine-younger-children-chance-promote-health-equity-across-all-ages/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6CCFZZGQMJ472QS6644ONUUA5M.jpg",
+                "https://www.bostonglobe.com/resizer/OM7_Hc5ekU6LVs5XMeqlLdeXLuE=/arc-anglerfish-arc2-prod-bostonglobe/public/6CCFZZGQMJ472QS6644ONUUA5M.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.8852999806404114,
+            "description": "Girl Scouts of the USA"
+        },
+        {
+            "score": 0.7123000025749207,
+            "description": ""
+        },
+        {
+            "score": 0.5030999779701233,
+            "description": "fit"
+        },
+        {
+            "score": 0.4643000066280365,
+            "description": "COVID-19"
+        },
+        {
+            "score": 0.4523000121116638,
+            "description": "COVID-19 vaccine"
+        },
+        {
+            "score": 0.39259999990463257,
+            "description": ""
+        },
+        {
+            "score": 0.39259999990463257,
+            "description": "Family"
+        },
+        {
+            "score": 0.38119998574256897,
+            "description": "Scouting"
+        },
+        {
+            "score": 0.36390000581741333,
+            "description": "Girl Scouts"
+        },
+        {
+            "score": 0.35350000858306885,
+            "description": "Badge"
+        }
+    ],
+    "visually_similar_images": [
+        "https://cdn.nycitynewsservice.com/blogs.dir/795/files/2021/02/GS-12.jpeg",
+        "https://houston.culturemap.com/media-library/girl-scouts-of-san-jacinto-council.jpg?id=30099098&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=781000084206986",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3490359355696207080",
+        "https://www.tiktok.com/api/img/?itemId=7468600631410937121&location=0&aid=1988",
+        "https://www.tiktok.com/api/img/?itemId=7226046815974542635&location=0&aid=1988",
+        "https://i.ytimg.com/vi/gD6hEIgO4xQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBhhHrTA-cdM7g_gfkga7yXABCjYg",
+        "https://i.ytimg.com/vi/Oh10Cna1MxY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCP_73VVV7Upj1dXG_J5v-dK8nICA",
+        "x-raw-image:///655acb64468b8a95529f6a859e731d061c04c90d97ba6177a677ac20dbac9cdb",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=909658926913573"
+    ]
+}

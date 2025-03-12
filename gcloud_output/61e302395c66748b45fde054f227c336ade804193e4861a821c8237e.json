@@ -1,0 +1,23 @@
+{
+    "best_guess_labels": [
+        "official"
+    ],
+    "web_entities": [
+        {
+            "score": 0.28299999237060547,
+            "description": "Meter"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AR5HERT3BII6ZEIC2ZKIRQY3WE_size-normalized.jpg&w=1200",
+        "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IU2FC3RKTMI6XHBBHTCQDUEYD4.jpg",
+        "https://i.insider.com/6769b5c9a3e82c7912040e4d?width=600&format=jpeg&auto=webp",
+        "https://www.lavanguardia.com/files/article_main_microformat/files/fp/uploads/2025/01/17/678a67af330f5.r_d.562-254-0.jpeg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:egk5elf3x5qihlzoqojcokfm/bafkreiafqr4drd5g4pdqf5tahiy4cgzng6s54jgu2cvigasiucvvetbih4@jpeg",
+        "https://americanoversight.org/wp-content/uploads/Untitled-design-38.png",
+        "https://static.independent.co.uk/2025/02/05/16/24/starmer-trump-scholz-indycomp.jpeg?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+        "https://media.assettype.com/thequint%2F2025-03-02%2F45l250i6%2FFAF8F5.jpg?auto=format%2Ccompress&fmt=webp&width=440&w=1200",
+        "https://inews.co.uk/wp-content/uploads/2025/03/SEI_242605644.jpg",
+        "https://www.telegraph.co.uk/content/dam/news/2025/03/05/TELEMMGLPICT000409772697_17411791641730_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj0k9u7HhRJvuo-ZLenGRumA.jpeg?impolicy=OG-Standard"
+    ]
+}

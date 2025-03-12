@@ -1,0 +1,118 @@
+{
+    "best_guess_labels": [
+        "fun"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.theguardian.com/world/2014/nov/11/student-massacre-mexico-acapulco-police-injured",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/11/1415666345625/b1a094d2-080c-4f1c-866b-c65efcf560eb-2060x1236.jpeg?width=445&dpr=1&s=none&crop=none",
+                "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/11/1415666345625/b1a094d2-080c-4f1c-866b-c65efcf560eb-2060x1236.jpeg?width=700&quality=85&auto=format&fit=max&s=8cca693169700b05c0b633999c4c5072"
+            ]
+        },
+        {
+            "url": "https://laist.com/shows/take-two/missing-students-case-draws-attention-to-gaps-in-mexican-justice-system",
+            "full_matching_images": [
+                "https://scpr.brightspotcdn.com/dims4/default/470633d/2147483647/strip/true/crop/3726x1956+0+202/resize/1200x630!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F95297_b4c156e36763bec0933973b5e1bb5be7_original.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://laist.com/shows/take-two/missing-mexican-student-identified-and-how-the-protests-impact-the-countrys-future",
+            "full_matching_images": [
+                "https://scpr.brightspotcdn.com/dims4/default/470633d/2147483647/strip/true/crop/3726x1956+0+202/resize/1200x630!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F95297_b4c156e36763bec0933973b5e1bb5be7_original.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://laist.com/shows/take-two/police-confession-points-to-mayor-in-mexican-journalists-death",
+            "full_matching_images": [
+                "https://scpr.brightspotcdn.com/dims4/default/470633d/2147483647/strip/true/crop/3726x1956+0+202/resize/1200x630!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F95297_b4c156e36763bec0933973b5e1bb5be7_original.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.facebook.com/lopezobrador.org.mx/posts/estoy-enviando-esta-carta-a-los-ciudadanos-de-la-delegaci%C3%B3n-miguel-hidalgo-de-la/10153641302109782/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=837970419579356"
+            ]
+        },
+        {
+            "url": "https://arabi21.com/story/883219/%D8%A3%D8%AE%D8%B7%D8%B1-10-%D9%85%D8%AF%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AC%D9%86%D8%A8-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D8%A7",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://arabi21.com/Content/Upload/Editor/Image4_1201627143840.png"
+            ]
+        },
+        {
+            "url": "https://arabi21.com/story/883219/%D8%A3%D8%AE%D8%B7%D8%B1-10-%D9%85%D8%AF%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85..-%D8%AA%D8%AC%D9%86%D8%A8-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D8%A7",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://arabi21.com/Content/Upload/Editor/Image4_1201627143840.png"
+            ]
+        },
+        {
+            "url": "https://www.mediafax.ro/poze/topul-celor-mai-violente-orase-din-lume-galerie-foto-15004216",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.mediafax.ro/An3D0wdNnP9lW1kaccnQr-wffIY=/931x700/smart/filters:contrast(5):format(webp):quality(80)/https://www.mediafax.ro/wp-content/uploads/images/1/3614/15004216/1-acapulco-afp.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.4903404414653778,
+            "description": "Mexico City"
+        },
+        {
+            "score": 0.4779999852180481,
+            "description": "Crime"
+        },
+        {
+            "score": 0.45170000195503235,
+            "description": ""
+        },
+        {
+            "score": 0.42829999327659607,
+            "description": ""
+        },
+        {
+            "score": 0.3310999870300293,
+            "description": "Riot police"
+        },
+        {
+            "score": 0.32679998874664307,
+            "description": "City"
+        },
+        {
+            "score": 0.2800999879837036,
+            "description": "identified"
+        },
+        {
+            "score": 0.26269999146461487,
+            "description": "criminality"
+        },
+        {
+            "score": 0.24369999766349792,
+            "description": "Capital"
+        },
+        {
+            "score": 0.032793425023555756,
+            "description": "Mexico"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb44e68c9-ad98-4429-82e7-a208c8c1a490.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+        "https://www.hrw.org/sites/default/files/styles/16x9_large/public/multimedia_images_2016/rtsf8zw-sized_for_display.jpg?itok=tmLJ5LJv",
+        "https://static01.nyt.com/images/2015/11/11/blogs/20151111pod-slide-ANPF/20151111pod-slide-ANPF-jumbo.jpg",
+        "https://labourreview.org/wp-content/uploads/2023/09/GettyImages-1240982423-e1696022342360.jpg",
+        "https://www.economist.com/content-assets/images/20230513_ASP505.jpg",
+        "https://media.licdn.com/dms/image/v2/C4D22AQGw5zUf3jqzdw/feedshare-shrink_800/feedshare-shrink_800/0/1576787953704?e=2147483647&v=beta&t=8tJpOqfKyw5ikeZPutlfV1s_4cidlrXbtIjDWJAKPZ0",
+        "https://media.npr.org/assets/img/2013/03/06/egypt_police_03-c3e191d242416a244d87dc86b52d1f03fac5b0aa.jpg",
+        "https://media.cnn.com/api/v1/images/stellar/prod/150318100006-restricted-06-tunisia-0318.jpg?q=w_3912,h_2200,x_0,y_0,c_fill/h_447",
+        "https://static01.nyt.com/images/2023/10/26/multimedia/26gaza-deathtoll-01-clkv/26gaza-deathtoll-01-clkv-videoSixteenByNineJumbo1600.jpg",
+        "https://pbs.twimg.com/card_img/1893666592447201280/Ak_VK79d?format=jpg&name=medium"
+    ]
+}

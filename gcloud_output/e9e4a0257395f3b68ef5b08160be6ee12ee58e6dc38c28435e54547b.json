@@ -1,0 +1,132 @@
+{
+    "best_guess_labels": [
+        "waganga mganga"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://twitter.com/DavidNdii/status/1469971699198308352",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/GovernorNanok/status/1469741003317862408",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/stephenadika3",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
+            ]
+        },
+        {
+            "url": "https://pesacheck.org/false-these-images-do-not-show-kenyas-deputy-president-dressed-as-a-witch-doctor-5fbe0bf3a4f4",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://miro.medium.com/v2/resize:fit:1400/0*ZqopX-KYO6ldsFgn"
+            ]
+        },
+        {
+            "url": "https://www.tuko.co.ke/politics/436712-charity-ngilu-takes-a-swipe-william-ruto-after-stepping-out-in-shrine-paraphanerlia/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cdn.tuko.co.ke/images/1120/a6cc5a7511d90404.jpeg?v=1",
+                "https://cdn.tuko.co.ke/images/1200x675/a6cc5a7511d90404.jpeg?v=1"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=sw_KE",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465686942227555"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=ar_AR",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465686942227555"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=da_DK",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465686942227555"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=uk_UA",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465686942227555"
+            ]
+        },
+        {
+            "url": "https://twitter.com/nyandiga001/status/1469776631975845889",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FGWyDkVXIAELvbX.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 4.753499984741211,
+            "description": "David Ndii"
+        },
+        {
+            "score": 0.6022499799728394,
+            "description": "Charity Ngilu"
+        },
+        {
+            "score": 0.5655999779701233,
+            "description": "Witchcraft"
+        },
+        {
+            "score": 0.4408999979496002,
+            "description": "Witch doctor"
+        },
+        {
+            "score": 0.2801700234413147,
+            "description": "Wanganga"
+        },
+        {
+            "score": 0.263700008392334,
+            "description": "Waganga"
+        },
+        {
+            "score": 0.25936922430992126,
+            "description": "Ritual"
+        },
+        {
+            "score": 0.21824000775814056,
+            "description": "Sugoi"
+        },
+        {
+            "score": 0.2142000049352646,
+            "description": "clothed"
+        },
+        {
+            "score": 0.1996999979019165,
+            "description": "Deputy President of Kenya"
+        }
+    ],
+    "visually_similar_images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mursi_Tribe%2C_Ethiopia_%288159768048%29.jpg/640px-Mursi_Tribe%2C_Ethiopia_%288159768048%29.jpg",
+        "https://media.licdn.com/dms/image/v2/D4E22AQFeCFjqQto8XA/feedshare-shrink_800/feedshare-shrink_800/0/1729786033466?e=2147483647&v=beta&t=KAg212Rja_7z_4h1s6VpAyfYxH_W3MjBLj4FUTP5zC8",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064329203874",
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/d6/17/36.jpg",
+        "https://images.unsplash.com/photo-1608501408162-d9db758dd88e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM1fHx8ZW58MHx8fHx8",
+        "https://mediaaws.almasryalyoum.com/news/large/2016/10/01/526533_0.jpg",
+        "https://c8.alamy.com/comp/2DARA0M/wodaabe-bororo-men-with-faces-painted-at-the-annual-gerewol-festival-courtship-ritual-competition-among-the-woodaabe-fula-people-niger-2DARA0M.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=567055586046993",
+        "https://assets.isu.pub/document-structure/241014142118-20d4060716919d557835af6e3bfaf490/v1/a958c88aa5756f5985868a70cbac4a47.jpeg",
+        "https://pbs.twimg.com/media/GlA53rbXIAAIeC5.jpg"
+    ]
+}

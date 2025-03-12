@@ -1,0 +1,135 @@
+{
+    "best_guess_labels": [
+        "modiji salute"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.thestatesman.com/india/pm-modi-bids-emotional-farewell-to-rival-leader-with-salute-calls-him-true-friend-1502951103.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.thestatesman.com/wp-content/uploads/2021/02/QT-PM-Modi.jpg",
+                "https://www.thestatesman.com/wp-content/uploads/2021/02/QT-PM-Modi-1024x683.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/GuptaPragnya/status/1535173918448791552",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FU4IigfaUAEEkgy.jpg"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/story.php?story_fbid=582026929964387&id=101942594639492",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=582026906631056"
+            ]
+        },
+        {
+            "url": "https://www.thestatesman.com/india/pm-modi-writes-farmer-thanks-sharing-valuable-views-1502958200.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.thestatesman.com/wp-content/uploads/2021/02/QT-PM-Modi.jpg",
+                "https://www.thestatesman.com/wp-content/uploads/2021/02/QT-PM-Modi-1024x683.jpg"
+            ]
+        },
+        {
+            "url": "https://www.boomlive.in/fact-check/economy/india-3rd-largest-economy-164-economic-growth-narendra-modi-gdp-size-china-usa-ppp-18488",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.boomlive.in/h-upload/2024/09/18/1033429-largest-economy-03.webp",
+                "https://www.boomlive.in/h-upload/2024/09/18/1033429-largest-economy-03.jpg",
+                "https://www.boomlive.in/h-upload/2022/07/11/981141-grpahics.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/BbmpchdTeam",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FXWqFVaUcAIr4WK.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/dakshdeshwal",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FXWqFVaUcAIr4WK.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/sowmyanavin",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FXWqFVaUcAIr4WK.jpg"
+            ]
+        },
+        {
+            "url": "https://mobile.x.com/Swamy39/status/1546329061693087746",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FXWqFVaUcAIr4WK.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/hena_jamil",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FU4IigfaUAEEkgy.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 11.112001419067383,
+            "description": "Narendra Modi"
+        },
+        {
+            "score": 0.710099995136261,
+            "description": "Prime minister"
+        },
+        {
+            "score": 0.6230000257492065,
+            "description": "Minister"
+        },
+        {
+            "score": 0.6007999777793884,
+            "description": "Economy of India"
+        },
+        {
+            "score": 0.5981999635696411,
+            "description": "India"
+        },
+        {
+            "score": 0.4848000109195709,
+            "description": "Economy"
+        },
+        {
+            "score": 0.39879998564720154,
+            "description": ""
+        },
+        {
+            "score": 0.3190999925136566,
+            "description": "Meme"
+        },
+        {
+            "score": 0.31619998812675476,
+            "description": "Economic growth"
+        },
+        {
+            "score": 0.31279999017715454,
+            "description": "Gross domestic product"
+        }
+    ],
+    "visually_similar_images": [
+        "https://media.licdn.com/dms/image/v2/D4E22AQFngQ95fUyAXg/feedshare-shrink_800/B4EZPKu6CsGYAg-/0/1734273115992?e=2147483647&v=beta&t=wy56md_-kGajXOZHnogyCTqCSfqVXb2Ea7fz_mO-rN4",
+        "https://pbs.twimg.com/media/Glqyx_ybIAAZ4zw.jpg",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGpezOoJrKhPg/feedshare-shrink_800/B4DZVq3lJ0G8Ak-/0/1741254712049?e=2147483647&v=beta&t=-qjiVEYXxvZN5gdZMg0OTjZMe4DuSEDsuVQKPQxb5dU",
+        "https://media.licdn.com/dms/image/v2/D4E10AQFoXwUAV0Gucw/image-shrink_800/B4EZVsdJoeGgAg-/0/1741281336300?e=2147483647&v=beta&t=xt21CFptckckjiChIdpAGC7D-Q81ArZsRA82rmurgJQ",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1252285012925106",
+        "https://pbs.twimg.com/media/GlUCr_4XsAEcXQG.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3581100401472933510",
+        "https://pbs.twimg.com/ext_tw_video_thumb/1828511212302127104/pu/img/Fe-jFMwPXOP1576q.jpg",
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202502/aap-254813761-1x1.jpg?VersionId=ZEgkhd5XIHQN3k9YoDGJKuwCi.OR66tm",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3581341191925674080"
+    ]
+}

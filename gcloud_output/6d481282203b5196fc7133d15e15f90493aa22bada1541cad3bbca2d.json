@@ -1,0 +1,59 @@
+{
+    "best_guess_labels": [
+        "coca cola 1936 olympics"
+    ],
+    "web_entities": [
+        {
+            "score": 1.0757999420166016,
+            "description": "Coca-Cola"
+        },
+        {
+            "score": 1.0714499950408936,
+            "description": "Cola"
+        },
+        {
+            "score": 0.9313499927520752,
+            "description": "Fanta"
+        },
+        {
+            "score": 0.8592000007629395,
+            "description": "Olympic Games"
+        },
+        {
+            "score": 0.717199981212616,
+            "description": ""
+        },
+        {
+            "score": 0.6749999523162842,
+            "description": "Soft Drink"
+        },
+        {
+            "score": 0.5738000273704529,
+            "description": "F\u00fchrer"
+        },
+        {
+            "score": 0.551550030708313,
+            "description": "1936 Summer Olympics"
+        },
+        {
+            "score": 0.5454000234603882,
+            "description": "Ein Volk, ein Reich, ein F\u00fchrer"
+        },
+        {
+            "score": 0.475600004196167,
+            "description": "1936"
+        }
+    ],
+    "visually_similar_images": [
+        "x-raw-image:///df42b140bf2dc47e60367fb8692a461faf72d54a86b6f75d24dae335cdd3f1e7",
+        "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5703385908001/a73dad91-7429-415f-bc90-1a343ccf6913/fd7718ce-1cb2-4012-932d-fc978e638956/1280x720/match/image.jpg",
+        "https://ausstellung.geschichte-innenministerien.de/fileadmin/_processed_/7/c/csm_BHE_Plak_104-TA4237-003_bd020b0285.jpg",
+        "https://images.craigslist.org/00Y0Y_4I2yg3O2K9h_0ew0jm_600x450.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3529600444630201020",
+        "https://m.media-amazon.com/images/M/MV5BZGE1ZjdkZGQtNWFiMC00YTgxLWE0MGYtNjI1YjgwYjEwMTg4XkEyXkFqcGc@._V1_.jpg",
+        "https://i.scdn.co/image/ab67616d00001e0264410165a4985875264182fe",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1740340229423050",
+        "https://cdn.slidesharecdn.com/ss_thumbnails/cocacola-151114133902-lva1-app6891-thumbnail.jpg?width=560&fit=bounds",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3217401800856959818"
+    ]
+}
