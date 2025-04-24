@@ -1,0 +1,105 @@
+{
+    "best_guess_labels": [
+        "document"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.reddit.com/r/kroger/comments/gmi9kg/hi_from_walmart_are_you_guys_going_to_pay_it_back/",
+            "full_matching_images": [
+                "https://preview.redd.it/k4k41o11onz41.jpg?width=640&crop=smart&auto=webp&s=058929147d10a04f0bf6482011c68109bb6f89d9"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.facebook.com/Kroger/posts/employees-gathered-two-carts-full-of-food-for-emergency-responders-helping-with-/10157467817533218/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10212475850931892"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=10157467816188218&id=60686173217&set=a.375452038217",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10212475850931892"
+            ]
+        },
+        {
+            "url": "https://lu.linkedin.com/in/danielmartello",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4D22AQE_bgyCeG65Jw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1589980031378?e=2147483647&v=beta&t=WYNGXanyJcXdu4q8MAagt5XKg97iZJVsRQt8wR6-q_M"
+            ]
+        },
+        {
+            "url": "https://www.linkedin.com/in/nancychristensen51991",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4D22AQE_bgyCeG65Jw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1589980031378?e=2147483647&v=beta&t=WYNGXanyJcXdu4q8MAagt5XKg97iZJVsRQt8wR6-q_M"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/kroger/comments/gfxtse/time_to_lawyer_up_boys/",
+            "full_matching_images": [
+                "https://preview.redd.it/etemho2mwkx41.jpg?width=1080&crop=smart&auto=webp&s=15280579145b0d8d537bd8734948ef3d20498062",
+                "https://preview.redd.it/etemho2mwkx41.jpg?width=640&crop=smart&auto=webp&s=4acbda3f90d4e8bc4c555c09ab1605829cdd01da",
+                "https://i.redd.it/etemho2mwkx41.jpg"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9574999809265137,
+            "description": "Letter of resignation"
+        },
+        {
+            "score": 0.6887072324752808,
+            "description": "Document"
+        },
+        {
+            "score": 0.644599974155426,
+            "description": "Letter"
+        },
+        {
+            "score": 0.6281999945640564,
+            "description": "Kroger"
+        },
+        {
+            "score": 0.6281999945640564,
+            "description": ""
+        },
+        {
+            "score": 0.5782999992370605,
+            "description": "Mail"
+        },
+        {
+            "score": 0.5065000057220459,
+            "description": "Email"
+        },
+        {
+            "score": 0.4952999949455261,
+            "description": "Kroger"
+        },
+        {
+            "score": 0.4887999892234802,
+            "description": "Supermarket"
+        },
+        {
+            "score": 0.39980000257492065,
+            "description": "Paycheck"
+        }
+    ],
+    "visually_similar_images": [
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10161260872644773",
+        "https://azcc.gov/docs/default-source/corps-files/consumer-alerts/fraudulent-solicitation-letter.jpg?sfvrsn=2816ca1e_6",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=643255815148797",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1063251028578709",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1190174743114187",
+        "https://pen.org/wp-content/uploads/2024/07/4524cedd-358a-4f87-93f6-efe2a32bcaa6-768x1024.webp",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9656755634390723",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1665446751024244",
+        "https://www.jkbank.com/pdfs/eauction/Scanned%20Notice_Ali_Mohammad_Rohama.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=213930030985299"
+    ]
+}

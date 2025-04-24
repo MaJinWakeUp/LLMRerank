@@ -7,63 +7,63 @@
             "url": "https://www.bostonglobe.com/2021/11/04/opinion/with-covid-19-vaccine-younger-children-chance-promote-health-equity-across-all-ages/",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6CCFZZGQMJ472QS6644ONUUA5M.jpg",
-                "https://www.bostonglobe.com/resizer/OM7_Hc5ekU6LVs5XMeqlLdeXLuE=/arc-anglerfish-arc2-prod-bostonglobe/public/6CCFZZGQMJ472QS6644ONUUA5M.jpg"
+                "https://www.bostonglobe.com/resizer/OM7_Hc5ekU6LVs5XMeqlLdeXLuE=/arc-anglerfish-arc2-prod-bostonglobe/public/6CCFZZGQMJ472QS6644ONUUA5M.jpg",
+                "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6CCFZZGQMJ472QS6644ONUUA5M.jpg"
             ]
         }
     ],
     "web_entities": [
         {
-            "score": 0.8852999806404114,
+            "score": 0.8628000020980835,
             "description": "Girl Scouts of the USA"
         },
         {
-            "score": 0.7123000025749207,
+            "score": 0.7114999890327454,
             "description": ""
         },
         {
-            "score": 0.5030999779701233,
+            "score": 0.5027999877929688,
             "description": "fit"
         },
         {
-            "score": 0.4643000066280365,
-            "description": "COVID-19"
-        },
-        {
-            "score": 0.4523000121116638,
+            "score": 0.47920000553131104,
             "description": "COVID-19 vaccine"
         },
         {
-            "score": 0.39259999990463257,
+            "score": 0.47189998626708984,
+            "description": "COVID-19"
+        },
+        {
+            "score": 0.3905999958515167,
             "description": ""
         },
         {
-            "score": 0.39259999990463257,
+            "score": 0.3905999958515167,
             "description": "Family"
         },
         {
-            "score": 0.38119998574256897,
+            "score": 0.3822000026702881,
             "description": "Scouting"
         },
         {
-            "score": 0.36390000581741333,
+            "score": 0.37119999527931213,
             "description": "Girl Scouts"
         },
         {
-            "score": 0.35350000858306885,
+            "score": 0.35740000009536743,
             "description": "Badge"
         }
     ],
     "visually_similar_images": [
-        "https://cdn.nycitynewsservice.com/blogs.dir/795/files/2021/02/GS-12.jpeg",
-        "https://houston.culturemap.com/media-library/girl-scouts-of-san-jacinto-council.jpg?id=30099098&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=781000084206986",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3490359355696207080",
-        "https://www.tiktok.com/api/img/?itemId=7468600631410937121&location=0&aid=1988",
-        "https://www.tiktok.com/api/img/?itemId=7226046815974542635&location=0&aid=1988",
-        "https://i.ytimg.com/vi/gD6hEIgO4xQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBhhHrTA-cdM7g_gfkga7yXABCjYg",
+        "https://static.politifact.com/CACHE/images/politifact/photos/Girl_Scout_vest_with_top_cookie_seller_patch_Nov._2020/5e5bef815ee02de2332be487a8aac692.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3523894371349812123",
+        "https://i.ebayimg.com/thumbs/images/g/2XsAAeSwU1lnx4v1/s-l1200.jpg",
+        "https://www.tiktok.com/api/img/?itemId=7482550616309419282&location=0&aid=1988",
+        "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bWVsaXNzYWFuZGRvdWc/a5f15b6b-7ed2-56d9-b549-93814abb6b24",
+        "https://i.ytimg.com/vi/5KVdcJ7R0D8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCl5PMhiOHP9fxzUTWX84be8y7loA",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3440447200456481000",
+        "https://pbs.twimg.com/media/GhYZq-mbgAAFNI6.jpg",
         "https://i.ytimg.com/vi/Oh10Cna1MxY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCP_73VVV7Upj1dXG_J5v-dK8nICA",
-        "x-raw-image:///655acb64468b8a95529f6a859e731d061c04c90d97ba6177a677ac20dbac9cdb",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=909658926913573"
+        "https://1801.nl/hubfs/Denk%20en%20strategie%20spellen%20edutheek.jpg"
     ]
 }

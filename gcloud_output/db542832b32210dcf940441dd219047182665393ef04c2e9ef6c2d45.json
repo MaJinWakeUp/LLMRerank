@@ -1,0 +1,139 @@
+{
+    "best_guess_labels": [
+        "anatolia vertadella"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://factcheck.afp.com/no-picture-shows-newborn-arms-her-great-grandmother",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/south_africa/grannymain_0.png?itok=-0RhlsET",
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/south_africa/afpdebunk_0.png?itok=Csjto2Tk",
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/south_africa/grannybirthdies_0.png?itok=U-rb3UTz"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/101-year-old-mom-gives-birth/",
+            "full_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2016/03/ovarian.jpg",
+                "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/03/ovarian.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2016/03/ovarian.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2016/03/ovarian.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.worldrecordacademy.com/medical/oldest_mother_Anatolia_Vertadella_broke_Guinness_World_Records_record_216178.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.worldrecordacademy.com/medical/img/216178_oldest_mother_Anatolia_Vertadella.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/Radio2000_ZA/status/1034306965051256833",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/DlqYcnFXoAAX4e_.jpg"
+            ]
+        },
+        {
+            "url": "https://medizzy.com/feed/18100162",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cdn.medizzy.com/iQH5mHKV9KNygl6yess327IZWag=/300x335/img/posts/06f9efb1-2c33-46a2-b9ef-b12c3396a27b",
+                "https://cdn.medizzy.com/1krB9gw_Mm1IuIgDB--tUBZUSKk=/680x760/img/posts/06f9efb1-2c33-46a2-b9ef-b12c3396a27b",
+                "https://cdn.medizzy.com/bqdwTOnEilhaJstGtOF6avdLSQs=/800x894/img/posts/06f9efb1-2c33-46a2-b9ef-b12c3396a27b",
+                "https://cdn.medizzy.com/8tn5JyNeZseiU1GQ0I5osy_CfCc=/img/posts/06f9efb1-2c33-46a2-b9ef-b12c3396a27b"
+            ]
+        },
+        {
+            "url": "https://pmnewsnigeria.com/2019/09/05/indian-record-74-year-old-woman-delivers-twin-babiesupdated/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cdn.pmnewsnigeria.com/2019/09/oldest-mother-Anatolia_Vertadella-gave-birth-at-the-age-of-101.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/tshepomalope22",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/DlqYcnFXoAAX4e_.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/NyembeElias/status/1035026217790005248",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/DlqYcnFXoAAX4e_.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/mashoengteboho",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/DlqYcnFXoAAX4e_.jpg"
+            ]
+        },
+        {
+            "url": "http://www.worldrecordacademy.org/italy-world-records",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lirp.cdn-website.com/08d31351/dms3rep/multi/opt/216178_oldest_mother_Anatolia_Vertadella-640w.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9271000027656555,
+            "description": "Grandmother"
+        },
+        {
+            "score": 0.6815999746322632,
+            "description": "Anatolia"
+        },
+        {
+            "score": 0.5779750347137451,
+            "description": "Infant"
+        },
+        {
+            "score": 0.5379207730293274,
+            "description": "Childbirth"
+        },
+        {
+            "score": 0.5321000218391418,
+            "description": "controversial"
+        },
+        {
+            "score": 0.5307999849319458,
+            "description": "Age"
+        },
+        {
+            "score": 0.3828999996185303,
+            "description": "Pregnancy"
+        },
+        {
+            "score": 0.3343000113964081,
+            "description": ""
+        },
+        {
+            "score": 0.2556167244911194,
+            "description": "Grandparent"
+        },
+        {
+            "score": 0.22010000050067902,
+            "description": "Old age"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2018/201802us_nursinghomes_main.jpg?itok=jfZcLOSV",
+        "https://www.mdr.de/nachrichten/sachsen-anhalt/kaiserschnitt-geburt-102_v-variantBig16x9_w-576_zc-915c23fa.jpg?version=57129",
+        "https://cdn.kme.si/public/images-cache/800x400/2025/03/26/143929e2e21e0e8831bc4bcee161cbd3/67e3cbd982c96/143929e2e21e0e8831bc4bcee161cbd3.jpeg",
+        "https://ctfs.ceskatelevize.cz/img/GGmoRyr21fQ3O6xKhqqR-5JdNNSEDpbypkPAAOj0NMg/rs:fit:480:270/plain/s3/porady-s3/episode/648862093491bc92cc01ef62/card/tobias-1714583950.jpg",
+        "x-raw-image:///643e4e00d3f6a31c78991b43220304d0297ab1ab2da07c8f8914f2bba48c884e",
+        "https://www.salvaticopiii.ro/sites/ro/files/styles/sci_60_40_banner_864x600/public/migrated_files/images/9c9a253d-a59f-4d55-ace5-caa15f1738e8.JPG.webp?itok=MMJumhSi",
+        "https://www.obekti.bg/sites/default/files/styles/300x300/public/field/image/shutterstock_2480651009.jpg?itok=E0uz6YZq",
+        "https://postgradosuandes.cl/content/uploads/Diplomado-Neurodesarrollo-Neonatal-Cuidados-Centrados-en-el-Desarrollo-y-la-Familia.png",
+        "https://www.healthyparentshealthychildren.ca/app/uploads/2016/05/Father-taking-care-of-his-premature-baby-doing-skin-to-skin-at-hospital-1143127773_8256x5504-scaled.jpeg",
+        "https://labrador-www.kk.no/images/74062298.webp?imageId=74062298&x=0.00&y=0.99&cropw=100.00&croph=99.01&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=570&height=377"
+    ]
+}

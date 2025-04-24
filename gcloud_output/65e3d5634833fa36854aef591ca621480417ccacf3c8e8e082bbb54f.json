@@ -1,0 +1,136 @@
+{
+    "best_guess_labels": [
+        "ukraine ebay tank"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.reddit.com/r/ThatsInsane/comments/t53cwk/ukrainians_selling_russian_tanks_on_ebay/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://b.thumbs.redditmedia.com/eLK_siDqmKsJtzEyznLyLHp_AAItEJzhy2YQX8gSnCM.jpg"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/memes/comments/t5nfy8/ukrainians_are_selling_used_russian_tanks_on_ebay/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/q355h2hiw4l81.jpg"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=00G1ysnEhEQ",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/00G1ysnEhEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB9llvC8t6hobQnUTGTxIpdwQV7mg",
+                "https://i.ytimg.com/vi/00G1ysnEhEQ/maxresdefault.jpg",
+                "https://i.ytimg.com/vi/00G1ysnEhEQ/sddefault.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/ukraine-used-tanks-ebay/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2022/03/tanks-ebay-false.png",
+                "https://www.snopes.com/tachyon/2022/03/ukrainian-tank.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/shayan86/status/1499167301614157824",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FM4csSVWUAQ25GR.jpg:large",
+                "https://pbs.twimg.com/media/FM4csSVWUAQ25GR.jpg"
+            ]
+        },
+        {
+            "url": "https://factcheck.afp.com/doc.afp.com.324U4EC",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/g2/2022-03/a8702cfc8d0e214dd7d95d2d78019788.jpeg?itok=-6DbEl4M"
+            ]
+        },
+        {
+            "url": "https://x.com/Shayan86/status/1499167301614157824",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FM4csSVWUAQ25GR.jpg:large",
+                "https://pbs.twimg.com/media/FM4csSVWUAQ25GR.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/YourAnonNews/status/1499131249599950848",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/FM372d0XEAcCbRA.png"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.logicallyfacts.com/en/fact-check/false-russian-tanks-are-being-sold-on-ebay",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.logicallyfacts.com/storage/img/pages/19bf61b0-33e0-4318-afa6-a5452d800822_background.webp"
+            ]
+        },
+        {
+            "url": "https://www.wusa9.com/article/news/nation-world/ukraine/harris-poland-jets-for-ukraine/507-ba8894cd-afb3-4423-8c9b-5d437054155b",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.wusa9.com/assets/KJAC/images/01aeb637-1256-4bff-978d-b8d72e6206aa/01aeb637-1256-4bff-978d-b8d72e6206aa_1920x1080.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9318000078201294,
+            "description": "Tank"
+        },
+        {
+            "score": 0.8597999811172485,
+            "description": "Ukraine"
+        },
+        {
+            "score": 0.6256500482559204,
+            "description": "World of Tanks"
+        },
+        {
+            "score": 0.5910000205039978,
+            "description": ""
+        },
+        {
+            "score": 0.5910000205039978,
+            "description": "eBay"
+        },
+        {
+            "score": 0.573199987411499,
+            "description": ""
+        },
+        {
+            "score": 0.5242000222206116,
+            "description": "Ukrainians"
+        },
+        {
+            "score": 0.5232999920845032,
+            "description": "eBay"
+        },
+        {
+            "score": 0.4422999918460846,
+            "description": "used"
+        },
+        {
+            "score": 0.4126850962638855,
+            "description": "Churchill tank"
+        }
+    ],
+    "visually_similar_images": [
+        "https://i.ytimg.com/vi/lOsRmK4P6kg/hqdefault.jpg",
+        "https://i.ytimg.com/vi/erQ4EyhgSbk/hqdefault.jpg",
+        "https://i.ytimg.com/vi/JulAoDBIJos/hqdefault.jpg",
+        "https://i.ytimg.com/vi/HDFYvtV5P9Y/hqdefault.jpg",
+        "https://i.ytimg.com/vi/KpgkhngU8yE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggYihlMA8=&rs=AOn4CLAR2uARNssZ0FFyLdVEHMNwAlQFlw",
+        "https://i.ytimg.com/vi/NfNxYSK7AC0/hqdefault.jpg",
+        "https://i.ytimg.com/vi/0HDXwwwUoOw/hqdefault.jpg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wfayst7fn7vwxmx4q2s2acg/bafkreifxd7sjazbqpn7louufb5xzhmrvcsokzepdioddttxtvdmpslolsi@jpeg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3595470127960897747",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wfayst7fn7vwxmx4q2s2acg/bafkreiazanug3mzbb2frhl47daoixnigkvajo4stfbcckjutavtu24wchi@jpeg"
+    ]
+}

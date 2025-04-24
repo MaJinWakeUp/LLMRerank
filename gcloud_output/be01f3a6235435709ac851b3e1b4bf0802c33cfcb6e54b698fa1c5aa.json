@@ -1,0 +1,134 @@
+{
+    "best_guess_labels": [
+        "generator for festivals"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.cat.com/en_US/by-industry/electric-power/Articles/Testimonials/gensets-take-center-stage-summer.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385",
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385?$cc-s$&fmt=pjpeg"
+            ]
+        },
+        {
+            "url": "https://absal.sa/service-rental",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://absal.sa/assets/images/photos/future/rent2.jfif"
+            ]
+        },
+        {
+            "url": "https://www.foleyinc.com/power/rental-equipment/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.foleyinc.com/content/uploads/2014/07/rental-generators-thumb.jpg"
+            ]
+        },
+        {
+            "url": "https://blackiceenergy.ca/",
+            "full_matching_images": [
+                "https://blackiceenergy.ca/wp-content/uploads/2023/11/IMG_4750.jpeg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.ebenltd.com/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.ebenltd.com/wp-content/uploads/2020/02/supply-work.png"
+            ]
+        },
+        {
+            "url": "https://www.cat.com/fr_FR/by-industry/electric-power/Articles/Testimonials/gensets-take-center-stage-summer.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385"
+            ]
+        },
+        {
+            "url": "https://www.cat.com/es_US/by-industry/electric-power/Articles/Testimonials/gensets-take-center-stage-summer.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385",
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385?$cc-s$&fmt=pjpeg"
+            ]
+        },
+        {
+            "url": "https://www.cat.com/es_ES/by-industry/electric-power/Articles/Testimonials/gensets-take-center-stage-summer.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385",
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385?$cc-s$&fmt=pjpeg"
+            ]
+        },
+        {
+            "url": "https://www.cat.com/es_US/campaigns/awareness/rental-power.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://s7d2.scene7.com/is/image/Caterpillar/CM20180606-50929-00385"
+            ]
+        },
+        {
+            "url": "https://www.camionsupermarket.it/annunci/in-vendita/caterpillar/xq350/camion-e-rimorchi",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.sandhills.com/img.axd?id=8036761476&wid=8013628585&rwl=False&p=&ext=&w=350&h=220&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=GZ8sEbQQNRpg1fQITjxAX7bn7rB7Zf3IiCFEVqXxwBQ%3D"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.7282000184059143,
+            "description": "Festival"
+        },
+        {
+            "score": 0.7214000225067139,
+            "description": "Music Festival"
+        },
+        {
+            "score": 0.7185999751091003,
+            "description": "Electric generator"
+        },
+        {
+            "score": 0.6606000065803528,
+            "description": "Engine-generator"
+        },
+        {
+            "score": 0.6410999894142151,
+            "description": "Concert"
+        },
+        {
+            "score": 0.6370999813079834,
+            "description": "Diesel generator"
+        },
+        {
+            "score": 0.5852000117301941,
+            "description": "Summer Camp Music Festival"
+        },
+        {
+            "score": 0.521399974822998,
+            "description": "Electricity"
+        },
+        {
+            "score": 0.4230000078678131,
+            "description": "Caterpillar Inc."
+        },
+        {
+            "score": 0.36469998955726624,
+            "description": "Rock concert"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.catrentalstore.com/en_US/specialtydivisions/rental-power/_jcr_content/root/responsivegrid_695813821/responsivegrid_969720642/ttac.coreimg.jpeg/1614960406694/image.img.jpeg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=473718761604502",
+        "https://s3.eu-central-1.amazonaws.com/z3r2zxopa4uuqpw5a4ju/geomil/images/services/rental-equipment.jpg",
+        "https://www.iij.ad.jp/sustainability/materiality01/climate/images/climate04.jpg",
+        "https://structuralcomposites.com/wp-content/uploads/2022/09/1021-cw-feature-trinityrail-reefer-1-1024x576.jpg",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFePdWfAqc_JA/feedshare-shrink_800/feedshare-shrink_800/0/1722928061800?e=2147483647&v=beta&t=iTKQ9Qja5H_UTK-Gw0CsaoShmXjAxLueT05hITewtiA",
+        "https://i.ebayimg.com/thumbs/images/g/sqoAAOSwnlJn4wTn/s-l1200.jpg",
+        "https://www.ara.com/wp-content/uploads/DSC_5588-scaled.jpg",
+        "https://www.masslive.com/resizer/v2/BNJWBM5PXBDL3CKJYUJY55PE3Y.jpg?auth=436f810728a4869366c0a4b7f77ea66c132b37fb829abb4bf1d8715ddcd25f3f&width=800&quality=90",
+        "https://www.stuartgroup.co.uk/media/generators/products/1215/images/SDMO.jpg"
+    ]
+}

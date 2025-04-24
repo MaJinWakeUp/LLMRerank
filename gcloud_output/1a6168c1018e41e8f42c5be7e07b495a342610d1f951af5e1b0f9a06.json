@@ -1,0 +1,135 @@
+{
+    "best_guess_labels": [
+        "trump vs biden gas prices"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.politifact.com/factchecks/2021/may/27/facebook-posts/yes-prices-are-higher-under-biden-recovery-pandemi/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static.politifact.com/politifact/photos/JoeBidensAmericaHalfTrue.png"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/Melanie4NM/posts/it-is-truly-an-honor-to-have-the-support-of-president-joe-biden-i-am-running-for/926843764762198/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=804549930484137"
+            ]
+        },
+        {
+            "url": "https://www.instagram.com/donaldjtrumpjr/p/CPYKc5-lMEl/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2582860353160659237"
+            ]
+        },
+        {
+            "url": "https://www.maggiehowell.art/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images.squarespace-cdn.com/content/v1/5dd85171b5f58444c2158e62/1624890611258-CKDLOV4SEXFOKUP0696X/Joe+Biden%27s+America+v.2.png?format=500w"
+            ]
+        },
+        {
+            "url": "https://x.com/RepChrisStewart/status/1401997361304457217",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/E3SycrGWEAQgT5F?format=jpg&name=4096x4096",
+                "https://pbs.twimg.com/media/E3SycrGWEAQgT5F.jpg",
+                "https://pbs.twimg.com/media/E3SycrGWEAQgT5F.jpg:large"
+            ]
+        },
+        {
+            "url": "https://x.com/dominiquespadav",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/E1wlzMOXoAAPn_Y.jpg",
+                "https://pbs.twimg.com/media/E1wlzMOXoAAPn_Y?format=jpg&name=4096x4096"
+            ]
+        },
+        {
+            "url": "https://twitter.com/dannychance",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/E1wlzMOXoAAPn_Y?format=jpg&name=4096x4096",
+                "https://pbs.twimg.com/media/E1wlzMOXoAAPn_Y.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/SpeakerMcCarthy/status/1397885412950093831",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/E1wlzMOXoAAPn_Y.jpg"
+            ]
+        },
+        {
+            "url": "https://www.linkedin.com/in/john-baker-437148",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4E22AQHBACIUMCfHgA/feedshare-shrink_800/feedshare-shrink_800/0/1621809602724?e=2147483647&v=beta&t=fRcoZnBlzh1iUJ_Kz-DGRsBK6tZolzouPLSI-Wxy-Sc"
+            ]
+        },
+        {
+            "url": "https://www.linkedin.com/posts/tommy-r-38589898_activity-6802362505986404352-1eWX",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4E22AQHBACIUMCfHgA/feedshare-shrink_800/feedshare-shrink_800/0/1621809602724?e=2147483647&v=beta&t=fRcoZnBlzh1iUJ_Kz-DGRsBK6tZolzouPLSI-Wxy-Sc"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.7135000228881836,
+            "description": "Bidenomics"
+        },
+        {
+            "score": 0.5950499773025513,
+            "description": "United States"
+        },
+        {
+            "score": 0.48969998955726624,
+            "description": "Presidency of Joe Biden"
+        },
+        {
+            "score": 0.396699994802475,
+            "description": ""
+        },
+        {
+            "score": 0.38109999895095825,
+            "description": "Price"
+        },
+        {
+            "score": 0.34869998693466187,
+            "description": "expensive"
+        },
+        {
+            "score": 0.3262999951839447,
+            "description": "America First"
+        },
+        {
+            "score": 0.28999999165534973,
+            "description": "Money"
+        },
+        {
+            "score": 0.24809999763965607,
+            "description": "settled"
+        },
+        {
+            "score": 0.2272000014781952,
+            "description": "Tariff"
+        }
+    ],
+    "visually_similar_images": [
+        "https://piktochart.com/wp-content/uploads/2021/12/large-1007-308x1245.jpg",
+        "https://piktochart.com/wp-content/uploads/2021/06/large-19-308x871.jpg",
+        "https://static-cse.canva.com/blob/1917582/640w-E1WS-iMx2h0.jpg",
+        "https://piktochart.com/wp-content/uploads/2021/09/list-infographic-example-724x1024.png",
+        "https://unstats.un.org/sdgs/report/2022/img/info/Goal-1-infographic.jpg",
+        "https://cdn.who.int/media/images/default-source/health-topics/deafness-and-hearing-loss/world-report-on-hearing/world-report-on-hearing---infographic-afro.tmb-549v.jpg?sfvrsn=783cc275_5",
+        "https://piktochart.com/wp-content/uploads/2021/06/large-50-308x1848.jpg",
+        "https://uit.stanford.edu/sites/default/files/images/2023/09/05/Mobile-Device-Security-at-Stanford-Infographic.png",
+        "https://sjukast.is/wp-content/uploads/2024/03/Sjukast_kynlif_plakat_ENS-1128x1600.jpg",
+        "https://piktochart.com/wp-content/uploads/2021/09/hiring-statistics-infographic-724x1024.png"
+    ]
+}

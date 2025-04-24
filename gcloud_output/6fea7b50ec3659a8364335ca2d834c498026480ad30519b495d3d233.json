@@ -1,0 +1,68 @@
+{
+    "best_guess_labels": [
+        "screenshot"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://genkimaru1.livedoor.blog/archives/2199966.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://image.space.rakuten.co.jp/d/strg/ctrl/9/038ad0b4212df4aeee8bd266734ad23a14b175a3.64.9.9.3.jpeg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.630299985408783,
+            "description": "Israel"
+        },
+        {
+            "score": 0.4969499707221985,
+            "description": "Europe"
+        },
+        {
+            "score": 0.4933500289916992,
+            "description": "Japan"
+        },
+        {
+            "score": 0.4636499881744385,
+            "description": "United States"
+        },
+        {
+            "score": 0.420199990272522,
+            "description": ""
+        },
+        {
+            "score": 0.40860000252723694,
+            "description": "Jewish people"
+        },
+        {
+            "score": 0.3312999904155731,
+            "description": ""
+        },
+        {
+            "score": 0.328900009393692,
+            "description": ""
+        },
+        {
+            "score": 0.3103269934654236,
+            "description": "Screenshot"
+        },
+        {
+            "score": 0.3091000020503998,
+            "description": ""
+        }
+    ],
+    "visually_similar_images": [
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rqbk4btknyamgpgfxzkwfgqr/bafkreictkqvo2dsagpcufdvet56bkqzh2nuousepksgi4vkmqfeiic25iy@jpeg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:izhzrsdfs6sek6w55kokrojm/bafkreie5fj6eohnjr4foadjijx5nijka4rdz3wwesnelvpqfmjwsumnfqa@jpeg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3596696283144075658",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DFYKKXrujh3/1/image.jpg",
+        "https://i.cbc.ca/1.7486459.1742306425!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/trump-truth-on-denying-pardons.jpg?im=",
+        "https://uit.stanford.edu/sites/default/files/images/Screenshot%202025-02-07%20at%2010.09.50.png",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3584512244830119422",
+        "https://i.redd.it/eke6l9bsihqe1.jpeg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ilzhrzkar3icae4mfyupmqp/bafkreiauzpt6tjhgeowtecvewoix3soeqmrhlnlicsyaerdfpxp3nnoczm@jpeg",
+        "https://i.redd.it/mods-of-the-main-league-subreddit-with-8m-members-got-v0-k902wpp90fqe1.png?width=938&format=png&auto=webp&s=50d7093fcd4dad5624c6ddc2f91f6c390bfb990c"
+    ]
+}

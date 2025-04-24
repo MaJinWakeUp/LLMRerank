@@ -1,0 +1,140 @@
+{
+    "best_guess_labels": [
+        "meryl streep subway"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.buzzfeednews.com/article/annehelenpetersen/why-we-all-wanted-that-meryl-streep-facebook-post-to-be-real",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/13/17/enhanced/webdr01/longform-original-28829-1447454119-10.png?downsize=700%3A%2A&output-quality=auto&output-format=auto",
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/15/9/enhanced/webdr15/longform-original-22046-1447599184-4.jpg?crop=1570:1043;0,0&resize=1250:830",
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/15/9/enhanced/webdr15/longform-original-22046-1447599184-4.jpg?crop=1570:1043;0,0&resize=1250:830&template=bfn-twitter-template&title=UHVibGlzaGVkIE5vdiAyMDE1&pill-width=199&logo-pos-x=167",
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/15/9/enhanced/webdr15/longform-original-22046-1447599184-4.jpg?fill=1200:675",
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/15/9/enhanced/webdr15/enhanced-buzz-wide-22046-1447599187-8.jpg",
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/15/9/enhanced/webdr15/enhanced-mid-22046-1447599183-2.jpg",
+                "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/13/17/enhanced/webdr01/enhanced-mid-28829-1447454118-8.png"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/meryl-streep-subway-audition/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.snopes.com/uploads/2019/09/streep_fb.jpg"
+            ]
+        },
+        {
+            "url": "https://www.newyorker.com/culture/cultural-comment/meryl-streeps-twenties-and-my-own",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.newyorker.com/photos/59097660ebe912338a377be8/master/pass/Schulman-Meryl-Streeps-Twenties1.jpg",
+                "https://media.newyorker.com/photos/59097660ebe912338a377be8/16:9/w_1280,c_limit/Schulman-Meryl-Streeps-Twenties1.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/LauraraMonique/status/999529054666539008",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/Dd8KPXSVAAEDklX.jpg:large",
+                "https://pbs.twimg.com/media/Dd8KPXSVAAEDklX.jpg"
+            ]
+        },
+        {
+            "url": "https://www.life.com/history/notes-from-underground-celebrating-the-new-york-city-subway/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static.life.com/wp-content/uploads/2019/10/11173619/01269175-e1570815379524-1024x668.jpg"
+            ]
+        },
+        {
+            "url": "https://srilanka.factcrescendo.com/english/meryl-streeps-subway-photo/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i0.wp.com/srilanka.factcrescendo.com/english/wp-content/uploads/2023/03/Post-No-04-KALNA.png?fit=622%2C420&ssl=1"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/pics/comments/1bnpps2/meryl_streep_in_an_nyc_subway_train_during_the/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/wrsy66tqtjqc1.png"
+            ]
+        },
+        {
+            "url": "https://www.thejournal.ie/fake-photo-of-meryl-streep-rejected-from-king-kong-5691240-Mar2022/",
+            "full_matching_images": [
+                "https://img2.thejournal.ie/inline/5691401/original/?width=360&version=5691401",
+                "https://img2.thejournal.ie/article/5691240/river/?height=400&version=5691406"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.life.com/page/56/?p=0",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static.life.com/wp-content/uploads/2019/10/11173619/01269175-e1570815379524-1024x668.jpg"
+            ]
+        },
+        {
+            "url": "https://www.telegraph.co.uk/news/worldnews/northamerica/usa/11988870/Meryl-Streep-told-she-was-too-ugly-to-act-in-King-Kong.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.telegraph.co.uk/multimedia/archive/03497/Meryl_Streep_faceb_3497812b.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 14.791500091552734,
+            "description": "Meryl Streep"
+        },
+        {
+            "score": 0.7572000026702881,
+            "description": "The Post"
+        },
+        {
+            "score": 0.5990999937057495,
+            "description": "Photograph"
+        },
+        {
+            "score": 0.5393999814987183,
+            "description": "Actor"
+        },
+        {
+            "score": 0.4936000108718872,
+            "description": "Image"
+        },
+        {
+            "score": 0.43790000677108765,
+            "description": "Academy Awards"
+        },
+        {
+            "score": 0.4341999888420105,
+            "description": "famous"
+        },
+        {
+            "score": 0.41965001821517944,
+            "description": "Picture Collection"
+        },
+        {
+            "score": 0.296099990606308,
+            "description": "just"
+        },
+        {
+            "score": 0.29109999537467957,
+            "description": "Meredith"
+        }
+    ],
+    "visually_similar_images": [
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHFvxsbAQMU/0/image.jpg",
+        "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/20/15/subbuzz/grL3wgzvp.jpg",
+        "https://nongamstopcasinos.net/gb/wp-content/uploads/2024/02/Ninewin_user_review_2.png",
+        "https://images.squarespace-cdn.com/content/v1/5f427f6147051f6a19bc0f5c/2b3646c0-d629-4f7c-98e5-1519dd6793be/Screenshot+2023-11-16+at+8.56.07%E2%80%AFPM.png",
+        "https://media.licdn.com/dms/image/v2/D4E22AQEj8oB3--JG2A/feedshare-shrink_800/B4EZTLE.pkGgAg-/0/1738573869021?e=2147483647&v=beta&t=HYVspB-YdavDDxU8tqpCUmxpXoWdUbc47uqCk2d9IPE",
+        "https://nongamstopcasinos.net/gb/wp-content/uploads/2024/02/Betti_user_review_1.png",
+        "https://i.dailymail.co.uk/1s/2025/02/13/00/95152989-14391271-_Because_the_area_is_so_broad_they_no_longer_feel_comfortable_cu-a-118_1739408080209.jpg",
+        "https://files.mastodon.social/media_attachments/files/114/210/604/036/691/740/original/8bc9d9a45427cdc2.webp",
+        "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2157230576/settings_images/180ae7-b65c-a01f-d5b5-6ac1041234d_1.1.PNG",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/BSMnAPgcvtiRy-Lm6mDRkw/348s.jpg"
+    ]
+}

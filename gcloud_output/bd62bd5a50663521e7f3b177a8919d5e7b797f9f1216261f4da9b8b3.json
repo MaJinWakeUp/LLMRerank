@@ -1,0 +1,23 @@
+{
+    "best_guess_labels": [
+        "number"
+    ],
+    "web_entities": [
+        {
+            "score": 0.28700000047683716,
+            "description": "Meter"
+        }
+    ],
+    "visually_similar_images": [
+        "https://play-lh.googleusercontent.com/uAl52qylIQxmzolOUrYKOudIz1PJrAJ6kOZV8Z1ExZrnObZhgW8eaoyvE74L0v2isxo",
+        "https://docs.mapbox.com/playground/assets/ideal-img/ev-charge-finder.a284343.960.png",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=674174111855354",
+        "https://cdn.prod.website-files.com/6050a76fa6a633d5d54ae714/66439744b4c5a2a436779119_img_2.webp",
+        "https://docs.mapbox.com/playground/assets/ideal-img/directions-playground.788824b.960.png",
+        "https://filelist.tudelft.nl/TUDelft/Onderwijs/Voorlichting_en_ervaren/Campus%20tours/screen3.png",
+        "https://lh3.googleusercontent.com/aVg3aR0OUinJe01E9OpEh3CJlwb7ILD4IV5k_asbHnRxLIqXkMr5hAvKUlRB7EY5Cb_iP_aV8PQN3vKHwz5GXRUVENxLVcMUiK4Nz4I=w1660",
+        "https://developers.arcgis.com/documentation/static/nearby-places-carousel-a9e561cdb8ce07cac3c443d96ba010d6.png",
+        "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/11/viewing-an-area-in-the-default-view-in-osmand.PNG",
+        "https://mobirise.com/amp-website-builder/assets/images/maps-1180x7871-700x467.png"
+    ]
+}

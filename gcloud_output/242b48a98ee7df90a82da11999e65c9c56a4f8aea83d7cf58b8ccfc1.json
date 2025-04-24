@@ -1,0 +1,96 @@
+{
+    "best_guess_labels": [
+        "tree"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=1321183387925756&id=131965493514224&set=a.1321182931259135",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1321183387925756"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=1321183387925756&id=131965493514224&set=a.1321182931259135",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1321183387925756"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/media/set/?set=a.1321182931259135.1073741978.131965493514224&type=3",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1321183387925756"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/TheWorldOutdoors/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1321183387925756"
+            ]
+        },
+        {
+            "url": "https://babylonbee.com/news/ken-ham-arrested-for-vandalizing-grand-canyon-signs-to-read-just-4400-years-old",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.babylonbee.com/articles/article-1716.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.6611550450325012,
+            "description": "Grand Canyon"
+        },
+        {
+            "score": 0.5479650497436523,
+            "description": "South Rim Trail"
+        },
+        {
+            "score": 0.44449999928474426,
+            "description": "Image"
+        },
+        {
+            "score": 0.4197600483894348,
+            "description": "Grand Canyon National Park Sign"
+        },
+        {
+            "score": 0.40210503339767456,
+            "description": "Rim Trail"
+        },
+        {
+            "score": 0.3995000123977661,
+            "description": "National park"
+        },
+        {
+            "score": 0.3506999909877777,
+            "description": "just"
+        },
+        {
+            "score": 0.2815999984741211,
+            "description": "other"
+        },
+        {
+            "score": 0.27730000019073486,
+            "description": "available"
+        },
+        {
+            "score": 0.27309998869895935,
+            "description": "succeeding"
+        }
+    ],
+    "visually_similar_images": [
+        "https://media.licdn.com/dms/image/v2/C5622AQHhioC2-7A-YA/feedshare-shrink_800/feedshare-shrink_800/0/1656255650972?e=2147483647&v=beta&t=w2MUc-WViGncTZ4MQ0CZ_QK5OEaSYSIvbL0VvP8ZLCo",
+        "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MYTKG2EWQCDFN5UKNHRJ2QT4BA.JPG",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3590384598374887310",
+        "https://www.lowellsun.com/wp-content/uploads/2021/11/LOW-L-maskVaxProtest23-1.jpg?w=620",
+        "https://d.newsweek.com/en/full/1867163/critical-race-theory-protester-virginia.webp?w=1600&h=900&q=88&f=7c0b5d3a6158f1dd60b57cc6ece9cc1a",
+        "https://www.humanities.mcmaster.ca/wp-content/uploads/2025/03/Alan-Walker-with-Franz-Liszt-Avenue-sign-Oct.-19961.jpg",
+        "https://thehuddle.com/wp-content/uploads/sites/74/2024/01/USATSI_22274629.jpg?w=480",
+        "https://pbs.twimg.com/media/Gmq59FAbAAA2UX6.jpg",
+        "https://media.licdn.com/dms/image/v2/C5612AQHQ2-eS2yiW0A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1598969291127?e=2147483647&v=beta&t=sfmr4zgOsySdx5XaZG7OX7hqNafu77L1zfZZ-kET0Oo",
+        "https://www.thoughtco.com/thmb/-4zeGjpYCuxpY6Hew-cnVTGwhq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-803039-f3f7560e32214656811babfd578bd526.jpg"
+    ]
+}

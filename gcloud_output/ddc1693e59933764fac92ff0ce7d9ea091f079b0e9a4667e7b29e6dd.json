@@ -4,20 +4,6 @@
     ],
     "pages_with_matching_images": [
         {
-            "url": "https://www.pinterest.com/pin/845480530022567682/",
-            "full_matching_images": [
-                "https://i.pinimg.com/170x/cb/26/f3/cb26f30d2df1766fee8369fba63ae99d.jpg"
-            ],
-            "partial_matching_images": []
-        },
-        {
-            "url": "https://in.pinterest.com/pin/lesser-known-history--132152570308806673/",
-            "full_matching_images": [
-                "https://i.pinimg.com/170x/cb/26/f3/cb26f30d2df1766fee8369fba63ae99d.jpg"
-            ],
-            "partial_matching_images": []
-        },
-        {
             "url": "https://www.flickr.com/photos/mattyp/14442809",
             "full_matching_images": [
                 "https://live.staticflickr.com/9/14442809_8bccae4a07.jpg"
@@ -27,8 +13,7 @@
         {
             "url": "https://za.pinterest.com/rsausa73/mining-curiosities/",
             "full_matching_images": [
-                "https://i.pinimg.com/236x/8d/84/2a/8d842acad67302cc6705a29cc7432ef5.jpg",
-                "https://i.pinimg.com/736x/8d/84/2a/8d842acad67302cc6705a29cc7432ef5.jpg"
+                "https://i.pinimg.com/236x/8d/84/2a/8d842acad67302cc6705a29cc7432ef5.jpg"
             ],
             "partial_matching_images": []
         },
@@ -40,11 +25,21 @@
             "partial_matching_images": []
         },
         {
+            "url": "https://www.wgtn.ac.nz/scps/for-secondary-schools/teachers-days-materials/zincovery-and-mint-innovation.pdf",
+            "full_matching_images": [],
+            "partial_matching_images": []
+        },
+        {
             "url": "https://www.extrin.com.au/clients/",
             "full_matching_images": [],
             "partial_matching_images": [
                 "https://image.jimcdn.com/app/cms/image/transf/dimension=238x10000:format=jpg/path/s69712eb099d24adf/image/i8bedf141dd44a255/version/1446687358/mining-industry.jpg"
             ]
+        },
+        {
+            "url": "https://ofsaustralia.org.au/wp-content/uploads/2021/09/2016-Summer-Newsletter.pdf",
+            "full_matching_images": [],
+            "partial_matching_images": []
         },
         {
             "url": "https://www.africasurveyorsonline.com/western-australia-worlds-top-mining-destination-2020/",
@@ -61,70 +56,72 @@
             ]
         },
         {
-            "url": "https://ofsaustralia.org.au/wp-content/uploads/2021/09/2016-Summer-Newsletter.pdf",
-            "full_matching_images": [],
+            "url": "https://www.semashow.com/lv-mechanic-mining-jobs-wa/",
+            "full_matching_images": [
+                "https://lh5.googleusercontent.com/proxy/ea-kiL8qo-TxHL9VUouDi4N0y4S2ep4D1aGc82oG6CszSp8GvJqPcOTgA20ozTTjJHCOBGd7z8Tkdfdze0MaoxWelOgBopcQ8QkC=s0-d"
+            ],
             "partial_matching_images": []
         },
         {
-            "url": "https://co.pinterest.com/pin/401875966735715347/",
+            "url": "https://comicsahoy.com/lv-mechanic-fifo-jobs-in-all-australia/",
             "full_matching_images": [
-                "https://i.pinimg.com/736x/b8/5d/5c/b85d5c0450d3d1c877875f996ce211b7.jpg"
+                "https://lh5.googleusercontent.com/proxy/ea-kiL8qo-TxHL9VUouDi4N0y4S2ep4D1aGc82oG6CszSp8GvJqPcOTgA20ozTTjJHCOBGd7z8Tkdfdze0MaoxWelOgBopcQ8QkC=s0-d"
             ],
             "partial_matching_images": []
         }
     ],
     "web_entities": [
         {
-            "score": 0.9995999932289124,
-            "description": "Super Pit"
-        },
-        {
-            "score": 0.9684000015258789,
-            "description": "Fimiston"
-        },
-        {
-            "score": 0.8892000317573547,
-            "description": "KCGM Super Pit Lookout"
-        },
-        {
-            "score": 0.8589000105857849,
+            "score": 1.5381176471710205,
             "description": "Kalgoorlie - Boulder"
         },
         {
-            "score": 0.7307000160217285,
-            "description": "Mining"
+            "score": 0.9509995579719543,
+            "description": "Super Pit"
         },
         {
-            "score": 0.6434000134468079,
-            "description": "Gold mining"
+            "score": 0.8748663663864136,
+            "description": "KCGM Super Pit Lookout"
         },
         {
-            "score": 0.6057000160217285,
-            "description": "Open-pit mining"
-        },
-        {
-            "score": 0.5806000232696533,
-            "description": "Coal mining"
-        },
-        {
-            "score": 0.4708000123500824,
+            "score": 0.7756802439689636,
             "description": "Extrin - Consultants in Corrosion Management"
         },
         {
-            "score": 0.45879998803138733,
-            "description": "Coal"
+            "score": 0.7319999933242798,
+            "description": "Mining"
+        },
+        {
+            "score": 0.6237066388130188,
+            "description": "Premium Mechanical Group"
+        },
+        {
+            "score": 0.5270000100135803,
+            "description": "Gold mining"
+        },
+        {
+            "score": 0.5256999731063843,
+            "description": "Coal mining"
+        },
+        {
+            "score": 0.44119998812675476,
+            "description": "BHP"
+        },
+        {
+            "score": 0.44119998812675476,
+            "description": ""
         }
     ],
     "visually_similar_images": [
-        "https://media.licdn.com/dms/image/v2/D5610AQFZ7qPT_RtmSA/image-shrink_800/image-shrink_800/0/1715292020258?e=2147483647&v=beta&t=f-e7SyW59Lo2M9H5-Zeiin6JHsA9TjXVnLewNh1Rb8Q",
-        "https://images.ecestaticos.com/R5u1h_XGUJgPYU-mdJ_z1ktPAO0=/0x0:1000x750/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fff2%2Fb31%2F418%2Fff2b314186f7029e100080b1ee2e65f1.jpg",
-        "https://www.euractiv.fr/wp-content/uploads/sites/3/2023/10/shutterstock_1801987330-800x450.jpg",
-        "x-raw-image:///e218afc5a6eae32f60219f3c9bcef6d1e1b30f243ba00bb980e6c476c620302e",
-        "https://kghm.com/sites/default/files/styles/original_image/public/2022-07/kghm_robinson_mine_usa.jpg.webp?itok=l82Cy6hI",
         "https://media.licdn.com/dms/image/v2/C5112AQFuGl__2bcLnQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1563048202479?e=2147483647&v=beta&t=h9n-hamlqoltzHQYYb9ECe_B_Dmrga4rrdxgMnZAf7Q",
-        "https://www.angolaconsulateny.org/wp-content/uploads/2018/12/angola-diamonds-645x436.jpg",
-        "https://images.newscientist.com/wp-content/uploads/2018/05/02102312/gettyimages-474928137.jpg",
-        "https://waterenvtech.com/wp-content/uploads/2023/08/iStock-1162039814-1500x630.jpg",
-        "https://www.shmh.de/app/uploads/2023/11/matthew-de-livera-unsplash-992x558.jpg"
+        "https://www.euractiv.fr/wp-content/uploads/sites/3/2023/10/shutterstock_1801987330-800x600.jpg",
+        "https://pbs.twimg.com/card_img/1903820405082898432/LsukFe6f?format=jpg&name=900x900",
+        "https://www.sigdokoppers.cl/content/uploads/mining-bannerbild-16x9-1-scaled-e1688087770251.webp",
+        "https://wx1.sinaimg.cn/orj360/00865H4agy1hg3jah1xogj30rs0hu42e.jpg",
+        "https://portal.andina.pe/EDPfotografia3/Thumbnail/2024/09/30/001103953M.jpg",
+        "https://static.wixstatic.com/media/8bb536_334a701685804c959310f5f450bbe636~mv2.jpg/v1/fill/w_900,h_285,al_c,q_80,enc_avif,quality_auto/8bb536_334a701685804c959310f5f450bbe636~mv2.jpg",
+        "https://www.greenpeace.org/japan/wp/wp-content/uploads/2022/02/8b6b118e-gp0sto8yo_medium_res_with_credit_line-1.jpg",
+        "https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2024-12/AdobeStock_123395206_cropped.jpg?VersionId=ehQI0EfLoa0uU6sUdX.axGLxoqVWApfa&h=266da715&itok=z6aGBRew",
+        "https://d1i4t8bqe7zgj6.cloudfront.net/10-22-2024/t_d53c945c9e8d4d3ebb0210dc3be29317_name_OZGREENENERGY_MINE.jpg"
     ]
 }

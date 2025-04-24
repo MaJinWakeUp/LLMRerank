@@ -1,0 +1,131 @@
+{
+    "best_guess_labels": [
+        "babylon bee my first"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://twitter.com/TheBabylonBee/status/1343957451759087619",
+            "full_matching_images": [
+                "https://pbs.twimg.com/card_img/1884281013016346624/s1QHxVek?format=jpg&name=large"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://babylonbee.com/news/fisher-price-introduces-supreme-court-protest-playhouse-that-can-be-vandalized-and-burned-down",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://babylonbee.com/",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://babylonbee.com/news/ninth-circuit-court-overturns-death-of-ruth-bader-ginsburg",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.prevention.com/health/g27483727/how-to-get-rid-of-ticks/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://hips.hearstapps.com/hmg-prod/images/fenced-yard-royalty-free-image-490264255-1557952852.jpg"
+            ]
+        },
+        {
+            "url": "https://www.open-softech.com/?o=199990414",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://babylonbee.com/news/democrats-post-job-listing-for-supreme-court-nominee-accusers",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.lamon.hr/?l=71954117",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.frenchkissevents.ca/journal?offset=1504837358198&category=Office+Talk",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images.squarespace-cdn.com/content/v1/5500a617e4b093393be28356/1501623877665-EI2KLJE5GJGHMEADHQ42/1-Backyard-Tree-Ideas-iStock.jpg?format=750w"
+            ]
+        },
+        {
+            "url": "https://www.rithvikpipe.com/?r=69292415",
+            "full_matching_images": [
+                "https://media.babylonbee.com/articles/article-7050-1.jpg"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9751999974250793,
+            "description": "Fisher-Price"
+        },
+        {
+            "score": 0.6202499866485596,
+            "description": "Supreme Court of the United States"
+        },
+        {
+            "score": 0.49399998784065247,
+            "description": "Fisher Price My First Dollhouse"
+        },
+        {
+            "score": 0.41119998693466187,
+            "description": "Fisher-Price Loving Family"
+        },
+        {
+            "score": 0.3652999997138977,
+            "description": "Playhouse"
+        },
+        {
+            "score": 0.35850000381469727,
+            "description": "Fisher-Price"
+        },
+        {
+            "score": 0.3398999869823456,
+            "description": "Little Tikes"
+        },
+        {
+            "score": 0.3398999869823456,
+            "description": ""
+        },
+        {
+            "score": 0.32670000195503235,
+            "description": "Fisher-price My First Dollhouse with Mommy, Daddy, and Baby Figures"
+        },
+        {
+            "score": 0.3246000111103058,
+            "description": "Dollhouse"
+        }
+    ],
+    "visually_similar_images": [
+        "https://media.babylonbee.com/articles/article-7050-1.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=941830993659885",
+        "https://www.brindisireport.it/~media/horizontal-hi/38181296709223/foto-lfl-2.jpg",
+        "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/numbers0218-1569254890.jpg",
+        "https://childrenslibrarylady.com/wp-content/uploads/House.jpg",
+        "https://www.association-roseau.fr/asso/wp-content/uploads/2024/11/241123-GRINYLAND-2.jpg",
+        "https://sallilaenergia.fi/site/assets/files/2352/haara_110_kv_rajattu.522x321.jpg",
+        "https://media.gettyimages.com/id/96392118/photo/mother-and-daughter-painting-together.jpg?s=612x612&w=gi&k=20&c=xnUk_bJIr8Vz-dyLdTKCLum_H93UTu0ex9odlBxeMEA=",
+        "https://fagbladet.no/image-3.525765.105233.20211118112157.e0d96370c0?size=512",
+        "https://static.bonniernews.se/ba/95ab52dc-0070-4192-b968-9557caaf4b11.jpeg?width=1200&format=pjpg&auto=webp"
+    ]
+}

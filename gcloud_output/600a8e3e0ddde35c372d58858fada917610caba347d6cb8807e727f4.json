@@ -1,0 +1,129 @@
+{
+    "best_guess_labels": [
+        "self portrait by famous artists"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://moya2017.wordpress.com/artist-self-portraits/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i0.wp.com/mymodernmet.com/wp/wp-content/uploads/2017/04/famous-self-portraits-16.jpg"
+            ]
+        },
+        {
+            "url": "https://www.pinterest.com/pin/251146116717990462/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.pinimg.com/736x/40/d7/fd/40d7fd3dad9ec7827556d8f9dd6bb811.jpg"
+            ]
+        },
+        {
+            "url": "https://www.pinterest.com/pin/selfportrait-antoni-caba-google-arts-culture--897201556987382471/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.pinimg.com/736x/0f/6a/0b/0f6a0b1059164bd072b9385e5a3295b4.jpg"
+            ]
+        },
+        {
+            "url": "https://www.fpbcpg.org/wp-uop.php?wbbl=brr797928563&cid=220&g=14&m=2",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "http://mymodernmet.com/wp/wp-content/uploads/2017/04/famous-self-portraits-16.jpg"
+            ]
+        },
+        {
+            "url": "https://christophertyler.org/wp-content/uploads/2019/02/Leo_JAMA_with_suplt.pdf",
+            "full_matching_images": [],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://micaramel.wordpress.com/2017/05/01/iconic-artists-who-have-immortalized-themselves-through-famous-self-portraits/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "http://bit.ly/2qpzVwV"
+            ]
+        },
+        {
+            "url": "https://www.fpbcpg.org/wp-uop.php?wbbl=brr797928562&cid=220&m=2&g=14",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "http://mymodernmet.com/wp/wp-content/uploads/2017/04/famous-self-portraits-16.jpg"
+            ]
+        },
+        {
+            "url": "https://arthur.io/art/leonardo-da-vinci/self-portrait",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://arthur.io/img/jpg/thumb/0001734490e0d263d.jpg"
+            ]
+        },
+        {
+            "url": "https://www.voucherix.co.uk/arts-and-crafts/canvas/famous-self-portraits/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.voucherix.co.uk/wp-content/uploads/2021/02/famous-self-portraits-da-vinci.jpg"
+            ]
+        },
+        {
+            "url": "https://utpaqp.edu.pe/explore/best-self-portrait-artist",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mymodernmet.com/wp/wp-content/uploads/2017/04/famous-self-portraits-16.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 10.92750072479248,
+            "description": "Leonardo da Vinci"
+        },
+        {
+            "score": 1.0986000299453735,
+            "description": "Portrait"
+        },
+        {
+            "score": 0.9127500057220459,
+            "description": "Portrait of a Man in Red Chalk"
+        },
+        {
+            "score": 0.812999963760376,
+            "description": "Mona Lisa"
+        },
+        {
+            "score": 0.7753499746322632,
+            "description": "Self-Portrait with Beret and Turned-Up Collar"
+        },
+        {
+            "score": 0.7390000224113464,
+            "description": "Self-portrait"
+        },
+        {
+            "score": 0.7240999937057495,
+            "description": "Artist"
+        },
+        {
+            "score": 0.7017999887466431,
+            "description": "Art"
+        },
+        {
+            "score": 0.6549999713897705,
+            "description": "Painting"
+        },
+        {
+            "score": 0.6152999997138977,
+            "description": "Portrait painting"
+        }
+    ],
+    "visually_similar_images": [
+        "https://static.boredpanda.com/blog/wp-content/uploads/2015/11/famous-last-words-108__700.jpg",
+        "https://i.imgur.com/BXomJotl.jpg",
+        "https://i.redd.it/dpnblhq6rzqe1.jpeg",
+        "https://preview.redd.it/the-hardest-battles-is-the-one-within-v0-pk4som3vvnoe1.jpg?width=640&crop=smart&auto=webp&s=f0c8e48a9182d40b4d04c9c13b7f1382bd2c744a",
+        "https://external-preview.redd.it/i-could-care-less-v0-9pf4YpmXOR1dDtj25ZfJTVLcRRsoCMR80sbYAPf8omI.jpg?auto=webp&s=baacf6c10e3e0d70cd2c3dd85140e517572adf7d",
+        "https://pbs.twimg.com/media/GZaUzdlWEAEyDcc.png",
+        "https://i.redd.it/r6t7w32j3owd1.jpeg",
+        "https://i.scdn.co/image/ab67616d0000b2732a6826587f0be7e6f4d66468",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430178827451470313",
+        "https://i.pinimg.com/originals/a6/65/85/a66585e51bb561aa34da905346190e0e.png"
+    ]
+}

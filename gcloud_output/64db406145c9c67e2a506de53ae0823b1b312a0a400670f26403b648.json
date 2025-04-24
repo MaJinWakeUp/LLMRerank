@@ -1,0 +1,139 @@
+{
+    "best_guess_labels": [
+        "ukraine praying"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.imb.org/2019/09/25/standing-on-our-knees-praying-for-ukraine/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.imb.org/wp-content/uploads/2022/03/on-our-knees-1024x683.jpg",
+                "https://www.imb.org/wp-content/uploads/2019/09/standing-knees.jpg"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/vladhungrygen/posts/pray-for-ukraine-this-week-this-conflict-with-russia-has-been-going-on-for-the-p/509854763839258/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=509854710505930"
+            ]
+        },
+        {
+            "url": "https://twitter.com/EugeneCho/status/1496727380177522692",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/FMVxnLDVIAE2YJt.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://wordandway.org/2019/10/14/ukrainian-believers-standing-on-our-knees/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://wordandway.org/wp-content/uploads/2019/10/BP-Ukraine-prayer-1200x800.jpg",
+                "https://wordandway.org/wp-content/uploads/2019/10/BP-Ukraine-prayer.jpg"
+            ]
+        },
+        {
+            "url": "https://www.goldhill.org/how-to-pray-for-ukraine/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.goldhill.org/wp-content/uploads/Ukraine-Banner.png"
+            ]
+        },
+        {
+            "url": "https://www.imb.org/ukraine",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.imb.org/wp-content/uploads/2022/03/on-our-knees-1024x683.jpg"
+            ]
+        },
+        {
+            "url": "https://www.godreports.com/2019/10/why-have-these-ukrainians-been-praying-every-day-on-their-knees-for-five-years/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "http://godreports.com/wp-content/uploads/2019/10/on-our-knees-2000x1333.jpg"
+            ]
+        },
+        {
+            "url": "https://www.altnews.in/old-image-of-people-of-ukrain-praying-in-the-snow-shared-as-recent-ongoing-conflict/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.altnews.in/wp-content/uploads/2022/02/word-image-21.jpeg",
+                "https://www.altnews.in/wp-content/uploads/2022/02/mayavati-bjp-vot-2-1.jpg",
+                "https://www.altnews.in/wp-content/uploads/2022/02/word-image-22.jpeg",
+                "https://www.altnews.in/wp-content/uploads/2022/02/2022-02-24-18_35_24-14-Ukrainian-Christians-pray-outdoors-in-the-snow-for-their-country-in-the-p.jpg",
+                "https://www.altnews.in/wp-content/uploads/2022/02/2022-02-24-18_35_34-14-Ukrainian-Christians-pray-outdoors-in-the-snow-for-their-country-in-the-p.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/marijana_petir/status/1495833090350108675",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/FMJERLvXMAAKNTU.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://newsmeter.in/fact-check/fact-check-no-viral-photo-of-ukrainians-praying-is-not-recent-but-from-2019-692011",
+            "full_matching_images": [
+                "https://newsmeter.in/h-upload/2022/02/25/316305-new-project-16.webp",
+                "https://newsmeter.in/h-upload/2022/02/25/316306-pasted-image-0-5.webp",
+                "https://newsmeter.in/h-upload/2022/02/25/316305-new-project-16.jpg"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.1007000207901,
+            "description": "Ukraine"
+        },
+        {
+            "score": 0.7373999953269958,
+            "description": "Russian invasion of Ukraine"
+        },
+        {
+            "score": 0.7337999939918518,
+            "description": ""
+        },
+        {
+            "score": 0.7243499755859375,
+            "description": "Russo-Ukrainian War"
+        },
+        {
+            "score": 0.4909500181674957,
+            "description": "Russia"
+        },
+        {
+            "score": 0.4666999876499176,
+            "description": "History of Christianity in Ukraine"
+        },
+        {
+            "score": 0.4058000147342682,
+            "description": "Ukrainians"
+        },
+        {
+            "score": 0.4025999903678894,
+            "description": ""
+        },
+        {
+            "score": 0.39149999618530273,
+            "description": "Kneeling"
+        },
+        {
+            "score": 0.3273000121116638,
+            "description": ""
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.uio.no/english/images/studenter_vinter.jpg",
+        "https://cdn.uncf.org/wp-content/uploads/students/uncf_flickr_students_walking.jpg",
+        "https://en.irlc.msu.ru/assets/images/resources/2184/gr1s.jpg",
+        "https://www.un.org/sites/un2.un.org/files/minsk1.jpg",
+        "https://www.ltu.se/images/200.3eded986192bd271c0f206a/1729777706021/LTU_brand_79.jpg",
+        "https://image.sermitsiaq.ag/2202354.jpg?imageId=2202354&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=1058&height=688&format=webp&width=960&height=624&format=webp&format=jpg",
+        "https://images.sanoma-sndp.fi/b4d6b0f572ccb604cc0be65dacf81b21/normal/468.jpg",
+        "https://www.topuniversities.com/sites/default/files/styles/large/public/profiles-slideshow/294639/378161_RankingProfileImages_QS_824x426px_Augustana-1711041520.jpg",
+        "https://substackcdn.com/image/fetch/w_600,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94ff85f6-7fa3-4123-a6cc-4a6e1f56f2ae_1024x683.jpeg",
+        "https://www.ulaval.ca/sites/default/files/MEUL/%C3%89v%C3%A9nements/gdul-marche-active-600x400.png"
+    ]
+}

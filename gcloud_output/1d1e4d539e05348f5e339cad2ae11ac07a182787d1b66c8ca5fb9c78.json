@@ -1,0 +1,124 @@
+{
+    "best_guess_labels": [
+        "document"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.handright.co.uk/2022/10/17/the-meaning-behind-liz-trusss-signatures/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.handright.co.uk/wp-content/uploads/2022/10/Metro-letter.-Liz-Truss-signature.png"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11317373/Rebel-MPs-gather-takeaway-curries-seek-new-leader-avert-Tory-wipeout.html",
+            "full_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/14/22/63470663-11317373-Ms_Truss_responded_that_he_had_put_the_national_interest_first_-a-36_1665783179738.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11334463/Cabinet-ally-Liz-Truss-says-situation-terminal-1922-Committee-meet-TODAY.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/19/17/63641839-11332607-image-a-78_1666197429324.jpg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11335257/Even-Cabinet-loyalists-warn-Liz-Truss-recover-PM.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/19/17/63641839-11332607-image-a-78_1666197429324.jpg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11332607/Suella-Braverman-QUITS-Home-Secretary.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/19/17/63641839-11332607-image-a-78_1666197429324.jpg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11315763/Kwasi-Kwarteng-SACKED-Liz-Truss-takes-blame-mini-Budget-fallout.html",
+            "full_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/14/13/63470663-11315763-image-m-7_1665751359390.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://x.com/iandovaston",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/FfCIG4jX0AEdbEM?format=jpg&name=large"
+            ]
+        },
+        {
+            "url": "http://incubadora.uncaus.edu.ar/wp-readme.php?pg=dailymail_news/article-11334463/Cabinet-ally-Liz-Truss-says-situation-terminal-1922-Committee-meet-TODAY.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/19/17/63641839-11332607-image-a-78_1666197429324.jpg"
+            ]
+        },
+        {
+            "url": "https://news.knowledia.com/GB/en/articles/can-liz-truss-survive-as-pm-96bc4272e7756109d67d96c47f93e6ec48233ba1",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/19/17/63641839-11332607-image-a-78_1666197429324.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.7078930735588074,
+            "description": "Document"
+        },
+        {
+            "score": 0.661899983882904,
+            "description": "Letter"
+        },
+        {
+            "score": 0.5008000135421753,
+            "description": "Prime minister"
+        },
+        {
+            "score": 0.48579999804496765,
+            "description": "Conservative Party"
+        },
+        {
+            "score": 0.48579999804496765,
+            "description": ""
+        },
+        {
+            "score": 0.4690999984741211,
+            "description": "Handwriting"
+        },
+        {
+            "score": 0.45980000495910645,
+            "description": "Secretary of State for the Home Department"
+        },
+        {
+            "score": 0.45700758695602417,
+            "description": "Text"
+        },
+        {
+            "score": 0.45680001378059387,
+            "description": "Minister"
+        },
+        {
+            "score": 0.4366999864578247,
+            "description": "Signature"
+        }
+    ],
+    "visually_similar_images": [
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3542747625365893040",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ihpglfqq3dapqjmwl2ntktil/bafkreiaqvo7essvhekuu2f42uv5tx34ovzn6vghm7cjzibt5ozswwzeuxe@jpeg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHoz4Aaya0c/0/image.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHo4ipLSGqU/0/image.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3591378034050146990",
+        "https://int.nyt.com/data/documenthelper/6916-george-barnhill-letter-to-glyn/b52fa09cdc974b970b79/optimized/thumbnail.png",
+        "http://www.leviedeimercanti.it/wp-content/uploads/2015/10/0322-Prof.-Arch.-C.-Gambardella-705x1024.jpg",
+        "https://pbs.twimg.com/media/GmQrVR9bUAEiFQg?format=jpg&name=large",
+        "https://www.unfpa.org/sites/default/files/styles/common_style/public/resources-pdfpreview/6885b1dbd92f17e34b89ad9f67db678b.png?itok=SyMnOQGT",
+        "x-raw-image:///d2b948c7fc6ce5a51ed38b1d51f2ee88b05b02a78d78f690abd4c1c51f37c87f"
+    ]
+}

@@ -1,12 +1,12 @@
 {
     "best_guess_labels": [
-        "cows feeding on tomatoes"
+        "cow eating tomato"
     ],
     "pages_with_matching_images": [
         {
             "url": "https://dubawa.org/this-picture-of-cows-eating-tomatoes-is-not-from-nigeria/",
             "full_matching_images": [
-                "https://i0.wp.com/dubawa.org/wp-content/uploads/2021/03/cows-eating-tomatos.jpg"
+                "https://dubawa.org/wp-content/uploads/2021/03/cows-eating-tomatos.jpg"
             ],
             "partial_matching_images": []
         },
@@ -19,17 +19,17 @@
             "partial_matching_images": []
         },
         {
-            "url": "https://www.nairaland.com/6444090/photo-cattle-feeding-hausa-tomatoes",
-            "full_matching_images": [
-                "https://www.nairaland.com/attachments/13219999_1570016882232088028692231032593364425825856n_jpeg8ad51fc1f7acc3f484f9f8fd8f9dfd2c"
-            ],
-            "partial_matching_images": []
-        },
-        {
             "url": "https://humanglemedia.com/factcheck-cows-eating-tomatoes-picture-taken-in-india-not-nigeria/",
             "full_matching_images": [
                 "https://humanglemedia.com/wp-content/uploads/2021/03/Factcheck-Cows-Eating-Tomatoes-Picture-Taken-In-India-Not-Nigeria-720x470.jpg",
                 "https://humanglemedia.com/wp-content/uploads/2021/03/Factcheck-Cows-Eating-Tomatoes-Picture-Taken-In-India-Not-Nigeria.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.nairaland.com/6444090/photo-cattle-feeding-hausa-tomatoes",
+            "full_matching_images": [
+                "https://www.nairaland.com/attachments/13219999_1570016882232088028692231032593364425825856n_jpeg8ad51fc1f7acc3f484f9f8fd8f9dfd2c"
             ],
             "partial_matching_images": []
         },
@@ -62,74 +62,72 @@
             "partial_matching_images": []
         },
         {
-            "url": "https://www.facebook.com/TruthBeToldPage/?locale=hu_HU",
-            "full_matching_images": [],
-            "partial_matching_images": [
-                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1344770919236042",
-                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1344770929236041"
-            ]
+            "url": "https://dubawa.org/the-sierra-leone-football-team-did-not-travel-by-boat-to-cameroon-for-afcon2021-as-claimed-by-football-world/",
+            "full_matching_images": [
+                "https://dubawa.org/wp-content/uploads/2021/03/cows-eating-tomatos.jpg"
+            ],
+            "partial_matching_images": []
         },
         {
-            "url": "https://www.facebook.com/TruthBeToldPage/?locale=sr_RS",
-            "full_matching_images": [],
-            "partial_matching_images": [
-                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1344770919236042",
-                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1344770929236041"
-            ]
+            "url": "https://factcheckhub.com/fact-gauge/false/page/16/",
+            "full_matching_images": [
+                "https://factcheckhub.com/wp-content/uploads/2021/03/farmers-tomatoes-cattle.jpg"
+            ],
+            "partial_matching_images": []
         }
     ],
     "web_entities": [
         {
-            "score": 0.6720125675201416,
-            "description": "Cherry tomato"
-        },
-        {
-            "score": 0.6114000082015991,
-            "description": "Vegetable"
-        },
-        {
-            "score": 0.5784716606140137,
+            "score": 0.6133341789245605,
             "description": "Zebu"
         },
         {
-            "score": 0.5651999711990356,
+            "score": 0.5901000499725342,
+            "description": "Nigeria"
+        },
+        {
+            "score": 0.5679000020027161,
             "description": "Eating"
         },
         {
-            "score": 0.5498999953269958,
-            "description": "Plum tomato"
+            "score": 0.5605999827384949,
+            "description": "Vegetable"
         },
         {
-            "score": 0.4945000112056732,
+            "score": 0.5587872862815857,
+            "description": "Cherry tomato"
+        },
+        {
+            "score": 0.49059998989105225,
             "description": "Cattle feeding"
         },
         {
-            "score": 0.4883251488208771,
-            "description": "Bush tomato"
+            "score": 0.4560999870300293,
+            "description": "Plum tomato"
         },
         {
-            "score": 0.4699000120162964,
+            "score": 0.423799991607666,
             "description": "Stewed tomatoes"
         },
         {
-            "score": 0.4632999897003174,
-            "description": "Image"
+            "score": 0.42290830612182617,
+            "description": "Ox"
         },
         {
-            "score": 0.4119664430618286,
-            "description": "Ox"
+            "score": 0.420199990272522,
+            "description": "Image"
         }
     ],
     "visually_similar_images": [
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1445526245537367",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2131865860216775",
-        "x-raw-image:///dd89ddf0a334a9a8b618d68663b0a509fbc3516e5fa30fe54f47d8bb72413316",
-        "https://yurtsever.org.tr/wp-content/uploads/2021/05/nisan-ayinin-zam-sampiyonu-domates-444x250.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100092715640052",
-        "x-raw-image:///ed6595581b52bf9c6015fb82b02739d9f35b15500387b4bd80af5514892ed9e7",
-        "https://universidadagricola.com/wp-content/uploads/2017/02/DENUNCIA-COMPETENCIA-INDUSTRIA-TOMATE-696x449-1.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3575111616952143426",
-        "https://scpr.brightspotcdn.com/dims4/default/fb20557/2147483647/strip/true/crop/5431x3620+0+0/resize/880x587!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F110835_d91cc37bfeb70b1f2cfb3ca4489fa24b_original.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1034564788699594"
+        "https://img-cdn.thepublive.com/fit-in/1200x675/filters:format(webp)/sathyam/media/media_files/2025/03/24/tomato-farmers-in-madhyapradesh-4-750605.jpg",
+        "https://www.tiktok.com/api/img/?itemId=7468334610280336648&location=0&aid=1988",
+        "https://www.derelict.co.nz/images/536685/pid5585189/Ethiopia_04.PNG",
+        "https://aconteceunovale.com.br/portal/wp-content/uploads/2018/05/tomate.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=963534049108850",
+        "https://cdn.antaranews.com/cache/480x320/2019/07/17/antarafoto-kopi-arabika-160719-sen-1.jpg",
+        "https://media.licdn.com/dms/image/v2/D4D05AQH25Qhu-DdMCg/videocover-high/B4DZP8PWitGUBs-/0/1735103714706?e=2147483647&v=beta&t=yDg8zfLobGIwe3_3_VseXODhjRjReIxLpQXA7qBbuGI",
+        "https://static.toiimg.com/thumb/msid-84995226,width-1280,height-720,imgsize-1603500,resizemode-72,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "https://cdn.peraichi.com/userData/5cf7fcff-0a27-43c5-9e04-c43ad006c767/img/64a2a270d1d58/original.jpeg",
+        "https://www.tiktok.com/api/img/?itemId=7416342091992845574&location=0&aid=1988"
     ]
 }

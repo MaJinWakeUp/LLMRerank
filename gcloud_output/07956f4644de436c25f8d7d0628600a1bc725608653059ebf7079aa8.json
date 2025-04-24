@@ -1,0 +1,132 @@
+{
+    "best_guess_labels": [
+        "sewage system in bangalore"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://shapoorji.in/business-segments/water-utility-infra/va-tech-wabag-nagasandra-bangalore/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://shapoorji.in/wp-content/uploads/2017/03/50-MLD-Sewage-Treatment-Plant-at-Kadabesinahalli-Bangalore.jpg"
+            ]
+        },
+        {
+            "url": "https://shapoorji.in/business-segments/water-utility-infra/degremont-raja-canal-bangalore/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://shapoorji.in/wp-content/uploads/2017/03/50-MLD-Sewage-Treatment-Plant-at-Kadabesinahalli-Bangalore.jpg"
+            ]
+        },
+        {
+            "url": "https://shapoorji.in/business-segments/water-utility-infra/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://shapoorji.in/wp-content/uploads/2017/03/50-MLD-Sewage-Treatment-Plant-at-Kadabesinahalli-Bangalore.jpg"
+            ]
+        },
+        {
+            "url": "https://www.njsei.com/projects/bangalore-water-supply-and-sewerage-project-phase-ii-stage-iv-bangalore/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.njsei.com/wp-content/uploads/2024/01/Bangalore-3.jpg"
+            ]
+        },
+        {
+            "url": "https://www.njsei.com/what-we-do/projects/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.njsei.com/wp-content/uploads/2024/01/Bangalore-3.jpg"
+            ]
+        },
+        {
+            "url": "https://legacy.shapoorji.in/business-segments/water-utility-infra/va-tech-wabag-nagasandra-bangalore/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://legacy.shapoorji.in/wp-content/uploads/2017/03/50-MLD-Sewage-Treatment-Plant-at-Kadabesinahalli-Bangalore.jpg"
+            ]
+        },
+        {
+            "url": "https://www.justdial.com/Dehradun/Effluent-Treatment-Plants/nct-10180599",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://content.jdmagicbox.com/comp/dehradun/l1/9999px135.x135.191029142301.c7l1/catalogue/hydro-treat-technology-inc-dehradun-city-dehradun-effluent-treatment-plants-e60xhow1ty.jpg?clr="
+            ]
+        },
+        {
+            "url": "https://www.justdial.com/Dehradun/Sewage-Treatment-Plants/nct-10428551",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://content.jdmagicbox.com/comp/dehradun/l1/9999px135.x135.191029142301.c7l1/catalogue/hydro-treat-technology-inc-dehradun-city-dehradun-effluent-treatment-plants-e60xhow1ty.jpg?clr="
+            ]
+        },
+        {
+            "url": "https://www.indiamart.com/proddetail/1000-kld-containerized-sewage-treatment-plant-23285048391.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://5.imimg.com/data5/UW/DB/PS/SELLER-59846804/municipal-solid-waste-plant-500x500.jpg",
+                "https://5.imimg.com/data5/UW/DB/PS/SELLER-59846804/municipal-solid-waste-plant.jpg"
+            ]
+        },
+        {
+            "url": "https://www.indiamart.com/proddetail/sewage-treatment-plant-19526891833.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://5.imimg.com/data5/UW/DB/PS/SELLER-59846804/municipal-solid-waste-plant-250x250.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.0536000728607178,
+            "description": "Water"
+        },
+        {
+            "score": 0.7426000237464905,
+            "description": "Sewage treatment"
+        },
+        {
+            "score": 0.7218000292778015,
+            "description": "Sewage"
+        },
+        {
+            "score": 0.7091000080108643,
+            "description": "Sewerage"
+        },
+        {
+            "score": 0.7023000121116638,
+            "description": "Wastewater treatment"
+        },
+        {
+            "score": 0.7020000219345093,
+            "description": "Water supply"
+        },
+        {
+            "score": 0.7006999850273132,
+            "description": "Water treatment"
+        },
+        {
+            "score": 0.6700000166893005,
+            "description": "Raja Canal STP"
+        },
+        {
+            "score": 0.6399000287055969,
+            "description": "Wastewater"
+        },
+        {
+            "score": 0.6150000095367432,
+            "description": "Bangalore Water Supply and Sewerage Board"
+        }
+    ],
+    "visually_similar_images": [
+        "https://africacheck.org/sites/default/files/Kiambu-300x217.jpg",
+        "https://images.bhaskarassets.com/web2images/960/2024/02/28/1000200293_1709134518.jpg",
+        "https://www.cnww1985.com/upload/202102/05/202102051420442741.jpg",
+        "https://p4.itc.cn/q_70/images01/20220806/a3ed13af6d6048fe891d80cd752fba47.png",
+        "https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2016/09/08/01_cetp_savar-leather-industrial-estate_slie_harindhara_08092016_011.jpg",
+        "https://i.ytimg.com/vi/mYlMS4Ovawg/mqdefault.jpg",
+        "https://3.imimg.com/data3/EY/DB/MY-2035077/photo0024.jpg",
+        "https://l450v.alamy.com/450v/2kame76/the-central-effluent-treatment-plant-cetp-in-savar-tannery-industrial-estate-near-dhaka-bangladesh-on-april-9-2017-tannery-shifting-starts-from-hazaribag-to-savar-tannery-industrial-estate-near-dhaka-more-than-40-tannery-already-starts-their-production-in-the-savar-tannery-industrial-estate-and-about-110-tanneries-setup-their-machinery-making-infrastructure-and-others-in-savar-near-dhaka-bangladesh-photo-by-mamunur-rashidnurphoto-please-use-credit-from-credit-field-2kame76.jpg",
+        "http://www.xtgnj.com/uploads/200531/1-200531151234H3.jpg",
+        "http://www.likeqing.com/uploads/20220919/a278376fb0c37342b8afff385826f278.jpg"
+    ]
+}

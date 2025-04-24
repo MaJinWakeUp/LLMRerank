@@ -1,0 +1,110 @@
+{
+    "best_guess_labels": [
+        "graphic design"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://libguides.hope.edu/fakenews/examples",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0c8900e7-1240-4530-b321-e18e9e2194f2%2Fdwppqasw4ausrnp.jpg?table=block&id=7e3c3a4c-adcb-4173-9bb4-29d72776ae36&width=1630&cache=v2"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/pajama-non-party/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2018/06/zara_childen_clothing_concentration_camp.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/is-oral-sex-still-illegal/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2017/12/States_where_oral_sex_is_illegal_meme_feature.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/?pagenum=616",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.snopes.com/2018/02/wayne_lapierre_1999_quote.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/rating/mostly-true/?pagenum=19",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/02/wayne_lapierre_1999_quote.jpg"
+            ]
+        },
+        {
+            "url": "https://www.oldecastlebar.com/?o=166201412",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2018/06/zara_childen_clothing_concentration_camp.jpg"
+            ]
+        },
+        {
+            "url": "https://www.aspectu.com.br/?a=166201412",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2018/06/zara_childen_clothing_concentration_camp.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 4.0289998054504395,
+            "description": "Wayne LaPierre"
+        },
+        {
+            "score": 0.5335000157356262,
+            "description": "Brace position"
+        },
+        {
+            "score": 0.476500004529953,
+            "description": "ZARA"
+        },
+        {
+            "score": 0.476500004529953,
+            "description": ""
+        },
+        {
+            "score": 0.3364499807357788,
+            "description": "Airplane"
+        },
+        {
+            "score": 0.3147999942302704,
+            "description": "inaccurate"
+        },
+        {
+            "score": 0.2824000120162964,
+            "description": "Meme"
+        },
+        {
+            "score": 0.27900001406669617,
+            "description": "Snopes"
+        },
+        {
+            "score": 0.26179999113082886,
+            "description": "Jacket"
+        },
+        {
+            "score": 0.23000000417232513,
+            "description": "School"
+        }
+    ],
+    "visually_similar_images": [
+        "https://media.licdn.com/dms/image/v2/D4E22AQHFulOvDTxdsg/feedshare-shrink_800/B4EZW0VLdOHcAk-/0/1742487210645?e=2147483647&v=beta&t=NasGwQwgCxpVVEQmD05Ax1zS8Yr-D6LAzRFm59Wksdk",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565775344014015105",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3590548399319674617",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3571870903935921164",
+        "https://pbs.twimg.com/media/Gm2hhx_b0AA2slw?format=jpg&name=large",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:74lqtzlqfqg35g4dyys7ges3/bafkreiag6mgbrq4nqjdwxsmei2moyfnihx2y23u2u7r6bra3g4pgvvedva@jpeg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHkv15nulXU/0/image.jpg",
+        "https://feed.mikle.com/support/wp-content/uploads/sites/2/2020/01/Fade-effect.gif",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1305022244264212",
+        "https://media.licdn.com/dms/image/v2/D4E22AQGEC8bTYt0vfw/feedshare-shrink_800/feedshare-shrink_800/0/1719192871801?e=2147483647&v=beta&t=hEuppWYZLG4ZwRHstNCztJr2xatuRZ-mO-K7WdGebxA"
+    ]
+}

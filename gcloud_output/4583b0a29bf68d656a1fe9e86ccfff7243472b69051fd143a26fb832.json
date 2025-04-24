@@ -1,0 +1,51 @@
+{
+    "best_guess_labels": [
+        "atlas"
+    ],
+    "web_entities": [
+        {
+            "score": 0.5083649754524231,
+            "description": "Ireland"
+        },
+        {
+            "score": 0.3982093036174774,
+            "description": "Diagram"
+        },
+        {
+            "score": 0.34119999408721924,
+            "description": "COVID-19"
+        },
+        {
+            "score": 0.3183000087738037,
+            "description": "Image"
+        },
+        {
+            "score": 0.30809998512268066,
+            "description": ""
+        },
+        {
+            "score": 0.28380000591278076,
+            "description": "Meter"
+        },
+        {
+            "score": 0.260699987411499,
+            "description": "Death"
+        },
+        {
+            "score": 0.0,
+            "description": "Ireland"
+        }
+    ],
+    "visually_similar_images": [
+        "https://original.antiwar.com/wp-content/uploads/2023/02/statista-ukraine.jpg",
+        "https://equitablegrowth.org/wp-content/uploads/2023/05/the-beveridge-curve-typically-shows-that-when-unemployments-falls-vacancies-increase-1080x921.png",
+        "https://www.tiktok.com/api/img/?itemId=7388812932240477447&location=0&aid=1988",
+        "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1186%2F1756-6606-7-22/MediaObjects/13041_2014_Article_264_Fig1_HTML.jpg",
+        "https://foreignpolicy.com/wp-content/uploads/2018/09/2_taiwan_china_missiles_092518.jpg",
+        "http://bfi.uchicago.edu/wp-content/uploads/2020/09/Kaplan_Moll_Violante_Fig1-1-1.jpg",
+        "https://cdn.statcdn.com/Infographic/images/teaser/26213.jpeg",
+        "https://ember-energy.org/app/uploads/2022/09/UK-power-capacity-region.png",
+        "https://images.contentstack.io/v3/assets/blt8ede3f648df7664a/blt6bf2f80a56c8017a/66a027b281a8f6cc35d3f453/RPI_-_July_map.png",
+        "https://images.squarespace-cdn.com/content/v1/5644e871e4b0ab88c6bd74c8/79be98bd-5c2e-44b6-97b9-316754084814/Virginia%27s+CRS+Communities+Graphic.png"
+    ]
+}

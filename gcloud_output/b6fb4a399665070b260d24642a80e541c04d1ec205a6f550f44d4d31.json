@@ -1,0 +1,139 @@
+{
+    "best_guess_labels": [
+        "paris third world"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://apnews.com/article/4475540003",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://dims.apnews.com/dims4/default/e5cd8f9/2147483647/strip/false/crop/512x741+0+0/resize/512x741!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A4512120002%2F512.jpeg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-3366190/The-World-shanty-town-heart-Paris-Roma-gypsies-create-village-built-rubbish-scrap-one-Europe-s-great-cities.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/i/pix/2015/12/18/17/2F7C224F00000578-0-image-a-12_1450461485330.jpg"
+            ]
+        },
+        {
+            "url": "https://www.pinterest.com/pin/541909767669782494/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.pinimg.com/736x/7e/e4/66/7ee4663f6c439cc666766314cdd60883.jpg"
+            ]
+        },
+        {
+            "url": "https://factcheck.afp.com/image-shows-roma-camp-north-paris",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/nigeria/awawa.png?itok=R8yMdr5I"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/pics/comments/m1qp4u/the_side_of_paris_many_dont_see/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/852yy8sz35m61.jpg",
+                "https://preview.redd.it/852yy8sz35m61.jpg?width=640&crop=smart&auto=webp&s=54127ef5ad00018cbe251bc3dc913903268c8521",
+                "https://b.thumbs.redditmedia.com/A06sqZ7UHxCCrCJyt5y4JCp7qvxxm2nvxZw_vR0xe_U.jpg"
+            ]
+        },
+        {
+            "url": "https://twitter.com/amerix/status/1749323608596349403",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/GEbYjPPWkAAKdLo.jpg:large"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/9z79i9/paris_france/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/et9ebbinzqz11.jpg",
+                "https://preview.redd.it/et9ebbinzqz11.jpg?width=640&crop=smart&auto=webp&s=fbdf7a55a7e544560f0d6ae4041acb562aad899e"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/conditions-in-los-angeles/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2019/09/not-los-angeles-snopes.jpg",
+                "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2019/09/not-los-angeles-snopes.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2019/09/not-los-angeles-snopes.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2019/09/not-los-angeles-snopes.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2019/09/not-los-angeles-snopes.jpg",
+                "https://www.snopes.com/uploads/2019/09/meme-3.jpg"
+            ]
+        },
+        {
+            "url": "https://imgflip.com/m/politics?sort=latest&after=3prr2g",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.imgflip.com/3pnd3v.jpg"
+            ]
+        },
+        {
+            "url": "https://exhale.breatheheavy.com/forums/topic/840644-which-continent-has-the-best-cities/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://preview.redd.it/et9ebbinzqz11.jpg?width=640&crop=smart&auto=webp&s=fbdf7a55a7e544560f0d6ae4041acb562aad899e"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9085890054702759,
+            "description": "Paris"
+        },
+        {
+            "score": 0.8102999925613403,
+            "description": "Shanty town"
+        },
+        {
+            "score": 0.5145999789237976,
+            "description": ""
+        },
+        {
+            "score": 0.39945000410079956,
+            "description": "Los Angeles"
+        },
+        {
+            "score": 0.3946499824523926,
+            "description": "Bulgaria"
+        },
+        {
+            "score": 0.3928000032901764,
+            "description": "Poverty"
+        },
+        {
+            "score": 0.33239999413490295,
+            "description": "Funny meme"
+        },
+        {
+            "score": 0.3012000024318695,
+            "description": "Shack"
+        },
+        {
+            "score": 0.2957000136375427,
+            "description": "just"
+        },
+        {
+            "score": 0.28110000491142273,
+            "description": "Third World"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/02/19/67b628e80fb1b.r_d.1533-1340-4000.jpeg",
+        "https://media.licdn.com/dms/image/v2/C4E12AQHCcLZh72pMzA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520140304099?e=2147483647&v=beta&t=eK1QKuofNLJenM9x5FwIk-OnisCz7MeYlRVdsY79zqY",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DFIQhw4y1kf/0/image.jpg",
+        "https://pbs.twimg.com/media/Gm3eqa4bsAAQl_r.jpg",
+        "https://i.guim.co.uk/img/media/4a20d417facb59510fe2544fc985ad94d0d2185b/0_200_6000_3600/master/6000.jpg?width=700&quality=85&auto=format&fit=max&s=7c3c6fb14f93bb59c12e4124170f799b",
+        "https://static.dw.com/image/70394036_902.jpg",
+        "https://static01.nyt.com/images/2024/10/02/multimedia/00lebanon-sectarianism-01-lpzh/00lebanon-sectarianism-01-lpzh-googleFourByThree.jpg",
+        "https://fs2-ct24.ceskatelevize.cz/image/YTdkNzg5ZDYxMjFlNGJlOevpiojZuqQY2oIkUkqv4wywKhqqyQJFS64gqbFpuHcXTkVqMGSWGHTed7V8TNBOYLJsRQZ5XEywWiheLFtukTte3tkUoM4xfe3sfUCcXlUUULSo8FWce4lIqwazbEIAKKycZxgXWrtPE-X3t6fAYB1Z7TSixqzVMPAnpntqYp2F.JPG",
+        "https://lastatic.ams3.cdn.digitaloceanspaces.com/2024/07/20240708_zip_s311_004-1024x683.jpg",
+        "https://cdn.hk01.com/di/media/images/dw/20231025/793700004303998976107593.jpeg/kdRkw-jdHYNAFIaCdGpGwt3zC-94Xrod9MM1_e7DNf0"
+    ]
+}

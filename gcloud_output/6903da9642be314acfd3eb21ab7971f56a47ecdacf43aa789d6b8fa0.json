@@ -1,0 +1,131 @@
+{
+    "best_guess_labels": [
+        "masque"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.facebook.com/OdaneDSage/posts/elon-musk-says-he-advised-his-billionaire-friend-kanye-west-about-his-recent-twe/1300532790534478/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=817044772871977"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=10160359255358598&id=25427813597&set=a.112071118597&locale=hi_IN",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5108569445924864"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=10160359255358598&id=25427813597&set=a.112071118597&locale=sl_SI",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5108569445924864"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/photo.php?fbid=10160359255358598&id=25427813597&set=a.112071118597&locale=de_DE",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5108569445924864"
+            ]
+        },
+        {
+            "url": "https://penpushing.com.ng/author/admin/page/636/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://penpushing.com.ng/wp-content/uploads/2022/02/Osinbajo-dispenses-petrol-in-Lagos-390x220.jpg"
+            ]
+        },
+        {
+            "url": "https://www.thecable.ng/audio-tell-parents-im-trouble-nurse-abducted-rann-speaks/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.thecable.ng/wp-content/uploads/2018/03/Osinbajo-at-gas-station10.jpg"
+            ]
+        },
+        {
+            "url": "https://energyworthonline.com.ng/2017/12/25/osinbajo-dispenses-petrol-in-lagos/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lh3.googleusercontent.com/-I216AIjoSlQ/WkDqMNl2CAI/AAAAAAAAAJE/nziFubNa9posH58C8ntHMmjD0ldUJC4jwCHMYCw/%255BUNSET%255D"
+            ]
+        },
+        {
+            "url": "https://penpushing.com.ng/what-is-the-most-suitable-punishment-for-kidnappers/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://penpushing.com.ng/wp-content/uploads/2022/02/Osinbajo-dispenses-petrol-in-Lagos-390x220.jpg"
+            ]
+        },
+        {
+            "url": "https://www.thecable.ng/ipob-igbo-never-honest-leaders-ziks-greed-landed-us-present-mess/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.thecable.ng/wp-content/uploads/2018/03/Osinbajo-at-gas-station10.jpg"
+            ]
+        },
+        {
+            "url": "https://www.thecable.ng/adeboye-76-why-rccg-pastor-vowed-not-to-call-him-again/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.thecable.ng/wp-content/uploads/2018/03/Osinbajo-at-gas-station10.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.6528000235557556,
+            "description": ""
+        },
+        {
+            "score": 0.47680050134658813,
+            "description": "Lagos"
+        },
+        {
+            "score": 0.30169999599456787,
+            "description": "just"
+        },
+        {
+            "score": 0.2791000008583069,
+            "description": "create"
+        },
+        {
+            "score": 0.2718999981880188,
+            "description": "Pastor"
+        },
+        {
+            "score": 0.23170000314712524,
+            "description": "Fuel"
+        },
+        {
+            "score": 0.22779999673366547,
+            "description": "available"
+        },
+        {
+            "score": 0.2222999930381775,
+            "description": "The Redeemed Christian Church Of God"
+        },
+        {
+            "score": 0.21539999544620514,
+            "description": "satisfactory"
+        },
+        {
+            "score": 0.02306400239467621,
+            "description": "Nigeria"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.kunsthallezurich.ch/images/makeartpepe_web.jpg?w=1600",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHInkrUzHET/1/image.jpg",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHcAYKgbtnZ3g/feedshare-shrink_800/feedshare-shrink_800/0/1732175529754?e=2147483647&v=beta&t=fh_AgB-ZOyaRngZHHXsCxWReyF3c5bgeHLD5jkF6bQk",
+        "https://i.ytimg.com/vi/fupAYZu5orw/hqdefault.jpg",
+        "https://i.ytimg.com/vi/wrLwCB9v9gU/hqdefault.jpg",
+        "https://i.ytimg.com/vi/pnmRYRRDbuw/hqdefault.jpg",
+        "https://media.licdn.com/dms/image/v2/D5622AQHU798ePdhl_w/feedshare-shrink_800/feedshare-shrink_800/0/1733887640459?e=2147483647&v=beta&t=zj9sUaIMI2VV9znG2_3Txhy307f6Mrn8Owh4r1LDYU4",
+        "https://i.ytimg.com/vi/s5cl2OLjff8/hqdefault.jpg",
+        "https://preview.redd.it/magadh-expansion-2-0-v0-gwgd7grtpuqe1.jpeg?width=640&crop=smart&auto=webp&s=9322f2fd7bad40acb8774fa02a616823909acb3c",
+        "https://img.buzzfeed.com/buzzfeed-static/static/2017-11/25/21/asset/buzzfeed-prod-fastlane-01/sub-buzz-21786-1511662425-3.png?fill=625:625"
+    ]
+}

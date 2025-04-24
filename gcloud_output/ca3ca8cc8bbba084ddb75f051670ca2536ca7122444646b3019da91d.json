@@ -1,0 +1,132 @@
+{
+    "best_guess_labels": [
+        "Meme"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://imgflip.com/memesearch?q=congress",
+            "full_matching_images": [
+                "https://i.imgflip.com/4/24wokr.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.memedroid.com/memes/detail/2030640?refGallery=random&page=156&goComments=1",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images3.memedroid.com/images/UPLOADED57/58d904c94a91c.jpeg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/tag/congress/?pagenum=2",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.snopes.com/2018/01/congress_hard_at_work_facebook_feature.jpg"
+            ]
+        },
+        {
+            "url": "https://tocatdelbolet.cat/en/tag/british-english-expressions/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://tocatdelbolet.cat/wp-content/uploads/2020/03/kip.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/latest/?pagenum=768",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/01/congress_hard_at_work_facebook_feature.jpg",
+                "https://media.snopes.com/2018/01/congress_hard_at_work_facebook_feature.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/rating/miscaptioned/?pagenum=38",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/01/congress_hard_at_work_facebook_feature.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/author/dan/?pagenum=116",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/01/congress_hard_at_work_facebook_feature.jpg"
+            ]
+        },
+        {
+            "url": "https://pt.memedroid.com/memes/detail/2030640",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images3.memedroid.com/images/UPLOADED57/58d904c94a91c.jpeg"
+            ]
+        },
+        {
+            "url": "https://pt.memedroid.com/memes/latest?ts=1490628607",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images3.memedroid.com/images/UPLOADED57/58d904c94a91c.jpeg"
+            ]
+        },
+        {
+            "url": "https://pt.memedroid.com/memes/latest?ts=1490630419",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images3.memedroid.com/images/UPLOADED57/58d904c94a91c.jpeg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 5.219999313354492,
+            "description": "Paul Ryan"
+        },
+        {
+            "score": 1.051200032234192,
+            "description": "Dan Evon"
+        },
+        {
+            "score": 0.9275000095367432,
+            "description": "Snopes"
+        },
+        {
+            "score": 0.7182000279426575,
+            "description": "Meme"
+        },
+        {
+            "score": 0.7056000232696533,
+            "description": "Funny meme"
+        },
+        {
+            "score": 0.6098999977111816,
+            "description": "Internet meme"
+        },
+        {
+            "score": 0.6043000221252441,
+            "description": "Memedroid"
+        },
+        {
+            "score": 0.5846999883651733,
+            "description": "Kim Lacapria"
+        },
+        {
+            "score": 0.4968999922275543,
+            "description": "Member of Congress"
+        },
+        {
+            "score": 0.39719998836517334,
+            "description": "Imgflip"
+        }
+    ],
+    "visually_similar_images": [
+        "https://i.insider.com/677ecf3d8951662c9f1f44ad?width=600&format=jpeg&auto=webp",
+        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F518832d9-9e30-41ac-8582-46c9184f44e4.jpg?source=next&fit=scale-down&dpr=2&width=240",
+        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffbb6d135-dbbc-4183-ab61-67c1d9278810.jpg?source=next&fit=scale-down&dpr=2&width=240",
+        "https://content.api.news/v3/images/bin/5576bccd192113c8b22acb4b85f551af",
+        "https://media.licdn.com/dms/image/v2/D4E22AQGFpd09q8oL7Q/feedshare-shrink_800/B4EZXHYSXRGYAg-/0/1742806788378?e=2147483647&v=beta&t=tOesqUKT8aCy4VMwUm8cl2OyEAfqm1xrmtZxxtWBkJ0",
+        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F166ac004-2879-409c-9247-c621601cc981.jpg?source=next&fit=scale-down&dpr=2&width=340",
+        "https://www.archivioluce.com/wp-content/uploads/2024/04/MP00026875.jpeg",
+        "https://mediacdn.cincopa.com/v2/1024159/609!N2kEAI6HpDAytA/4/276.jpg",
+        "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2012/12/esa_pe/12176698-1-eng-GB/esa_pe_card_medium.jpg",
+        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F161a30d3-bcb8-454d-bdcf-bff5d0509b04.jpg?source=next&fit=scale-down&dpr=2&width=240"
+    ]
+}

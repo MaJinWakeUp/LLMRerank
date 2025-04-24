@@ -1,0 +1,135 @@
+{
+    "best_guess_labels": [
+        "texting and walking"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://fortune.com/2016/02/18/texting-while-walking/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://fortune.com/img-assets/wp-content/uploads/2016/02/gettyimages-507988140.jpg?w=1440&q=75",
+                "https://fortune.com/img-assets/wp-content/uploads/2016/02/gettyimages-507988140.jpg?resize=1200,600"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/pics/comments/4414oo/a_road_sign_warns_drivers_that_they_may_encounter/",
+            "full_matching_images": [
+                "https://external-preview.redd.it/f0m1cBKxVCMuiI-vXqO06-YjaejaBJ27NudK5duDFfg.jpg?auto=webp&s=212c4549ab9979b5c2bddd749038670ce767d702"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://m.facebook.com/story.php?story_fbid=1616817898517406&id=555443977988142",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1616817898517406"
+            ]
+        },
+        {
+            "url": "https://fortune.com/tag/texting/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://fortune.com/img-assets/wp-content/uploads/2016/02/gettyimages-507988140.jpg?w=1440&q=75"
+            ]
+        },
+        {
+            "url": "https://www.cbc.ca/news/canada/british-columbia/ubc-study-distracted-pedestrians-1.4768984",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.cbc.ca/1.3829319.1477929611!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/afp-7l7cx.jpg?im=Resize%3D780",
+                "https://i.cbc.ca/1.3829319.1477929611!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/afp-7l7cx.jpg",
+                "https://i.cbc.ca/1.3829319.1477929611!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/afp-7l7cx.jpg?im=Resize%3D620",
+                "https://i.cbc.ca/1.3829319.1477929611!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/afp-7l7cx.jpg"
+            ]
+        },
+        {
+            "url": "https://www.shutterstock.com/search/man-walking-looking-at-phone?page=17",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.shutterstock.com/image-illustration/warning-sign-men-women-looking-260nw-1824208994.jpg"
+            ]
+        },
+        {
+            "url": "https://www.shutterstock.com/search/pedestrian-looking-phone?image_type=illustration",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.shutterstock.com/image-illustration/warning-sign-men-women-looking-260nw-1824208994.jpg"
+            ]
+        },
+        {
+            "url": "https://www.telegraph.co.uk/news/worldnews/europe/sweden/12139462/Road-signs-warn-pedestrians-not-to-use-smartphones.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.telegraph.co.uk/multimedia/archive/03567/sign_3567030b.jpg"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=qjsFqQcS7Q0",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/65mJ_wfeIvQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCAIfYK1M9ynPwnidgqzZ6uvSXfpA"
+            ]
+        },
+        {
+            "url": "https://www.bringingyourtechtolife.com/post/evolution-of-man",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static.wixstatic.com/media/f5db00_d08c0d0e452e4903b32555643c4dfd08~mv2.jpg/v1/fill/w_274,h_184,al_c,q_80,enc_avif,quality_auto/f5db00_d08c0d0e452e4903b32555643c4dfd08~mv2.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.894188404083252,
+            "description": "Traffic sign"
+        },
+        {
+            "score": 0.650600016117096,
+            "description": "Text messaging"
+        },
+        {
+            "score": 0.6407999992370605,
+            "description": "Pedestrian"
+        },
+        {
+            "score": 0.6262999773025513,
+            "description": "Smartphone"
+        },
+        {
+            "score": 0.6147000193595886,
+            "description": "Mobile Phone"
+        },
+        {
+            "score": 0.5273000001907349,
+            "description": "Walking"
+        },
+        {
+            "score": 0.4537000060081482,
+            "description": "Telephone"
+        },
+        {
+            "score": 0.4505000114440918,
+            "description": "Traffic"
+        },
+        {
+            "score": 0.42239999771118164,
+            "description": "Road"
+        },
+        {
+            "score": 0.40529999136924744,
+            "description": "Sign"
+        }
+    ],
+    "visually_similar_images": [
+        "https://media.tag24.de/951x634/4/9/49g1a5bgrqq03yj029010qbn9ekzcpjw.jpg",
+        "https://www.telfs.at/system/web/GetImage.ashx?fileId=2407214&cts=638424623084130000&mode=T&height=450&width=800&cropping=CENTER",
+        "https://mid.sachsen-anhalt.de/fileadmin/_processed_/8/4/csm_Bauprogramm-News-kl_2733113791.jpg",
+        "https://www.stuttgarter-zeitung.de/media.media.41c97e5d-6f27-40e1-915e-40f4cefb1a51.16x9_700.jpg",
+        "https://dov.vlaanderen.be/sites/default/files/styles/manual600x250/public/news/road-work-1148205_1280.jpg?itok=t_mLBnvf",
+        "https://www.wko.at/GenticsImageStore/424/238/cropandresize/smart/0/165/3200/1796/wien/verkehr-betriebsstandort/08-baustellen-in-der-josefstadt-cwkwsussitz.jpg",
+        "https://oekastatic.orf.at/mims/2019/34/80/crops/w=259,h=145,q=90,r=2/263771_master_78980_work-3773605.jpg?s=be6e049ced2020814413ac571e8049401f606824",
+        "https://media.tag24.de/951x634/9/f/9fjkxc7qx19uy09l6w775kflz78o9lrz.jpg",
+        "https://www.stuttgarter-zeitung.de/media.media.68118db4-c5b1-439d-95fc-ec9d017cb48d.16x9_700.jpg",
+        "https://www.ostwestfalen.ihk.de/fileadmin/_processed_/2/5/csm_091_0911_Ortsumgehung_Ummeln_5f984c1e28_a9c46e8ea7.jpg"
+    ]
+}

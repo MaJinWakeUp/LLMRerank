@@ -1,0 +1,27 @@
+{
+    "best_guess_labels": [
+        "screenshot"
+    ],
+    "web_entities": [
+        {
+            "score": 0.34283390641212463,
+            "description": "Screenshot"
+        },
+        {
+            "score": 0.28360000252723694,
+            "description": "Meter"
+        }
+    ],
+    "visually_similar_images": [
+        "https://int.nyt.com/data/videotape/finished/2021/10/1635630258/bb_testimony_additional_video_final_v2-900w.jpg",
+        "https://www.tiktok.com/api/img/?itemId=7101792992020794630&location=0&aid=1988",
+        "https://www.tiktok.com/api/img/?itemId=7220163501204065541&location=0&aid=1988",
+        "https://media.licdn.com/dms/image/v2/D4E10AQE0_049NRCyLw/image-shrink_800/image-shrink_800/0/1722898213930?e=2147483647&v=beta&t=kh5411hY2uB38I59IOE8RgyQSWbisjoA8LNH0ePQPJQ",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DGolp0ETKoe/0/image.jpg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dldcnyesank4vsiztlbxwzcd/bafkreigonnuoydye5aqj3mlpiyleo2pq3uzx3cjwv6ygnewdqqknc2zmn4@jpeg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3556259790967800332",
+        "https://www.waterboards.ca.gov/board_info/media/jul2016/072016.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3593522668230628957",
+        "https://www.tiktok.com/api/img/?itemId=7041936060640808193&location=0&aid=1988"
+    ]
+}

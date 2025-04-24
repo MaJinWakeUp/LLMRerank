@@ -11,20 +11,6 @@
             ]
         },
         {
-            "url": "https://m.facebook.com/WakeAndBaconVA/photos/this-week-explore-park-has-that-crazy-long-christmas-light-display-we-gonna-have/2600042720229855/",
-            "full_matching_images": [],
-            "partial_matching_images": [
-                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2600042720229855"
-            ]
-        },
-        {
-            "url": "https://www.facebook.com/lanhamites/",
-            "full_matching_images": [],
-            "partial_matching_images": [
-                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3082597381985282"
-            ]
-        },
-        {
             "url": "https://www.huffpost.com/entry/10-mini-donald-trumps-who-make-halloween-great-again_n_562e4a80e4b0443bb5649342",
             "full_matching_images": [],
             "partial_matching_images": [
@@ -37,6 +23,13 @@
                 "https://i.pinimg.com/236x/3d/89/ca/3d89ca262c9d7f45a1048f9c4f693181.jpg"
             ],
             "partial_matching_images": []
+        },
+        {
+            "url": "https://www.snopes.com/category/photos/?pagenum=59",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg"
+            ]
         },
         {
             "url": "https://www.snopes.com/author/dan/?pagenum=105",
@@ -53,83 +46,86 @@
             "partial_matching_images": []
         },
         {
-            "url": "https://www.snopes.com/fact-check/?pagenum=578",
+            "url": "https://www.snopes.com/tag/americas-last-line-of-defense/?pagenum=12",
             "full_matching_images": [],
             "partial_matching_images": [
                 "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg"
             ]
         },
         {
-            "url": "https://www.snopes.com/tag/the-last-line-of-defense/",
+            "url": "https://www.snopes.com/tag/donald-Trump/?pagenum=60",
             "full_matching_images": [],
             "partial_matching_images": [
                 "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg"
             ]
         },
         {
-            "url": "https://www.snopes.com/fact-check/was-child-expelled-trump-costume/",
+            "url": "https://www.playpennies.com/features/20-of-the-best-kids-costumes-ever-167198",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "http://www.playpennies.com/media/images/2016/09/best-halloween-costumes-blog-19-1474714905-sKXk-column-width-inline.jpg"
+            ]
+        },
+        {
+            "url": "https://de.pinterest.com/gabriel_cozart790/lebron-james/",
             "full_matching_images": [
-                "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg",
-                "https://mediaproxy.snopes.com/width/1200/height/675/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg",
-                "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg",
-                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2018/06/kid_dressed_as_trump_meme.jpg",
-                "https://www.snopes.com/uploads/2018/06/basil-karlo.jpg"
+                "https://i.pinimg.com/236x/3d/89/ca/3d89ca262c9d7f45a1048f9c4f693181.jpg"
             ],
             "partial_matching_images": []
         }
     ],
     "web_entities": [
         {
-            "score": 0.9538500308990479,
+            "score": 1.055999994277954,
             "description": "Dan Evon"
         },
         {
-            "score": 0.5260999798774719,
+            "score": 0.7468000054359436,
             "description": "Meme"
         },
         {
-            "score": 0.39010000228881836,
+            "score": 0.7024999856948853,
+            "description": "Funny meme"
+        },
+        {
+            "score": 0.49070000648498535,
+            "description": "Internet meme"
+        },
+        {
+            "score": 0.42640000581741333,
+            "description": "funny"
+        },
+        {
+            "score": 0.3686000108718872,
+            "description": "Photograph"
+        },
+        {
+            "score": 0.3384999930858612,
             "description": "Image"
         },
         {
-            "score": 0.3463999927043915,
+            "score": 0.33550000190734863,
             "description": "School"
         },
         {
-            "score": 0.3432873785495758,
-            "description": "Text"
+            "score": 0.3305000066757202,
+            "description": "Snopes"
         },
         {
-            "score": 0.32679998874664307,
-            "description": "Cartoon"
-        },
-        {
-            "score": 0.31679999828338623,
-            "description": "Donald Trump Costume"
-        },
-        {
-            "score": 0.30570000410079956,
-            "description": "future"
-        },
-        {
-            "score": 0.29190000891685486,
+            "score": 0.320499986410141,
             "description": "Costume"
-        },
-        {
-            "score": 0.28929999470710754,
-            "description": "Photograph"
         }
     ],
     "visually_similar_images": [
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3552692225098351746",
-        "https://p77-sign-va.tiktokcdn.com/tos-maliva-p-0068/oIABlFgNlZyrDa5BRfwBWiEgQJEGBxBI8moGEe~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1741701600&x-signature=p90muoj%2FRcftOfDM7QEDSuAPjno%3D&shp=81f88b70&shcp=-",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3573768080036933654",
-        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DGjP3uKPw_c/0/image.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3574771816040128963",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572677931211603710",
-        "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/119a0b22bda04444a5eb92b2f1861688_1675529348~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1740877200&x-signature=O0BJCzpxalLb%2FBGjLhNov6Rs4bo%3D&shp=b59d6b55&shcp=-",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3577510441565706898",
-        "https://media.licdn.com/dms/image/v2/D4E05AQGuw0SYj--GRA/videocover-high/B4EZVsLFp2GwBs-/0/1741276717699?e=2147483647&v=beta&t=PTL4PH6LQRwggekNg_nFOy_28rUVkZqcfS0YPFJ0dJ4",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3494027758034953547"
+        "https://preview.redd.it/wwli1m6vwqpe1.jpeg?auto=webp&s=6c14c1dbb4b48127139b3d4874d8ca1fd80e76c5",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=970663121835774",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DHOTfiNJlJr/0/image.jpg",
+        "https://media.licdn.com/dms/image/v2/D4D05AQEgNWgikBkRcQ/videocover-high/B4DZW6h2oAHkBw-/0/1742591232907?e=2147483647&v=beta&t=X4PofLeB607x46qLVgidzokDZYzM2uJ16ei6xiBQybY",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3463629469181474961",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-zZemJ-PPwsC6435Xfdf_jg-kbsqzKuam70Da9TDWjBk03RwGvKQMyV2s0dbcok7QmTUPxqIZz5B6BPh6J56pnk0wap3G3Fg9VSKaKVPgKu6bwKmUFLaReQFMcc-wk7T1O_LQOlayiVleniufKTA38fFtDlLWYKqlmqvzWoTW6HdNCQGgTMFyVdemK8s/s548/Screenshot%202024-11-24%20at%2010.43.21.png",
+        "https://www.tiktok.com/api/img/?itemId=7485946823757040939&location=0&aid=1988",
+        "https://i.ytimg.com/vi/YLUwA3aSyIM/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLB91LmUYG46sARzx0gVn2wbIDTMsw",
+        "https://s.yimg.com/ny/api/res/1.2/fBmgPkfPS40XlUCG.g2lEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEyNDA-/https://media.zenfs.com/en/buzzfeed_articles_778/618f396a5c3ee92c45ba177ff1dcdac3",
+        "https://assets.isu.pub/document-structure/240424162442-d7e169eb468f8e9f805f32507797f9a6/v1/2f16a598784e106c97734e7ba0c2e93b.jpeg"
     ]
 }

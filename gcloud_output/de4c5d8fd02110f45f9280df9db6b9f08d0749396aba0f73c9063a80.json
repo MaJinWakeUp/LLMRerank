@@ -1,0 +1,103 @@
+{
+    "best_guess_labels": [
+        "event"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.dailymail.co.uk/news/article-7272793/Footage-shows-Rashida-Tlaib-disrupting-2016-Trump-speech-yelling-fans-crazy.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/i/pix/2016/08/08/18/3702A75200000578-3729895-image-a-30_1470677109496.jpg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-7277599/Trump-blasts-crazed-lunatic-Rashida-Tlaib-watches-video-disrupting-2016-speech.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/i/pix/2016/08/08/18/3702A75200000578-3729895-image-a-30_1470677109496.jpg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-3729221/Trump-outline-economic-policy-seeks-regain-momentum.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/i/pix/2016/08/08/18/3702A75200000578-3729895-image-a-30_1470677109496.jpg"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-3729895/Trump-interrupted-TWELVE-times-protesters-economic-speech-audience-responds-standing-ovations.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/i/pix/2016/08/08/18/3702A75200000578-3729895-image-a-30_1470677109496.jpg"
+            ]
+        },
+        {
+            "url": "https://www.iltalehti.fi/kirjoittajat/Hanna%20Tuulonen",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img.ilcdn.fi/MxDPybzSeaUecSN43NMu3siJ7lg=/510x318/top/img-s3.ilcdn.fi/cff12d38169aea8175914201a893a5fda6c5613b2fe00a7d1f9a72807ce24666.jpg"
+            ]
+        },
+        {
+            "url": "https://www.kinopoisk.ru/film/1179322/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/fbffc5c0-2acc-4859-a632-beb447ae70fb/x178"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 10.592999458312988,
+            "description": "Rashida Tlaib"
+        },
+        {
+            "score": 0.6541500091552734,
+            "description": "Fahrenheit 11/9"
+        },
+        {
+            "score": 0.412200003862381,
+            "description": ""
+        },
+        {
+            "score": 0.3668297529220581,
+            "description": "Businessperson"
+        },
+        {
+            "score": 0.2867700159549713,
+            "description": "Detroit Economic Club"
+        },
+        {
+            "score": 0.24410000443458557,
+            "description": "create"
+        },
+        {
+            "score": 0.23270000517368317,
+            "description": "past"
+        },
+        {
+            "score": 0.21389999985694885,
+            "description": "Documentary"
+        },
+        {
+            "score": 0.0805497020483017,
+            "description": "Detroit"
+        },
+        {
+            "score": 0.004946400411427021,
+            "description": "United States"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.reuters.com/resizer/v2/TX4EM3G2IJLM7NSK7SP3U3Q764.jpg?auth=6d4bfc00db4e58305c88eb9368fe1775b8c623511276f46271ab471e5582f3cc",
+        "https://midias.correiobraziliense.com.br/_midias/jpg/2025/03/25/412x283/1_54410700035_935eef1e9b_k-48584036.jpg?20250325201406?20250325201406",
+        "https://midias.correiobraziliense.com.br/_midias/jpg/2025/03/25/412x283/1_bolsonaro-48583927.jpg?20250325210655?20250325210655",
+        "https://i.ds.at/-1h8Xg/rs:fill:600:400/plain/lido-images/2025/03/26/9ac8ca68-d431-4ead-9bb7-4f8630d03d8d.jpeg",
+        "https://dims.apnews.com/dims4/default/e999340/2147483647/strip/true/crop/2542x1693+0+3/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fc0%2F5f3b3574a0a440f59f95410c9be8%2F83ce5bfe0e664bf0939b6a9d992ca094",
+        "https://www.politico.com/dims4/default/7351ec8/2147483647/strip/true/crop/3769x2666+116+0/resize/622x440!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2Fe4%2F0df2bf9c4844a413ae84c0946b17%2Funlimiteduse-03-04-2025-trump-sotu-pk-083.jpg",
+        "https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/with_prime_minister_of_north_macedonia_and_children_and_youth_with_disability_2018.jpg",
+        "https://d.newsweek.com/en/full/2571064/donald-trump-jd-vance.jpg?w=397&h=265&f=97b24ca7836edf709e8812957e423af8",
+        "https://www.aljazeeramubasher.net/wp-content/uploads/2024/07/%D8%A8%D9%86-%D8%BA%D9%81%D9%8A%D8%B1-%D9%88%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-1720509090.jpg?resize=570%2C380&quality=80",
+        "https://midias.correiobraziliense.com.br/_midias/jpg/2025/03/26/412x283/1_ccc271d0_09d3_11f0_9cbf_f33c7f0d3969-48586729.jpg?20250326091119?20250326091119"
+    ]
+}

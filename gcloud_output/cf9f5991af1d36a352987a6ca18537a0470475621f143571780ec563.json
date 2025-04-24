@@ -1,0 +1,135 @@
+{
+    "best_guess_labels": [
+        "australia dall alto"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.wral.com/story/fact-check-facebook-post-shares-fake-image-of-australia-fires/18879306/",
+            "full_matching_images": [
+                "https://images.wral.com/asset/news/local/politifactnc/2020/01/10/18879328/FakeAustraliaImage-DMID1-5lgfjlr70-640x360.jpg?w=640&h=360",
+                "https://images.wral.com/asset/news/local/politifactnc/2020/01/10/18879328/FakeAustraliaImage-DMID1-5lgevazxx-823x830.jpg?w=823&h=830",
+                "https://images.wral.com/asset/news/local/politifactnc/2020/01/10/18879328/FakeAustraliaImage-DMID1-5lgfjonbb-640x480.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://ca.news.yahoo.com/australias-2019-20-catastrophic-bushfire-101043037.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://s.yimg.com/ny/api/res/1.2/IIFNU4mifdWhoFrbAjvZtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ3NA--/https://media.zenfs.com/en/the_weather_network_616/d83dc40044f6f1d8a0caa663b219700d",
+                "https://s.yimg.com/ny/api/res/1.2/My7ypGppnmiejsFeOFmVoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/the_weather_network_616/d83dc40044f6f1d8a0caa663b219700d"
+            ]
+        },
+        {
+            "url": "https://vridar.org/tag/australia/",
+            "full_matching_images": [
+                "https://vridar.org/wp-content/uploads/2020/01/satellite-junk.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.facebook.com/huskytriotrae/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2629862883794166"
+            ]
+        },
+        {
+            "url": "https://www.theweathernetwork.com/en/news/weather/severe/this-day-in-weather-history-january-19-2020-australian-bushfires",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images.twnmm.com/c55i45ef3o2a/47jTuakkyF9tZGw3oc6k4j/968123ec828c7a1b7d5b3db18b7201eb/Screen_Shot_2021-01-09_at_12.20.52_PM.png?fm=webp&q=80&w=3840",
+                "https://images.twnmm.com/c55i45ef3o2a/47jTuakkyF9tZGw3oc6k4j/968123ec828c7a1b7d5b3db18b7201eb/Screen_Shot_2021-01-09_at_12.20.52_PM.png?fm=jpg&q=80"
+            ]
+        },
+        {
+            "url": "https://www.thesun.ie/news/4957350/terrifying-australia-wildfires-image-shows-thousands-of-blazes-raging-across-the-country-over-the-last-month/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.thesun.ie/wp-content/uploads/sites/3/2020/01/ac-offplat-oz-fires.jpg?strip=all&quality=100&w=1500&h=1000&crop=1"
+            ]
+        },
+        {
+            "url": "https://www.theweathernetwork.com/en/news/nature/animals/australian-park-rangers-say-toadzilla-could-be-worlds-biggest-toad",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images.twnmm.com/c55i45ef3o2a/47jTuakkyF9tZGw3oc6k4j/968123ec828c7a1b7d5b3db18b7201eb/Screen_Shot_2021-01-09_at_12.20.52_PM.png?fm=webp&q=80&w=3840"
+            ]
+        },
+        {
+            "url": "https://vridar.org/tag/bushfires/",
+            "full_matching_images": [
+                "https://vridar.org/wp-content/uploads/2020/01/satellite-junk.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.the-sun.com/news/218827/terrifying-australia-wildfires-image-shows-thousands-of-blazes-raging-across-the-country-over-the-last-month/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.the-sun.com/wp-content/uploads/sites/6/2020/01/ac-offplat-oz-fires.jpg?strip=all&quality=100&w=1500&h=1000&crop=1"
+            ]
+        },
+        {
+            "url": "https://www.facebook.com/ChillaxResort/?locale=fr_CA",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1204696079727780"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.212915062904358,
+            "description": "Australia"
+        },
+        {
+            "score": 0.7350999712944031,
+            "description": ""
+        },
+        {
+            "score": 0.5950999855995178,
+            "description": "Bushfires in Australia"
+        },
+        {
+            "score": 0.4390000104904175,
+            "description": "Fire"
+        },
+        {
+            "score": 0.42309999465942383,
+            "description": "Chillax Resort"
+        },
+        {
+            "score": 0.39489999413490295,
+            "description": "Conflagration"
+        },
+        {
+            "score": 0.38600000739097595,
+            "description": "Toadzilla"
+        },
+        {
+            "score": 0.3215000033378601,
+            "description": "Wildfire"
+        },
+        {
+            "score": 0.31769999861717224,
+            "description": "Image"
+        },
+        {
+            "score": 0.28049999475479126,
+            "description": "Satellite"
+        }
+    ],
+    "visually_similar_images": [
+        "https://vridar.org/wp-content/uploads/2020/01/satellite-junk.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2536821326573469",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2216309202544270406",
+        "https://source.boomplaymusic.com/group10/M00/07/21/2cd6527e2fec4407bff7cd32a6daba6b.jpg",
+        "https://static.ffx.io/images/$zoom_0.5518518518518518%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_social_wm/l_text:PT%20Sans_41_bold_italic:%20from%20%2Cg_south_west%2Cy_84%2Cx_288%2Cco_rgb:0a1633/l_text:PT%20Sans_41_bold:%20%20%2Cg_south_west%2Cy_90%2Cx_375%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_83:%202021%20%2Cg_south_west%2Cy_15%2Cx_274%2Cco_rgb:0a1633/02621117b8c1291f712a6b781c423a5299404967",
+        "https://i.ytimg.com/vi/l3oenTtNOaY/maxresdefault.jpg",
+        "https://image.stheadline.com/f/320r180/0x0/100/none/201af6f98845fd0efeeacd19ddc909a7/stheadline/inewsmedia/20200108/_2020010816291334563.jpg",
+        "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2020/01/06/ggu_3219.jpg",
+        "https://www.liberation.fr/resizer/4VP6HlTbjoNB5ew8yOp8-G9Q4lM=/600x400/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/NQXCPIMXAVMERXFXSHLRPU23NY.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2215675710100747581"
+    ]
+}

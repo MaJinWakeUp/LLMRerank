@@ -1,0 +1,136 @@
+{
+    "best_guess_labels": [
+        "home depot white privilege twitter"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://nypost.com/2022/03/23/home-depot-ripped-for-shaming-employees-over-white-privilege/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cdn.jwplayer.com/v2/media/Qy4CrFDr/poster.jpg?width=720"
+            ]
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-10645173/Canadian-Home-Depot-slammed-posting-notice-white-privilege.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/03/23/20/55718615-0-image-a-44_1648066648366.jpg",
+                "https://i.dailymail.co.uk/1s/2022/03/23/20/55718615-0-image-a-45_1648066648457.jpg",
+                "https://i.dailymail.co.uk/1s/2022/03/23/19/55717921-10645173-image-a-33_1648065589349.jpg",
+                "https://i.dailymail.co.uk/1s/2022/03/23/20/55718617-0-image-a-46_1648066657264.jpg"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/HomeDepot/comments/tkohe2/is_this_absolutely_necessary_for_employment_wtf/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.redd.it/qszq13a153p81.jpg",
+                "https://preview.redd.it/is-this-absolutely-necessary-for-employment-wtf-v0-qszq13a153p81.jpg?width=640&crop=smart&auto=webp&s=5100ef1209afe943cdb2df61502334a790d2b156",
+                "https://b.thumbs.redditmedia.com/ptDjPbIW27r-FTJvLhZc03APZdat-tyUED_bKR0F7eg.jpg"
+            ]
+        },
+        {
+            "url": "https://www.linkedin.com/posts/mark-milke-ph-d-26419036_homedepot-activity-6912053123540819968-US1D",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C5622AQFQib1esOBaqw/feedshare-shrink_800/feedshare-shrink_800/0/1647961883222?e=2147483647&v=beta&t=qs-lo3fpPhUrungW41jKkcNcKb1wYJffoxrTalII9kM"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=qayh-SO7QKM",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/qayh-SO7QKM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKEdtlkm017XWTjy608AErATjNgA"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=bXbIs2ISI_U",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/qayh-SO7QKM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKEdtlkm017XWTjy608AErATjNgA"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=_hEOpB-ni1Y",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/qayh-SO7QKM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKEdtlkm017XWTjy608AErATjNgA"
+            ]
+        },
+        {
+            "url": "https://ca.linkedin.com/in/paul-newby-2335608a",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C5622AQFQib1esOBaqw/feedshare-shrink_800/feedshare-shrink_800/0/1647961883222?e=2147483647&v=beta&t=qs-lo3fpPhUrungW41jKkcNcKb1wYJffoxrTalII9kM"
+            ]
+        },
+        {
+            "url": "https://ca.linkedin.com/in/mark-peel-3b57a148",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C5622AQFQib1esOBaqw/feedshare-shrink_800/feedshare-shrink_800/0/1647961883222?e=2147483647&v=beta&t=qs-lo3fpPhUrungW41jKkcNcKb1wYJffoxrTalII9kM"
+            ]
+        },
+        {
+            "url": "https://ca.linkedin.com/in/danielle-hartung-71176768",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C5622AQFQib1esOBaqw/feedshare-shrink_800/feedshare-shrink_800/0/1647961883222?e=2147483647&v=beta&t=qs-lo3fpPhUrungW41jKkcNcKb1wYJffoxrTalII9kM"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.7299000024795532,
+            "description": ""
+        },
+        {
+            "score": 0.7299000024795532,
+            "description": "Home Depot"
+        },
+        {
+            "score": 0.7134000062942505,
+            "description": "The Home Depot"
+        },
+        {
+            "score": 0.4406999945640564,
+            "description": "Calgary"
+        },
+        {
+            "score": 0.32899999618530273,
+            "description": "past"
+        },
+        {
+            "score": 0.32829999923706055,
+            "description": "Reasonable accommodation"
+        },
+        {
+            "score": 0.2587999999523163,
+            "description": "Employment"
+        },
+        {
+            "score": 0.24740000069141388,
+            "description": "White people"
+        },
+        {
+            "score": 0.23510000109672546,
+            "description": "check"
+        },
+        {
+            "score": 0.23360000550746918,
+            "description": "White privilege"
+        }
+    ],
+    "visually_similar_images": [
+        "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86Y2hhbXBpb25wb3dlcg/ebb2be20-3c7c-57ea-b1ed-cf669c9e825b",
+        "https://www.researchgate.net/publication/346862645/figure/fig2/AS:967077762433025@1607580714740/nstruction-on-how-to-use-DB-LED-Ultraviolet-Sterilization-UVC-UV-Sterilization-Lamp-2W_Q320.jpg",
+        "https://preview.redd.it/fireplaces-plug-burned-out-v0-3n0k4dsa4y4e1.jpg?width=640&crop=smart&auto=webp&s=d36d77f856d39cfac951d856acb340f67cc73328",
+        "https://target.scene7.com/is/image/Target/GUEST_44ee0163-d21b-4ad9-8cb5-64ac9b39ff57",
+        "https://images.craigslist.org/00H0H_aZlLf2hZnY5_0lM0t2_600x450.jpg",
+        "https://pbs.twimg.com/media/GkfrInNWUAArdf-?format=jpg&name=large",
+        "https://images.craigslist.org/00g0g_kHQRidj42EP_0lM0CI_600x450.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3596311222280497224",
+        "https://media.licdn.com/dms/image/v2/C4E22AQFFVKzo2G6IYw/feedshare-shrink_800/feedshare-shrink_800/0/1670079935283?e=2147483647&v=beta&t=60oAoW1YKG352FE2RWIei3YhbgWdwYmGoDfOrW7qjFs",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbHz0SwZDJIk-JxflpmCiE28ELl6VcIJ8Uoee26QhPD5xOyUlXGNsqs6MePivj4yKhnJdh6f5B1k6ud5uxfiw3h9Bmbb-AzXPw2Yz6L_zz4O0aN9hFIC9mJaQFv84a0S5KCLyX1gCR7M/s640/IMG_9938.jpg"
+    ]
+}

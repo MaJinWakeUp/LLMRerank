@@ -1,0 +1,59 @@
+{
+    "best_guess_labels": [
+        "hot hatch"
+    ],
+    "web_entities": [
+        {
+            "score": 0.8874737024307251,
+            "description": "Sports car"
+        },
+        {
+            "score": 0.7418559789657593,
+            "description": "Volkswagen Scirocco"
+        },
+        {
+            "score": 0.7236000299453735,
+            "description": "Car"
+        },
+        {
+            "score": 0.6818660497665405,
+            "description": "Chevrolet Volt"
+        },
+        {
+            "score": 0.5632500052452087,
+            "description": "Volkswagen"
+        },
+        {
+            "score": 0.537213921546936,
+            "description": "Hot hatch"
+        },
+        {
+            "score": 0.46033287048339844,
+            "description": "Custom car"
+        },
+        {
+            "score": 0.4345499873161316,
+            "description": "Chevrolet"
+        },
+        {
+            "score": 0.4009236693382263,
+            "description": "Touring car"
+        },
+        {
+            "score": 0.37549999356269836,
+            "description": ""
+        }
+    ],
+    "visually_similar_images": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/vpETKY8AfK5WHYBplH48Uw/348s.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3481099617230603246",
+        "https://www.tiktok.com/api/img/?itemId=7200214675412307246&location=0&aid=1988",
+        "https://p19-pu-sign-useast8.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/okAG2F1cHWyeD4x9Rf3B39EzgSENDKyQOn27I2?lk3s=81f88b70&x-expires=1743015600&x-signature=iAwlvmkwkQ%2B8Jq4HfH2VIg5FM9I%3D&shp=81f88b70&shcp=-",
+        "https://media.licdn.com/dms/image/v2/C4E22AQF2K1qAK2FDmQ/feedshare-shrink_800/feedshare-shrink_800/0/1582008867397?e=2147483647&v=beta&t=01lCtbLjCqR1nRwWiU_3oV7JoCycX8e9uiYf2qbDY1g",
+        "https://www.boredpanda.com/blog/wp-content/uploads/2025/03/funny-sarcastic-posts-11-67dbbe6e7f93c__700.jpg",
+        "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/osXv3UEQIDglcf3foOFS71OSM1pvOEAWDBZRCq~tplv-dmt-logom:tos-useast5-i-0068-tx/oYZABqdD2zBSiaDEAddvXg7rEanIAvi4bkpqA.image?lk3s=81f88b70&x-expires=1743127200&x-signature=VHhKIB02EbXdhkszhL0v7gX4tVs%3D&shp=81f88b70&shcp=-",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3587575936557109975",
+        "https://www.tiktok.com/api/img/?itemId=7237593040217509125&location=0&aid=1988",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHBrQRUoEfn/0/image.jpg"
+    ]
+}

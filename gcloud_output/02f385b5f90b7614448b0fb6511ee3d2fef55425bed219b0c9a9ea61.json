@@ -13,56 +13,56 @@
     ],
     "web_entities": [
         {
-            "score": 1.57756507396698,
+            "score": 1.5696451663970947,
             "description": "Jimi Hendrix Statue"
         },
         {
-            "score": 0.8522999882698059,
+            "score": 0.8731499910354614,
             "description": "Jimi Hendrix"
         },
         {
-            "score": 0.6187370419502258,
+            "score": 0.6380922198295593,
             "description": "Statue"
         },
         {
-            "score": 0.5443000197410583,
+            "score": 0.5523999929428101,
             "description": "Sculpture"
         },
         {
-            "score": 0.525018036365509,
+            "score": 0.5310288071632385,
             "description": "Stone carving"
         },
         {
-            "score": 0.48708000779151917,
+            "score": 0.4929099977016449,
             "description": "Purple Haze"
         },
         {
-            "score": 0.4796000123023987,
+            "score": 0.48510000109672546,
             "description": "Graffiti"
         },
         {
-            "score": 0.4724000096321106,
-            "description": "Blues"
-        },
-        {
-            "score": 0.46799999475479126,
+            "score": 0.4830999970436096,
             "description": "Guitar"
         },
         {
-            "score": 0.4271944463253021,
-            "description": "Carving"
+            "score": 0.4812999963760376,
+            "description": "Blues"
+        },
+        {
+            "score": 0.4327999949455261,
+            "description": "Fender"
         }
     ],
     "visually_similar_images": [
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3575527148810788644",
-        "https://misti.mit.edu/sites/default/files/styles/hero_story_image/public/2023-10/dami-thomas-lithaunia-2023.jpg?h=d318f057&itok=Jqm9J5Nm",
+        "https://www.ucr.ac.cr/medios/fotos/2025/img_1480-67d06575ce421.jpg",
         "https://nationalwomenshistoryalliance.org/wp-content/uploads/Bettere-image-of-Nurse-statue-7-1024x576.jpg",
-        "https://pbs.twimg.com/media/GM7UY1NbcAAzNVL.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3583411714531737858",
-        "https://www.veterans.gc.ca/images/remembrance/memorials/national-inventory-canadian-memorials/mem/35059-054b.jpg?v=20240109032812",
-        "https://openbiblio.social/system/media_attachments/files/112/574/935/706/145/319/original/65f588ae8988150e.jpg",
-        "https://pbs.twimg.com/media/GlIgewxXUAA9WMS.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3449633576267770610",
+        "https://misti.mit.edu/sites/default/files/styles/hero_story_image/public/2023-10/dami-thomas-lithaunia-2023.jpg?h=d318f057&itok=Jqm9J5Nm",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DHbq9a7u4EF/0/image.jpg",
+        "https://www.musee-rodin.fr/sites/default/files/styles/412x540/public/2022-03/journee-au-musee-1.jpg?itok=vQ-kttjL",
+        "https://d2rfa446ja7yzb.cloudfront.net/eyJidWNrZXQiOiJtaXJyb3IuZ2V0Zmxvd2JveC5jb20uZXUtd2VzdC0xLmxpdmUiLCJrZXkiOiJhSFIwY0hNNkx5OTNkM2N1YVc1emRHRm5jbUZ0TG1OdmJTOXdMMFJJVW1Kb2NFcE5iSEp6THc9PS8wIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjo2NDB9fX0=",
+        "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/9fbb/live/2a988220-0409-11f0-a46e-fb58dd980ebf.jpg",
+        "https://www.femp.es/sites/default/files/municipios/san_sebastian_de_los_reyes.jpg",
+        "https://www.hfc.org.hk/assets/images/20a/timeline/2019-01-30/low-res-1.jpg",
         "https://www.nps.gov/common/uploads/cropped_image/secondary/D0959EE4-1DD8-B71B-0BD04D225BE30868.jpg?width=640&quality=90&mode=crop"
     ]
 }

@@ -1,0 +1,131 @@
+{
+    "best_guess_labels": [
+        "Photograph"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://shorensteincenter.org/misinformation-on-mims/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://shorensteincenter.org/wp-content/uploads/2020/05/nigeria-message-example-414x310.png"
+            ]
+        },
+        {
+            "url": "https://zw.linkedin.com/in/richard-mashoko-252395175",
+            "full_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4D22AQGqoVtRH0CR0g/feedshare-shrink_1280/feedshare-shrink_1280/0/1548139493920?e=2147483647&v=beta&t=iAESah-N0J584BVaAT5lGOoDm_nmyG09AJnMlka2fuw"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://tz.linkedin.com/in/mohamed-murtaza-moledina-0b846b85",
+            "full_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4D22AQGqoVtRH0CR0g/feedshare-shrink_1280/feedshare-shrink_1280/0/1548139493920?e=2147483647&v=beta&t=iAESah-N0J584BVaAT5lGOoDm_nmyG09AJnMlka2fuw"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://twitter.com/EmekaAmakeze/status/1321074571248869376",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/ElVmUidWoAEHOoO.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://mw.linkedin.com/in/edgar-malombe-044a97a",
+            "full_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4D22AQGqoVtRH0CR0g/feedshare-shrink_1280/feedshare-shrink_1280/0/1548139493920?e=2147483647&v=beta&t=iAESah-N0J584BVaAT5lGOoDm_nmyG09AJnMlka2fuw"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.linkedin.com/in/george-malik-484536179",
+            "full_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4D22AQGqoVtRH0CR0g/feedshare-shrink_1280/feedshare-shrink_1280/0/1548139493920?e=2147483647&v=beta&t=iAESah-N0J584BVaAT5lGOoDm_nmyG09AJnMlka2fuw"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.facebook.com/JubatvOnline/photos/a.323175581203782/1554391058082222/?type=3",
+            "full_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1554391058082222"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://twitter.com/iam_tolaoluwa",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/EkoQOboXEAE02Vi.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://twitter.com/ehimengabriel2",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/EkmmL1OXgAMGSyB.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://twitter.com/Oseglory_excel",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/EkmsvWXX0AA4Jtm.jpg"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.8819999694824219,
+            "description": "Mzuzu University"
+        },
+        {
+            "score": 0.47369998693466187,
+            "description": "Bridge"
+        },
+        {
+            "score": 0.42329999804496765,
+            "description": "Education"
+        },
+        {
+            "score": 0.3440999984741211,
+            "description": "Construction"
+        },
+        {
+            "score": 0.3377000093460083,
+            "description": "Engineering"
+        },
+        {
+            "score": 0.31290000677108765,
+            "description": "Research"
+        },
+        {
+            "score": 0.3084000051021576,
+            "description": "create"
+        },
+        {
+            "score": 0.2824999988079071,
+            "description": "Vc4africa"
+        },
+        {
+            "score": 0.27970001101493835,
+            "description": "available"
+        },
+        {
+            "score": 0.26159998774528503,
+            "description": "Civil Engineering"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.medicosdelmundo.es/memorias/2022/img/suda_n_del_sur.jpeg",
+        "http://www.wfpchinacoe.net/pic/2024-07/12/117302706_t2_23X0X587X423_a71162e0-c648-47f0-968c-695c10180a4c.jpg",
+        "https://media.licdn.com/dms/image/v2/D4E22AQGzli9J93O2gw/feedshare-shrink_800/B4EZWyy3KwH0Ag-/0/1742461435533?e=2147483647&v=beta&t=ZMWIWMGhqRS5kS6eKRKVbvKNAIy816MOpyHru2X6DaU",
+        "https://nilepost.co.ug/wp-content/uploads/2025/03/pond.jpg",
+        "https://www.unicef.org/india/sites/unicef.org.india/files/styles/large/public/UN0265485.jpg.webp?itok=sVbSkcjZ",
+        "https://www.migrationpolicy.org/sites/default/files/styles/slideshow_homepage/public/pub_images/pub_climate-financing-2025.jpg?itok=dcPTpIKJ",
+        "https://pbs.twimg.com/media/GmSE4xXWUAA5FNd?format=jpg&name=4096x4096",
+        "https://www.capitanbado.com/wp-content/uploads/2025/03/mag-minga-ambiental-768x472-1.jpg",
+        "https://cdn.www.gob.pe/uploads/document/file/7826603/standard_1132874-1-np-mesa-de-acuicultura.jpg",
+        "https://images.theconversation.com/files/580103/original/file-20240306-23-nvhk14.JPG?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip"
+    ]
+}

@@ -40,13 +40,6 @@
             ]
         },
         {
-            "url": "https://arabi21.com/story/883219/%D8%A3%D8%AE%D8%B7%D8%B1-10-%D9%85%D8%AF%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AC%D9%86%D8%A8-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D8%A7",
-            "full_matching_images": [],
-            "partial_matching_images": [
-                "https://arabi21.com/Content/Upload/Editor/Image4_1201627143840.png"
-            ]
-        },
-        {
             "url": "https://arabi21.com/story/883219/%D8%A3%D8%AE%D8%B7%D8%B1-10-%D9%85%D8%AF%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85..-%D8%AA%D8%AC%D9%86%D8%A8-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D8%A7",
             "full_matching_images": [],
             "partial_matching_images": [
@@ -54,65 +47,65 @@
             ]
         },
         {
-            "url": "https://www.mediafax.ro/poze/topul-celor-mai-violente-orase-din-lume-galerie-foto-15004216",
+            "url": "https://arabi21.com/story/883219/%D8%A3%D8%AE%D8%B7%D8%B1-10-%D9%85%D8%AF%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AC%D9%86%D8%A8-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D8%A7",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://media.mediafax.ro/An3D0wdNnP9lW1kaccnQr-wffIY=/931x700/smart/filters:contrast(5):format(webp):quality(80)/https://www.mediafax.ro/wp-content/uploads/images/1/3614/15004216/1-acapulco-afp.jpg"
+                "https://arabi21.com/Content/Upload/Editor/Image4_1201627143840.png"
             ]
         }
     ],
     "web_entities": [
         {
-            "score": 0.4903404414653778,
-            "description": "Mexico City"
+            "score": 0.4789603650569916,
+            "description": "Acapulco"
         },
         {
-            "score": 0.4779999852180481,
+            "score": 0.4140999913215637,
             "description": "Crime"
         },
         {
-            "score": 0.45170000195503235,
+            "score": 0.32510000467300415,
+            "description": "Student"
+        },
+        {
+            "score": 0.2980000078678131,
             "description": ""
         },
         {
-            "score": 0.42829999327659607,
-            "description": ""
-        },
-        {
-            "score": 0.3310999870300293,
-            "description": "Riot police"
-        },
-        {
-            "score": 0.32679998874664307,
-            "description": "City"
-        },
-        {
-            "score": 0.2800999879837036,
+            "score": 0.29679998755455017,
             "description": "identified"
         },
         {
-            "score": 0.26269999146461487,
-            "description": "criminality"
+            "score": 0.2750000059604645,
+            "description": "City"
         },
         {
-            "score": 0.24369999766349792,
+            "score": 0.2651999890804291,
+            "description": "Riot police"
+        },
+        {
+            "score": 0.22030000388622284,
+            "description": ""
+        },
+        {
+            "score": 0.21860000491142273,
             "description": "Capital"
         },
         {
-            "score": 0.032793425023555756,
+            "score": 0.01599377952516079,
             "description": "Mexico"
         }
     ],
     "visually_similar_images": [
-        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb44e68c9-ad98-4429-82e7-a208c8c1a490.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+        "https://static-cdn.toi-media.com/www/uploads/2025/03/F250325CG50-640x400.jpg",
+        "https://ynet-pic1.yit.co.il/cdn-cgi/image/f=auto,w=740,q=75/picserver6/crop_images/2025/03/25/Sydrclg6kx/Sydrclg6kx_0_0_3000_2000_0_x-large.jpg",
+        "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/25/BJQDAex6kx/BJQDAex6kx_0_0_3000_2000_0_large.jpg",
         "https://www.hrw.org/sites/default/files/styles/16x9_large/public/multimedia_images_2016/rtsf8zw-sized_for_display.jpg?itok=tmLJ5LJv",
-        "https://static01.nyt.com/images/2015/11/11/blogs/20151111pod-slide-ANPF/20151111pod-slide-ANPF-jumbo.jpg",
-        "https://labourreview.org/wp-content/uploads/2023/09/GettyImages-1240982423-e1696022342360.jpg",
-        "https://www.economist.com/content-assets/images/20230513_ASP505.jpg",
-        "https://media.licdn.com/dms/image/v2/C4D22AQGw5zUf3jqzdw/feedshare-shrink_800/feedshare-shrink_800/0/1576787953704?e=2147483647&v=beta&t=8tJpOqfKyw5ikeZPutlfV1s_4cidlrXbtIjDWJAKPZ0",
-        "https://media.npr.org/assets/img/2013/03/06/egypt_police_03-c3e191d242416a244d87dc86b52d1f03fac5b0aa.jpg",
-        "https://media.cnn.com/api/v1/images/stellar/prod/150318100006-restricted-06-tunisia-0318.jpg?q=w_3912,h_2200,x_0,y_0,c_fill/h_447",
-        "https://static01.nyt.com/images/2023/10/26/multimedia/26gaza-deathtoll-01-clkv/26gaza-deathtoll-01-clkv-videoSixteenByNineJumbo1600.jpg",
-        "https://pbs.twimg.com/card_img/1893666592447201280/Ak_VK79d?format=jpg&name=medium"
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1090370309785713",
+        "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_400,w_711/970750",
+        "https://static-cdn.toi-media.com/www/uploads/2025/03/F250325CG61-640x400.jpg",
+        "https://dims.apnews.com/dims4/default/74b8a23/2147483647/strip/true/crop/3495x2330+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2F3e%2F30c41e8e1dd5cd27798ddf8ca91c%2F1b6b9addb1534ebba31b758d01b64949",
+        "https://www.aljazeera.net/wp-content/uploads/2015/11/e2c7281c-2b6a-4bc1-90e2-2a5d19e2701c.jpeg?resize=770%2C513&quality=80",
+        "https://labourreview.org/wp-content/uploads/2023/09/GettyImages-1240982423-e1696022342360.jpg"
     ]
 }

@@ -1,0 +1,137 @@
+{
+    "best_guess_labels": [
+        "Waco siege"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.youtube.com/watch?v=Nzt2g6gIqbA",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/Nzt2g6gIqbA/maxresdefault.jpg",
+                "https://i.ytimg.com/vi/Nzt2g6gIqbA/hqdefault.jpg",
+                "https://i.ytimg.com/vi/Nzt2g6gIqbA/sddefault.jpg"
+            ]
+        },
+        {
+            "url": "https://www.reddit.com/r/SnapshotHistory/comments/1hcz2ek/waco_siege_a_51day_standoff_between_branch/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://images.theoutdoorwire.com/2021/04/15/527dde32-a5cb-424f-84fd-e21e85917372_600x276.png"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=oVJw54V1iJ0",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/oVJw54V1iJ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0X7Wpz10IuZS3DRe3TIIM1VO0tg",
+                "https://i.ytimg.com/vi/oVJw54V1iJ0/maxresdefault.jpg",
+                "https://i.ytimg.com/vi/oVJw54V1iJ0/mqdefault.jpg",
+                "https://i.ytimg.com/vi/oVJw54V1iJ0/hqdefault.jpg"
+            ]
+        },
+        {
+            "url": "https://www.wusa9.com/video/news/verify/verify-no-bidens-nominee-to-lead-the-atf-did-not-pose-in-front-of-waco-siege-of-1993-in-viral-photo/65-0912a26c-be66-4768-91d0-82dc0ac6bd17",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.wusa9.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1920x1080.jpg",
+                "https://media.wusa9.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1140x641.jpg"
+            ]
+        },
+        {
+            "url": "https://www.kvue.com/article/news/nation-world/bidens-unveils-6t-budget/507-d78a7eac-cf67-4b51-983d-e1f5d9567796",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.kvue.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1920x1080.jpg"
+            ]
+        },
+        {
+            "url": "https://www.wusa9.com/article/news/nation-world/bidens-unveils-6t-budget/507-d78a7eac-cf67-4b51-983d-e1f5d9567796",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.wusa9.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1920x1080.jpg"
+            ]
+        },
+        {
+            "url": "https://www.abc10.com/article/news/nation-world/bidens-unveils-6t-budget/507-d78a7eac-cf67-4b51-983d-e1f5d9567796",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.abc10.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1920x1080.jpg"
+            ]
+        },
+        {
+            "url": "https://commons.wikimedia.org/wiki/Category:1993_Mount_Carmel_Center_fire",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/USAWDTX_093-01048_%E2%80%93_Unidentified_fed_posing_with_corpse_at_Waco_No._3.jpg/120px-USAWDTX_093-01048_%E2%80%93_Unidentified_fed_posing_with_corpse_at_Waco_No._3.jpg"
+            ]
+        },
+        {
+            "url": "https://www.ktvb.com/article/news/nation-world/bidens-unveils-6t-budget/507-d78a7eac-cf67-4b51-983d-e1f5d9567796",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.ktvb.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1920x1080.jpg"
+            ]
+        },
+        {
+            "url": "https://www.newscentermaine.com/article/news/nation-world/bidens-unveils-6t-budget/507-d78a7eac-cf67-4b51-983d-e1f5d9567796",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.newscentermaine.com/assets/WUSA/images/0fc12c46-5e01-467f-b12b-8dd367783968/0fc12c46-5e01-467f-b12b-8dd367783968_1920x1080.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 9.934499740600586,
+            "description": "David Chipman"
+        },
+        {
+            "score": 1.0988999605178833,
+            "description": "Waco siege"
+        },
+        {
+            "score": 0.9449999928474426,
+            "description": "Branch Davidians"
+        },
+        {
+            "score": 0.8397000432014465,
+            "description": "Waco"
+        },
+        {
+            "score": 0.7610999345779419,
+            "description": "Mount Carmel Center"
+        },
+        {
+            "score": 0.7297000288963318,
+            "description": "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+        },
+        {
+            "score": 0.7297000288963318,
+            "description": ""
+        },
+        {
+            "score": 0.4449000060558319,
+            "description": "US Alcohol Tobacco & Firearms"
+        },
+        {
+            "score": 0.3127000033855438,
+            "description": "Cadaver"
+        },
+        {
+            "score": 0.2524000108242035,
+            "description": "Search warrant"
+        }
+    ],
+    "visually_similar_images": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/d4/bc/d0d4bc2d-3e1b-9a45-5c0e-27ae8574f571/mza_14318163169995677310.jpg/1200x1200bf.webp",
+        "https://www.naval-military-press.com/wp-content/uploads/2018/10/81X5zvMG8L-500x720.jpg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3177263898490451518",
+        "https://obalky.kosmas.cz/ArticleCovers/547/926_bg.jpg",
+        "https://casemate-publishers-us.imgix.net/covers/9781612008950.jpg?auto=format&w=298",
+        "https://vvmf.wordpress.com/wp-content/uploads/2018/01/olson.png?w=584",
+        "https://kansas-unipress-us.imgix.net/covers/9780700626649.jpg?auto=format&w=298",
+        "https://clarkesbooks.co.za/cdn/shop/products/USSoldierVersusAfrikakorpsSoldier_1024x.jpg?v=1595853806",
+        "https://image.isu.pub/230315122540-f742bfbb0d90dabf542d7fdb53da65d2/jpg/page_1_thumb_large.jpg",
+        "https://delmonicobooks.com/wp-content/uploads/2023/04/9781636810904_WW1-486x700.jpg"
+    ]
+}

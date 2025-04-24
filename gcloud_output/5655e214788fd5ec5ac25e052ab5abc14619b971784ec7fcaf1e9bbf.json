@@ -1,0 +1,77 @@
+{
+    "best_guess_labels": [
+        "army"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://factcheck.afp.com/philippines-said-it-would-send-soldiers-iraq-repatriate-filipino-workers-not-combat",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/philippines/screenshot_misleading_post_iraq_deployment.jpg?itok=E4mAGZLa",
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/philippines/screenshot_ap_photo_misleading_troops_iraq.jpg?itok=CpIQ1Tl2",
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/philippines/screenshot_comparison_misleading_iraq_deployment.jpg?itok=8MMf-Knc"
+            ]
+        },
+        {
+            "url": "https://www.voanews.com/a/navy-philippines-china-terrorists-foreign-boats/4419035.html",
+            "full_matching_images": [
+                "https://gdb.voanews.com/3AC1C44C-E028-42E6-BD0B-7D20FF5EA271_w1080_h608_b_s.jpg"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.427549958229065,
+            "description": "Philippines"
+        },
+        {
+            "score": 0.8127000331878662,
+            "description": "Iraq"
+        },
+        {
+            "score": 0.7188000082969666,
+            "description": ""
+        },
+        {
+            "score": 0.6728999614715576,
+            "description": "Iraq War"
+        },
+        {
+            "score": 0.5882194638252258,
+            "description": "Soldier"
+        },
+        {
+            "score": 0.5873000025749207,
+            "description": "Philippine Army"
+        },
+        {
+            "score": 0.5733000040054321,
+            "description": "Philippine Navy"
+        },
+        {
+            "score": 0.5418000221252441,
+            "description": ""
+        },
+        {
+            "score": 0.5166362524032593,
+            "description": "Navy"
+        },
+        {
+            "score": 0.48249998688697815,
+            "description": ""
+        }
+    ],
+    "visually_similar_images": [
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1064901925679916",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1024437193064137",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940570068247473",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940570114914135",
+        "https://i2.res.24o.it/images2010/S24/Documenti/2025/03/25/Immagini/Ritagli/dynamic-mariner-due-U70153721004mYZ-1440x752@IlSole24Ore-Web.jpeg",
+        "https://assets.isu.pub/document-structure/240517002937-dd10fbfd5d4c32338b611312873971de/v1/960744d734c902d2a531d89a7b8dbbfc.jpeg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/C_gl4PJzVBX/0/image.jpg",
+        "https://img.diepresse.com/public/incoming/otaxpo-BRITAIN-DEFENCESTARMER/alternates/WEBP_LANDSCAPE_600/BRITAIN-DEFENCESTARMER",
+        "https://i2.res.24o.it/images2010/S24/Documenti/2025/03/25/Immagini/Ritagli/dynamic-mariner-due-U54027222748ibi-735x735@IlSole24Ore-Web.jpeg",
+        "https://ph-prod-cdn.aap.com.au/device/1/2024/07-16/file7wb66xoc2xg1bw8w3e3h.jpg?Expires=1740625504&KeyName=prod-cdn-key&Signature=8yhzU331BFuPQKvk6mHmyHKOahI="
+    ]
+}

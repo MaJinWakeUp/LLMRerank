@@ -1,0 +1,133 @@
+{
+    "best_guess_labels": [
+        "inflatable boats crossing channel"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11001907/Migrants-wave-middle-finger-number-people-crossing-Channel-year-passes-13-000.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/07/11/12/60128753-0-image-a-39_1657537352884.jpg",
+                "https://i.dailymail.co.uk/1s/2022/07/11/12/60128333-11001907-One_migrant_flipped_the_finger_at_the_photographer_documenting_t-m-52_1657538049769.jpg",
+                "https://i.dailymail.co.uk/1s/2022/07/11/12/60128753-0-image-a-40_1657537352956.jpg"
+            ]
+        },
+        {
+            "url": "https://www.koha.net/en/arberi/kater-nga-10-emigrante-te-paligjshem-qe-hyjne-ne-angli-jane-shqiptare",
+            "full_matching_images": [
+                "https://resources.koha.net/images/2022/August/06/shqptar1659821941.jpg?q=90&w=860&h=550&r=fill"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11002995/Another-100-migrants-arrive-boat-Dover-Border-Force-officials-hand-water-bottles.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/07/11/12/60128333-11001907-One_migrant_flipped_the_finger_at_the_photographer_documenting_t-m-52_1657538049769.jpg"
+            ]
+        },
+        {
+            "url": "https://pamfleti.net/english/aktualitet/emigrantet-shqiptare-serish-ne-fokusin-e-mediave-britanike-qeveria-sh-i176057",
+            "full_matching_images": [
+                "https://cdn.pamfleti.net/pamfleti.net/wp-content/uploads/2023/02/-900-0-800-450-1659811329xemigrante-491.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://pamfleti.net/english/bota/la-mansh-mbetet-thembra-e-akilit-per-britanine-mbi-100-mije-emigrante-kane--i183503",
+            "full_matching_images": [
+                "https://cdn.pamfleti.net/pamfleti.net/wp-content/uploads/2023/02/-900-0-800-450-1659811329xemigrante-491.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.kosovo-online.com/en/news/society/albanian-immigrant-journey-great-britain-through-serbia-france-and-then-12-hours-boat",
+            "full_matching_images": [
+                "https://www.kosovo-online.com/sites/default/files/styles/og_image/public/2022-08/Imigranti.jpg?h=9396f34a&itok=oMpFV4kv"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.kosovo-online.com/vesti/region/albanija-tri-centra-za-prihvat-migranata-iz-italije-pocinju-sa-radom-20-maja-25-3-2024",
+            "full_matching_images": [
+                "https://www.kosovo-online.com/sites/default/files/styles/og_image/public/2022-08/Imigranti.jpg?h=9396f34a&itok=oMpFV4kv"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.gazetaexpress.com/plani-i-qeverise-britanike-merr-goditjen-finale-gjykata-bllokon-dergimin-e-emigranteve-ne-ruanda/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.gazetaexpress.com/wp-content/uploads/2022/11/1659874433_gomone.jpg"
+            ]
+        },
+        {
+            "url": "https://www.gazetaexpress.com/anglia-zberthen-skemen-e-shqiptareve-per-azil-historite-e-frikshme-ne-dosjet-e-shtetit/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.gazetaexpress.com/wp-content/uploads/2022/11/1659874433_gomone.jpg"
+            ]
+        },
+        {
+            "url": "https://albanianpost.com/trafikimi-me-gomone-ambasadori-britanik-do-te-veprojme-jemi-te-shqetesuar/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://admin.albanianpost.com/wp-content/uploads/2022/08/1659874433_gomone.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.8053255081176758,
+            "description": "Inflatable Boat"
+        },
+        {
+            "score": 0.7150999903678894,
+            "description": "Boat"
+        },
+        {
+            "score": 0.6248047947883606,
+            "description": "England"
+        },
+        {
+            "score": 0.4240500032901764,
+            "description": "English Channel migrant crossings"
+        },
+        {
+            "score": 0.40849998593330383,
+            "description": "Dinghy"
+        },
+        {
+            "score": 0.40845000743865967,
+            "description": "Albania"
+        },
+        {
+            "score": 0.39640000462532043,
+            "description": "Immigration"
+        },
+        {
+            "score": 0.3647048771381378,
+            "description": "Rigid inflatable boat"
+        },
+        {
+            "score": 0.2849999964237213,
+            "description": "Motorboat"
+        },
+        {
+            "score": 0.27230000495910645,
+            "description": ""
+        }
+    ],
+    "visually_similar_images": [
+        "https://c.files.bbci.co.uk/4ddd/live/18006300-deff-11ef-ba00-65100a906e68.jpg",
+        "https://cdn.images.express.co.uk/img/dynamic/139/590x/2032407_1.jpg",
+        "https://api.brusselstimes.com/wp-content/uploads/2025/03/a5b4133c-f6b8-4fe7-8758-7e308fadcab6-1024x683.jpg",
+        "https://www.thesun.co.uk/wp-content/uploads/2024/12/cdfbd321-95d2-479d-af75-e65df1de806d.jpg?strip=all&quality=100&w=1620&h=1080&crop=1",
+        "https://i.dailymail.co.uk/1s/2025/01/27/15/94562573-0-image-m-17_1737990990671.jpg",
+        "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6975f97-6446-4e97-bd70-db265d302881.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+        "https://cdn.images.express.co.uk/img/dynamic/139/640x640/6010984.jpg",
+        "https://media.licdn.com/dms/image/sync/v2/D4E27AQEorvz_ozbLbw/articleshare-shrink_800/articleshare-shrink_800/0/1742481505989?e=2147483647&v=beta&t=uK7D2GOh_lXEOo4YCiexlUhOa9vhblaOYczsL7A8A5I",
+        "https://img.welt.de/img/vermischtes/mobile254439490/7357930957-ci102l-w1200/Migranten-ueberqueren-Aermelkanal-im-Schlauchboot.jpg",
+        "https://www.schwarzwaelder-bote.de/media.media.fa99e372-17a2-4c63-8536-0dc997b3432f.original700.jpg"
+    ]
+}

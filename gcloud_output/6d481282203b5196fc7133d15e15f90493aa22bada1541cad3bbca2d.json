@@ -4,56 +4,56 @@
     ],
     "web_entities": [
         {
-            "score": 1.0757999420166016,
+            "score": 1.0776000022888184,
             "description": "Coca-Cola"
         },
         {
-            "score": 1.0714499950408936,
+            "score": 1.0069500207901,
             "description": "Cola"
         },
         {
-            "score": 0.9313499927520752,
-            "description": "Fanta"
-        },
-        {
-            "score": 0.8592000007629395,
-            "description": "Olympic Games"
-        },
-        {
-            "score": 0.717199981212616,
-            "description": ""
-        },
-        {
-            "score": 0.6749999523162842,
-            "description": "Soft Drink"
-        },
-        {
-            "score": 0.5738000273704529,
-            "description": "F\u00fchrer"
-        },
-        {
-            "score": 0.551550030708313,
+            "score": 0.9797999858856201,
             "description": "1936 Summer Olympics"
         },
         {
-            "score": 0.5454000234603882,
-            "description": "Ein Volk, ein Reich, ein F\u00fchrer"
+            "score": 0.9177000522613525,
+            "description": "Fanta"
         },
         {
-            "score": 0.475600004196167,
-            "description": "1936"
+            "score": 0.9061499834060669,
+            "description": "Olympic Games"
+        },
+        {
+            "score": 0.7184000015258789,
+            "description": ""
+        },
+        {
+            "score": 0.6781499981880188,
+            "description": "Soft Drink"
+        },
+        {
+            "score": 0.5932000279426575,
+            "description": "F\u00fchrer"
+        },
+        {
+            "score": 0.5917499661445618,
+            "description": "World War II"
+        },
+        {
+            "score": 0.5633000135421753,
+            "description": "Ein Volk, ein Reich, ein F\u00fchrer"
         }
     ],
     "visually_similar_images": [
         "x-raw-image:///df42b140bf2dc47e60367fb8692a461faf72d54a86b6f75d24dae335cdd3f1e7",
-        "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5703385908001/a73dad91-7429-415f-bc90-1a343ccf6913/fd7718ce-1cb2-4012-932d-fc978e638956/1280x720/match/image.jpg",
-        "https://ausstellung.geschichte-innenministerien.de/fileadmin/_processed_/7/c/csm_BHE_Plak_104-TA4237-003_bd020b0285.jpg",
-        "https://images.craigslist.org/00Y0Y_4I2yg3O2K9h_0ew0jm_600x450.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3529600444630201020",
-        "https://m.media-amazon.com/images/M/MV5BZGE1ZjdkZGQtNWFiMC00YTgxLWE0MGYtNjI1YjgwYjEwMTg4XkEyXkFqcGc@._V1_.jpg",
-        "https://i.scdn.co/image/ab67616d00001e0264410165a4985875264182fe",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1740340229423050",
-        "https://cdn.slidesharecdn.com/ss_thumbnails/cocacola-151114133902-lva1-app6891-thumbnail.jpg?width=560&fit=bounds",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3217401800856959818"
+        "https://preview.redd.it/coca-coca-sled-sign-with-beautiful-hand-painted-privilege-v0-6bjbeil7rpqe1.jpg?width=640&crop=smart&auto=webp&s=a35efdea1b40fca709bf01895b1f336301fdb2cc",
+        "https://www.force-ouvriere.fr/local/cache-gd2/dd/49d77326fe3e2cc597ffa0bbe8aa84.jpg?1692747488",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lichtgele_wikkel_van_Ringers_chocolade_met_rode_letters_bedrukt.jpg/640px-Lichtgele_wikkel_van_Ringers_chocolade_met_rode_letters_bedrukt.jpg",
+        "https://static.rfstat.com/bloggers_folders/63c56228-470c-4e08-a425-ac1ef5821160.jpg",
+        "https://dfjx2uxqg3cgi.cloudfront.net/img/type/T16506/c/T16506_ff.jpg?20220708011947",
+        "https://theipm.org.uk/wp-content/uploads/2024/12/Untitled-design-36.png",
+        "https://cdn.rmsothebys.com/b/4/e/d/e/1/b4ede130529c39a5dfe11f97b4151d93230850ad.webp",
+        "https://assets.isu.pub/document-structure/241028193850-8baec0fe552d5f89fe552481a246cae8/v1/fde6e8fe1b57fa065684ec7cd9d5036c.jpeg",
+        "https://cdn.slidesharecdn.com/ss_thumbnails/cocacola-151114133902-lva1-app6891-thumbnail.jpg?width=560&fit=bounds"
     ]
 }

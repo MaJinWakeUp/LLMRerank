@@ -1,0 +1,136 @@
+{
+    "best_guess_labels": [
+        "zika virus"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.cfr.org/backgrounder/zika-virus",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2017/03/Zika_Microcephaly_RTX24A29.webp",
+                "https://www.cfr.org/sites/default/files/styles/open_graph_article/public/image/2017/03/Zika_Microcephaly_RTX24A29.jpg?h=2475ff28",
+                "https://www.cfr.org/sites/default/files/styles/open_graph/public/image/2017/03/Zika_Microcephaly_RTX24A29.jpg?h=6ccb2c19"
+            ]
+        },
+        {
+            "url": "https://www.theguardian.com/world/2016/feb/07/brazil-rich-zika-virus-poor",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.guim.co.uk/img/media/0506865032aa7aec54e5905a9fb61ee832cfdf09/0_173_5184_3110/master/5184.jpg?width=220&dpr=1&s=none&crop=5%3A3"
+            ]
+        },
+        {
+            "url": "https://www.cbsnews.com/pictures/alarming-facts-about-the-zika-virus/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://assets3.cbsnewsstatic.com/hub/i/r/2016/01/29/17bde0b4-4a59-42d0-a806-7e7e15a06995/thumbnail/1200x630/641481e620c3b605be0a7750b7f821eb/rtx24a29.jpg?v=9e5c48f1b04ac2a564e8a4c51250ac89",
+                "https://assets3.cbsnewsstatic.com/hub/i/r/2016/01/29/17bde0b4-4a59-42d0-a806-7e7e15a06995/thumbnail/640x427/4ff0b3ac723f47e00f8b4c3c46900944/rtx24a29.jpg?v=e7f44f50e1cf6b32bb81cbfeaec70acf"
+            ]
+        },
+        {
+            "url": "https://www.bbc.com/news/world-35482300",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7E83/production/_88078323_hi031158960.jpg",
+                "http://c.files.bbci.co.uk/F3B3/production/_88078326_hi031158960.jpg"
+            ]
+        },
+        {
+            "url": "https://www.theguardian.com/world/2016/feb/11/zika-virus-brazil-mosquito-species-combat-threat",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.guim.co.uk/img/media/0506865032aa7aec54e5905a9fb61ee832cfdf09/0_173_5184_3110/master/5184.jpg?width=220&dpr=1&s=none&crop=5%3A3"
+            ]
+        },
+        {
+            "url": "https://www.worldmosquitoprogram.org/en/news-stories/stories/devastation-zika",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.worldmosquitoprogram.org/sites/default/files/styles/plain_body_image_panel/public/2020-12/zika%20father%20baby.jpg?h=56813256&itok=EzWCv6sD"
+            ]
+        },
+        {
+            "url": "https://www.theguardian.com/global-development/2016/jan/25/zika-virus-mosquitoes-countries-affected-pregnant-women-children-microcephaly",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.guim.co.uk/img/media/0506865032aa7aec54e5905a9fb61ee832cfdf09/0_173_5184_3110/master/5184.jpg?width=220&dpr=1&s=none&crop=5%3A3"
+            ]
+        },
+        {
+            "url": "https://www.theguardian.com/world/2016/jan/27/zika-virus-brazil-war-on-mosquitos-microcephaly",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.guim.co.uk/img/media/0506865032aa7aec54e5905a9fb61ee832cfdf09/0_173_5184_3110/master/5184.jpg?width=220&dpr=1&s=none&crop=5%3A3"
+            ]
+        },
+        {
+            "url": "https://www.bbc.com/news/world-asia-37227682",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/F3B3/production/_88078326_hi031158960.jpg",
+                "https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/F3B3/production/_88078326_hi031158960.jpg.webp"
+            ]
+        },
+        {
+            "url": "https://www.pbs.org/newshour/world/who-alarmed-at-spread-of-zika-virus-and-risk-of-deformities-in-babies",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.pbs.org/newshour/app/uploads/2016/01/RTX24A29-1024x683.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9548550844192505,
+            "description": "Yellow fever mosquito"
+        },
+        {
+            "score": 0.7826999425888062,
+            "description": "Zika virus epidemic"
+        },
+        {
+            "score": 0.7275999784469604,
+            "description": "Microcephaly"
+        },
+        {
+            "score": 0.7225000262260437,
+            "description": "Zika virus"
+        },
+        {
+            "score": 0.7207000255584717,
+            "description": "Zika fever"
+        },
+        {
+            "score": 0.6820999979972839,
+            "description": "Virus"
+        },
+        {
+            "score": 0.5920000076293945,
+            "description": "World Mosquito Program Ltd"
+        },
+        {
+            "score": 0.5674999952316284,
+            "description": "West Nile virus"
+        },
+        {
+            "score": 0.5637999773025513,
+            "description": "Birth defect"
+        },
+        {
+            "score": 0.5489000082015991,
+            "description": "Mosquito-borne disease"
+        }
+    ],
+    "visually_similar_images": [
+        "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUrDE6BzCwAIkDIXAit7fAFAicTB8i6vTSodnC~tplv-dmt-logom:tos-no1a-i-0068-no/oM4dEv5xAeejAEn7PAIDiiF8IYLiIOfdF5AJDA.image?lk3s=81f88b70&x-expires=1743152400&x-signature=CDasWW4EeBB%2BzZtf%2FimaB%2BGW5Aw%3D&shp=81f88b70&shcp=-",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DHnlHs1svzr/0/image.jpg",
+        "https://media.licdn.com/dms/image/v2/D5605AQETrxIFgwe1FA/videocover-high/B56ZWoOCKdHQBs-/0/1742284020034?e=2147483647&v=beta&t=GEwPZOJlvF9-og_zD5ukdpAQR3nOcUqdWYV8uxRfodM",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHoT9IJsWRK/2/image.jpg",
+        "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUIixLeqfUAes1GnQeF5AgAAIMfCK4TzzFmAMN~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=55bbe6a9&nonce=52453&refresh_token=e22fe994095212e64ce638b076057a81&x-expires=1774461600&x-signature=hd0K4%2BZPc6rVGPW%2BW0dIfwE8qPU%3D&shp=55bbe6a9&shcp=-",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1120042930164103",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3593600463451333117",
+        "https://preview.redd.it/can-someone-explain-this-to-me-v0-apagwwbbqyqe1.jpeg?auto=webp&s=1ddfae6ab999501565dd235dc952db233d562516",
+        "https://i.ytimg.com/vi/GSp8jKI4beM/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBMuafqvEbZquNu44ggK31qMVZrkw",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHmvFRvMgva/0/image.jpg"
+    ]
+}

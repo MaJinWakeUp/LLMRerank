@@ -1,0 +1,137 @@
+{
+    "best_guess_labels": [
+        "patriots white house visit 2017"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.nytimes.com/2017/04/19/sports/-new-england-patriots-visit-white-house-donald-trump.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static01.nyt.com/images/2017/04/20/sports/20patriotswhitehouse-web4/20patriotswhitehouse-web4-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                "https://static01.nyt.com/images/2017/04/20/sports/20patriotswhitehouse-web4/20patriotswhitehouse-web4-videoSixteenByNine3000.jpg?year=2017&h=1687&w=3000&s=8df5729185915cb5a7193e9e9bdf310a797c9670638fffc8f320e33eee0b3dc6&k=ZQJBKqZ0VN&tw=1",
+                "https://static01.nyt.com/images/2017/04/20/sports/20patriotswhitehouse-web4/20patriotswhitehouse-web4-superJumbo.jpg"
+            ]
+        },
+        {
+            "url": "https://www.cnn.com/2017/04/20/us/patriots-alan-branch-white-house-don-lemon-cnntv/index.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.cnn.com/api/v1/images/stellar/prod/170419190403-obama-trump-pats-split-restricted.jpg?q=x_0,y_0,h_619,w_1100,c_fill/h_144,w_256"
+            ]
+        },
+        {
+            "url": "https://www.masslive.com/patriots/2017/03/new_england_patriots_will_visi.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://image.masslive.com/home/mass-media/pgmain/img/republican/photo/2015/04/23/-e276e5c4368e4269.jpg"
+            ]
+        },
+        {
+            "url": "https://www.patriots.com/news/obama-welcomes-patriots-to-white-house-227681",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static.clubs.nfl.com/image/private/t_new_photo_album/patriots/i701pjatsauij9c5kcbl.jpg"
+            ]
+        },
+        {
+            "url": "https://www.studentnewsdaily.com/example-of-media-bias/ny-times-misleading-photo-of-patriots-white-house-visit/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.studentnewsdaily.com/wp-content/uploads/2017/04/Patriot-turnout-1.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/StephenAtHome/status/854869916004085763",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/C90bhcxXsAApkx6.jpg"
+            ]
+        },
+        {
+            "url": "https://www.patriots.com/photos/patriots-travel-to-the-white-house-227656",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://static.clubs.nfl.com/image/private/t_new_photo_album/patriots/i701pjatsauij9c5kcbl.jpg"
+            ]
+        },
+        {
+            "url": "https://www.snopes.com/fact-check/patriots-white-house-attendance/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2017/04/patriots_crowd_size_feature.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/900/https://media.snopes.com/2017/04/patriots_crowd_size_feature.jpg",
+                "https://mediaproxy.snopes.com/width/1200/height/1200/https://media.snopes.com/2017/04/patriots_crowd_size_feature.jpg",
+                "https://www.snopes.com/uploads/2017/04/NEP.jpg"
+            ]
+        },
+        {
+            "url": "https://qz.com/964004/photos-trump-honors-the-patriots-at-the-white-house-only-half-show-up",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4da555ec89296bb1bb52d2c623d8f7ec.jpg",
+                "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/16f727633370e88910f6da132a3bae69.jpg"
+            ]
+        },
+        {
+            "url": "https://www.masslive.com/patriots/2017/04/which_patriots_are_skipping_th.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://image.masslive.com/home/mass-media/pgmain/img/republican/photo/2015/04/23/-e276e5c4368e4269.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.128749966621399,
+            "description": "New England Patriots"
+        },
+        {
+            "score": 0.7501500248908997,
+            "description": "Super Bowl"
+        },
+        {
+            "score": 0.6625500321388245,
+            "description": "Mar-a-Lago"
+        },
+        {
+            "score": 0.4185999929904938,
+            "description": "Quarterback"
+        },
+        {
+            "score": 0.3946000039577484,
+            "description": "Player"
+        },
+        {
+            "score": 0.2953000068664551,
+            "description": "just"
+        },
+        {
+            "score": 0.26109999418258667,
+            "description": ""
+        },
+        {
+            "score": 0.06910499930381775,
+            "description": "Bill Belichick"
+        },
+        {
+            "score": 0.05929499864578247,
+            "description": "Tom Brady"
+        },
+        {
+            "score": 0.03858000040054321,
+            "description": "Elan Bird"
+        }
+    ],
+    "visually_similar_images": [
+        "https://pbs.twimg.com/media/C9zV0_KXsAEV-_Q.jpg",
+        "https://preview.redd.it/1psbhwqhplsy.jpg?width=640&crop=smart&auto=webp&s=9970e0a7700a9c83394f403b811c62b2e8cc9e7a",
+        "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/a/d6/ad63cd9d-1147-51d8-961a-89ddb3f7b465/652055e81ab4f.image.png?resize=400%2C267",
+        "https://i0.wp.com/altreconomia.it/app/uploads/2021/03/Gaza_AccordoAbramo-1.jpg?resize=702%2C468&ssl=1",
+        "https://stream.org/wp-content/uploads/White-House-Passing-Tax-Bill-Celebration-900.jpg",
+        "https://i0.1616.ro/media/2/2701/33605/21671095/1/dineu-casa-alba.jpg?width=1200",
+        "https://2017-2021.commerce.gov/sites/default/files/styles/full_width_image_700x400max/public/media/images/2017/taxcutphoto.jpg%3Fitok=QoUYfEca",
+        "https://ca-times.brightspotcdn.com/dims4/default/7ddd9f8/2147483647/strip/true/crop/2015x1343+17+0/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2Fae%2F6d47b229c6cb019f6f7ccbdac418%2Fla-na-shooting-music-festival-photo-gallery-046",
+        "https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/157D8/production/_109442088_46508070925_ecc8378960_k.jpg.webp",
+        "https://pbs.twimg.com/media/Gc82Ru2WAAAWHDK.jpg:large"
+    ]
+}

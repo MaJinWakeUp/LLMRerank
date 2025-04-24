@@ -20,7 +20,6 @@
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?quality=75&width=230&auto=webp",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=900&fit=crop",
-                "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=800&crop=1200:800",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=1200&fit=crop"
             ],
             "partial_matching_images": []
@@ -32,7 +31,6 @@
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=630&fit=crop",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?quality=75&width=230&auto=webp",
-                "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=800&crop=1200:800",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=900&fit=crop",
                 "https://static.independent.co.uk/2024/10/03/07/boris-laura.jpg?width=1200&height=1200&fit=crop"
             ],
@@ -48,10 +46,15 @@
             ]
         },
         {
-            "url": "https://www.mirror.co.uk/news/politics/bbcs-rivals-gun-boris-johnson-33808967",
+            "url": "https://www.theguardian.com/tv-and-radio/2019/dec/17/tv-tonight-laura-kuenssberg-delves-inside-johnsons-government",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://i2-prod.mirror.co.uk/incoming/article33694740.ece/ALTERNATES/n615/4_DNP_CHP_180924Slug_18309.jpg"
+                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=465&dpr=1&s=none&crop=none",
+                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7f597599ba071013909fe07c10cce3bf",
+                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&quality=85&auto=format&fit=max&s=b23eb997dd75268c675d75795485d851",
+                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0a5a7b1e6626e4d3051e3c15cb5d1f50",
+                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&s=d14415777e88bd466dcb479103f375fb",
+                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/500.jpg?quality=85&auto=format&fit=max&s=66194aef397980bf67abbaf30789ea5d"
             ]
         },
         {
@@ -65,20 +68,7 @@
             "url": "https://uk.news.yahoo.com/laura-kuenssberg-forced-cancel-boris-071116033.html",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://s.yimg.com/ny/api/res/1.2/.UBnPTqGyhRIB9ab1Rwnkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMA--/https://media.zenfs.com/en/the_independent_577/76bfd29f001e4451ba13f112b1855832",
                 "https://media.zenfs.com/en/the_independent_577/0d2809465d70ac8522aa6899ad4d7968"
-            ]
-        },
-        {
-            "url": "https://www.theguardian.com/tv-and-radio/2019/dec/17/tv-tonight-laura-kuenssberg-delves-inside-johnsons-government",
-            "full_matching_images": [],
-            "partial_matching_images": [
-                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=465&dpr=1&s=none&crop=none",
-                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7f597599ba071013909fe07c10cce3bf",
-                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&quality=85&auto=format&fit=max&s=b23eb997dd75268c675d75795485d851",
-                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0a5a7b1e6626e4d3051e3c15cb5d1f50",
-                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&s=d14415777e88bd466dcb479103f375fb",
-                "https://i.guim.co.uk/img/media/ce060aff51efbd88ae4466e285ac4955757e246c/0_0_2400_1440/500.jpg?quality=85&auto=format&fit=max&s=66194aef397980bf67abbaf30789ea5d"
             ]
         },
         {
@@ -90,65 +80,73 @@
             ]
         },
         {
-            "url": "https://www.mirror.co.uk/news/politics/shamed-boris-johnson-grilled-bbcs-33694469",
+            "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/boris-johnson-itv-interview-reason-30075973",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://i2-prod.mirror.co.uk/incoming/article33694740.ece/ALTERNATES/n615/4_DNP_CHP_180924Slug_18309.jpg"
+                "https://i2-prod.manchestereveningnews.co.uk/news/greater-manchester-news/article30075963.ece/ALTERNATES/s615b/4_dnp_chp_180924slug_18309.jpg",
+                "https://i2-prod.manchestereveningnews.co.uk/article30075963.ece/ALTERNATES/s615b/4_dnp_chp_180924slug_18309.jpg"
+            ]
+        },
+        {
+            "url": "https://www.thepoke.com/2019/09/06/just-19-funny-captions-boris-johnson-laura-kuenssberg/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://cdn.thepoke.com/uploads/2019/09/06100415/Screen-Shot-2019-09-06-at-11.08.56.png"
             ]
         }
     ],
     "web_entities": [
         {
-            "score": 14.229000091552734,
+            "score": 14.300999641418457,
             "description": "Laura Kuenssberg"
         },
         {
-            "score": 10.880999565124512,
+            "score": 10.858499526977539,
             "description": "Boris Johnson"
         },
         {
-            "score": 0.8110500574111938,
+            "score": 0.8011499643325806,
             "description": "The Brexit Storm Continues: Laura Kuenssberg's Inside Story"
         },
         {
-            "score": 0.6532999873161316,
-            "description": "Prime minister"
-        },
-        {
-            "score": 0.6527000069618225,
-            "description": ""
-        },
-        {
-            "score": 0.5957000255584717,
+            "score": 0.6759999990463257,
             "description": "Political editor"
         },
         {
-            "score": 0.5821499824523926,
-            "description": "The Brexit Storm: Laura Kuenssberg's Inside Story"
+            "score": 0.629800021648407,
+            "description": ""
         },
         {
-            "score": 0.5742999911308289,
-            "description": "Politics"
+            "score": 0.609499990940094,
+            "description": "Prime minister"
         },
         {
-            "score": 0.5192000269889832,
+            "score": 0.4945000112056732,
+            "description": "Editor"
+        },
+        {
+            "score": 0.49140000343322754,
             "description": "The Spectator"
         },
         {
+            "score": 0.4882500171661377,
+            "description": "The Brexit Storm: Laura Kuenssberg's Inside Story"
+        },
+        {
             "score": 0.45590001344680786,
-            "description": "Editor"
+            "description": "Politics"
         }
     ],
     "visually_similar_images": [
-        "https://static.independent.co.uk/2025/02/13/17/17/His-Majesty-The-King-The-Prime-Minister-and-The-Deputy-Prime-Minister-Visit-Newquay-37pdsfdk.jpeg?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+        "https://static.independent.co.uk/2025/02/13/17/17/His-Majesty-The-King-The-Prime-Minister-and-The-Deputy-Prime-Minister-Visit-Newquay-37pdsfdk.jpeg?quality=75&width=640&auto=webp",
         "https://www.bundespraesident.de/SharedDocs/Bilder/DE/Die-Bundespraesidenten/Altbundespraesidenten/Richard-von-Weizsaecker-15-Paarfoto.jpg?__blob=normal&v=1",
         "https://www.law.upenn.edu/live/image/gid/18/width/790/height/549/crop/1/35984_PennLawReunions19_2341.rev.1614818734.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3510946410210460306",
-        "https://adata.org/sites/adata.org/files/images/signing-of-the-ada_1990.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3456203237214643602",
+        "https://static.independent.co.uk/2025/03/23/15/26/graydon-carter-jpg.jpeg?quality=75&width=640&crop=3%3A2%2Csmart&trim=54%2C167%2C54%2C0&auto=webp",
+        "https://content.api.news/v3/images/bin/8ebe2c9e834a6caf688825ac24dfe780",
         "https://www.law.upenn.edu/live/image/gid/18/width/790/height/549/crop/1/35971_PennLawReunions19_2318.rev.1614818734.jpg",
+        "https://images2.corriereobjects.it/methode_image/2025/01/23/Cultura/Foto%20Cultura%20-%20Trattate/afp_34m29l2-k4n-u350022370947p7f-656x492corriere-web-sezioni_414x232_M.jpg?v=202501232027",
         "https://www.northwestern.edu/images/campus-life/segals.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1147679630434630&get_thumbnail=1",
-        "https://errc.ucla.edu/sites/default/files/styles/resize_3_2/public/portals/10/images/56_senior_adult_excercise_fitness_strength1_copy_4.jpg?itok=7aJ6exeT"
+        "https://q0.itc.cn/q_70/images03/20250324/d5ff759f44154bedb2b313f6e8e2555e.jpeg",
+        "https://q4.itc.cn/images03/20250324/a955cce67f9d485caa3b07a1717098f5.jpeg"
     ]
 }

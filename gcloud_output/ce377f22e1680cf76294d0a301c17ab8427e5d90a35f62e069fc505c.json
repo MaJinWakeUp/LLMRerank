@@ -1,0 +1,23 @@
+{
+    "best_guess_labels": [
+        "billboard"
+    ],
+    "web_entities": [
+        {
+            "score": 0.28700000047683716,
+            "description": "Meter"
+        }
+    ],
+    "visually_similar_images": [
+        "https://i.dailymail.co.uk/1s/2019/10/01/12/19150644-7523819-image-a-5_1569927705979.jpg",
+        "https://preview.redd.it/devins-anti-vax-lgbtq-immigration-and-racist-likes-v0-tq9gyxohupfd1.png?width=1750&format=png&auto=webp&s=34beed248165528c9e7a8186e281ea67cdd7e571",
+        "https://i.dailymail.co.uk/1s/2020/08/07/17/31685540-8604841-Reports_suggested_the_plane_skidded_off_the_runway_after_trying_-a-14_1596818718066.jpg",
+        "https://i.dailymail.co.uk/1s/2022/09/12/17/62328197-11204191-image-a-6_1663000491939.jpg",
+        "https://i.insider.com/52e01c8069bedd7267099349?width=600&format=jpeg&auto=webp",
+        "https://cdn.sinchew.com.my/wp-content/uploads/2025/02/e9a9ace696afe5858befbc9ae4bf84e5a496e995bfe7ad89e4babae6898de698afe7a7b0e8818ce9a286e5afbce4babae79a84e6a0b7e5ad90.jpg",
+        "https://videoplatform.sky.it/still/2019/02/24/1551025701583_macchia-aereo-dirottato-1721_videostill_1.jpg",
+        "https://i.insider.com/5655de97c28144b1018b56a1?width=800&format=jpeg&auto=webp",
+        "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuiRgzPDemANZhqiqDVjgcXJ6FQqYkhYUrDJW9vAiYTi-plubd3HZQzOF-HKMj99fGAsgHXtaNF6mfPR60Cxb1Lv3Nv63oWyvAgptBpnKoOqPz2Vja5O00MzTf8ReH2EMKXfGyAA?key=H-PfiMOykIMkUtb0JpyWey2Y",
+        "https://cdn.shopify.com/s/files/1/0533/2089/files/progressive-disclosure-truncated-content.png?v=1564770774"
+    ]
+}

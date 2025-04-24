@@ -1,0 +1,131 @@
+{
+    "best_guess_labels": [
+        "petting a whale"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.pinterest.com/pin/387450374170669900/",
+            "full_matching_images": [
+                "https://i.pinimg.com/474x/96/32/f2/9632f21d861c65430469cba7712113ae.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.pinterest.com/pin/petting-a-gray-whale-on-one-of-pachicos-whale-watching-boats-in-san-ignacio-lagoon-baja-mexico-ive-done-this-such-aweso--105342078756733618/",
+            "full_matching_images": [
+                "https://i.pinimg.com/474x/96/32/f2/9632f21d861c65430469cba7712113ae.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.pinterest.com/pin/284078688973362131/",
+            "full_matching_images": [
+                "https://i.pinimg.com/474x/82/56/cd/8256cd7792cc035b3379379dc80f6370.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.pinterest.com/pin/59813501290518365/",
+            "full_matching_images": [
+                "https://i.pinimg.com/474x/96/32/f2/9632f21d861c65430469cba7712113ae.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://factcheck.afp.com/no-old-photo-gray-whale-taken-tour-operators-website",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://factcheck.afp.com/sites/default/files/styles/image_in_article/public/medias/factchecking/south_africa/whaletouch_0.png?itok=jndpdDNH"
+            ]
+        },
+        {
+            "url": "https://www.learningfarm.com/web/practicePassThrough.cfm?TopicID=4627",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.learningfarm.com/pics/pettinggraywhale.jpg"
+            ]
+        },
+        {
+            "url": "https://www.learningfarm.com/web/practicePassThrough.cfm?TopicID=163",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.learningfarm.com/pics/pettinggraywhale.jpg"
+            ]
+        },
+        {
+            "url": "https://www.wormsandgermsblog.com/2021/12/articles/animals/other-animals/covid-in-animals-review-part-6-updated-marine-mammals/",
+            "full_matching_images": [
+                "https://www.wormsandgermsblog.com/files/2021/12/Picture1.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://m.facebook.com/dannyvaughnvox/photos/the-story-and-the-words-are-not-mine-i-just-want-to-share-more-stories-of-hope-a/972875737965910/",
+            "full_matching_images": [
+                "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=972875737965910"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://wildcoast.org/gray-whales-arrive-in-bajas-magdalena-bay/",
+            "full_matching_images": [
+                "https://i0.wp.com/wildcoast.org/wp-content/uploads/2018/05/11204931_989780644397296_1386321853629320696_n.jpg?resize=509%2C340"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.4275789260864258,
+            "description": "Gray whale"
+        },
+        {
+            "score": 1.0596727132797241,
+            "description": "Humpback whale"
+        },
+        {
+            "score": 0.9358983635902405,
+            "description": "Blue whale"
+        },
+        {
+            "score": 0.8616424798965454,
+            "description": "Orca"
+        },
+        {
+            "score": 0.8266000747680664,
+            "description": "Short-finned pilot whale"
+        },
+        {
+            "score": 0.7372999787330627,
+            "description": "Whale"
+        },
+        {
+            "score": 0.7009000182151794,
+            "description": "Marine mammal"
+        },
+        {
+            "score": 0.5089499950408936,
+            "description": "San Ignacio Lagoon"
+        },
+        {
+            "score": 0.4846000075340271,
+            "description": "Dolphin"
+        },
+        {
+            "score": 0.4600319266319275,
+            "description": "Rough-toothed dolphin"
+        }
+    ],
+    "visually_similar_images": [
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122223044324073488",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/5e/32/b4/caption.jpg?w=300&h=300&s=1",
+        "https://www.wwf.de/fileadmin/_processed_/e/4/csm_grau-wal-touristen-whale-watching-mexiko-WW177221-c-gustavo-ybarra-wwf_eaae71fe0e.jpg",
+        "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_orcas.jpg",
+        "https://oceanconservancy.org/wp-content/uploads/2017/07/North_Pacific_Right_Whale_John_Durban_NOAA_flickr-1.jpg",
+        "https://colombia.co/sites/default/files/styles/410_505/public/2024-06/Rectangle%20128.jpg?itok=2RSWpfgn",
+        "https://cdn.wcs.org/2022/05/23/1nvs2avjn7_Julie_Larsen_Maher_3332_California_Sea_Lion_Indy_Jumping_SLP_BZ_05_02_13.jpg",
+        "https://adventures.sdzwa.org/sites/default/files/2022-08/South-America-Amazon-pink-dolphin.jpg",
+        "https://media.cnn.com/api/v1/images/stellar/prod/210914000928-01-humpback-whale-megapod.jpg?q=x_3,y_147,h_1589,w_2824,c_crop/h_270,w_480",
+        "https://bdmlr.org.uk/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-03-at-14.59.06-480x280.jpeg"
+    ]
+}

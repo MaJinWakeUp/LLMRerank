@@ -1,13 +1,14 @@
 {
     "best_guess_labels": [
-        "waganga mganga"
+        "mganga kenya"
     ],
     "pages_with_matching_images": [
         {
-            "url": "https://twitter.com/DavidNdii/status/1469971699198308352",
+            "url": "https://www.tuko.co.ke/politics/436712-charity-ngilu-takes-a-swipe-william-ruto-after-stepping-out-in-shrine-paraphanerlia/",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
+                "https://cdn.tuko.co.ke/images/1120/a6cc5a7511d90404.jpeg?v=1",
+                "https://cdn.tuko.co.ke/images/1200x675/a6cc5a7511d90404.jpeg?v=1"
             ]
         },
         {
@@ -18,25 +19,24 @@
             ]
         },
         {
-            "url": "https://twitter.com/stephenadika3",
+            "url": "https://twitter.com/ekwar_francis",
             "full_matching_images": [],
             "partial_matching_images": [
                 "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
             ]
         },
         {
-            "url": "https://pesacheck.org/false-these-images-do-not-show-kenyas-deputy-president-dressed-as-a-witch-doctor-5fbe0bf3a4f4",
+            "url": "https://x.com/ShymoreS",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://miro.medium.com/v2/resize:fit:1400/0*ZqopX-KYO6ldsFgn"
+                "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
             ]
         },
         {
-            "url": "https://www.tuko.co.ke/politics/436712-charity-ngilu-takes-a-swipe-william-ruto-after-stepping-out-in-shrine-paraphanerlia/",
+            "url": "https://twitter.com/midas71346358",
             "full_matching_images": [],
             "partial_matching_images": [
-                "https://cdn.tuko.co.ke/images/1120/a6cc5a7511d90404.jpeg?v=1",
-                "https://cdn.tuko.co.ke/images/1200x675/a6cc5a7511d90404.jpeg?v=1"
+                "https://pbs.twimg.com/media/FGWCHGvXIAYUxc8.jpg"
             ]
         },
         {
@@ -54,14 +54,14 @@
             ]
         },
         {
-            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=da_DK",
+            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=pt_PT",
             "full_matching_images": [],
             "partial_matching_images": [
                 "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465686942227555"
             ]
         },
         {
-            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576&locale=uk_UA",
+            "url": "https://www.facebook.com/photo.php?fbid=465686942227555&id=100063587586389&set=a.216586757137576",
             "full_matching_images": [],
             "partial_matching_images": [
                 "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465686942227555"
@@ -77,56 +77,56 @@
     ],
     "web_entities": [
         {
-            "score": 4.753499984741211,
-            "description": "David Ndii"
+            "score": 5.748000144958496,
+            "description": "Musalia Mudavadi"
         },
         {
-            "score": 0.6022499799728394,
+            "score": 1.1058000326156616,
+            "description": "Kenya"
+        },
+        {
+            "score": 0.5206999778747559,
+            "description": "Forum for the Restoration of Democracy \u2013 Kenya"
+        },
+        {
+            "score": 0.4498000144958496,
+            "description": "Jamhuri Day"
+        },
+        {
+            "score": 0.4473000168800354,
             "description": "Charity Ngilu"
         },
         {
-            "score": 0.5655999779701233,
-            "description": "Witchcraft"
+            "score": 0.2896000146865845,
+            "description": "President of Kenya"
         },
         {
-            "score": 0.4408999979496002,
-            "description": "Witch doctor"
+            "score": 0.21889999508857727,
+            "description": "used"
         },
         {
-            "score": 0.2801700234413147,
-            "description": "Wanganga"
+            "score": 0.21690000593662262,
+            "description": "Christmas"
         },
         {
-            "score": 0.263700008392334,
-            "description": "Waganga"
+            "score": 0.21619999408721924,
+            "description": "available"
         },
         {
-            "score": 0.25936922430992126,
-            "description": "Ritual"
-        },
-        {
-            "score": 0.21824000775814056,
-            "description": "Sugoi"
-        },
-        {
-            "score": 0.2142000049352646,
-            "description": "clothed"
-        },
-        {
-            "score": 0.1996999979019165,
-            "description": "Deputy President of Kenya"
+            "score": 0.19840000569820404,
+            "description": "Citizen TV"
         }
     ],
     "visually_similar_images": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mursi_Tribe%2C_Ethiopia_%288159768048%29.jpg/640px-Mursi_Tribe%2C_Ethiopia_%288159768048%29.jpg",
         "https://media.licdn.com/dms/image/v2/D4E22AQFeCFjqQto8XA/feedshare-shrink_800/feedshare-shrink_800/0/1729786033466?e=2147483647&v=beta&t=KAg212Rja_7z_4h1s6VpAyfYxH_W3MjBLj4FUTP5zC8",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064329203874",
-        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/d6/17/36.jpg",
-        "https://images.unsplash.com/photo-1608501408162-d9db758dd88e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM1fHx8ZW58MHx8fHx8",
-        "https://mediaaws.almasryalyoum.com/news/large/2016/10/01/526533_0.jpg",
-        "https://c8.alamy.com/comp/2DARA0M/wodaabe-bororo-men-with-faces-painted-at-the-annual-gerewol-festival-courtship-ritual-competition-among-the-woodaabe-fula-people-niger-2DARA0M.jpg",
+        "https://images.vrt.be/width960/2025/02/27/b43de240-a99d-4caf-9f96-9a38d6acf9c6.jpg",
+        "https://www.transitionsabroad.com/listings/travel/articles/images/chad-wodaabe-men-dancing-1.jpg",
+        "https://media-files.abidjan.net/dossier/677be942b3819_dossier_4115.jpg",
+        "https://images.unsplash.com/photo-1608501408162-d9db758dd88e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHRyaWJlfGVufDB8fDB8fHww",
         "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=567055586046993",
         "https://assets.isu.pub/document-structure/241014142118-20d4060716919d557835af6e3bfaf490/v1/a958c88aa5756f5985868a70cbac4a47.jpeg",
-        "https://pbs.twimg.com/media/GlA53rbXIAAIeC5.jpg"
+        "https://southafrica.co.za/images/sotho-rop-magubane611-500x300.jpg?t=1742144905?t=1742144905",
+        "https://apirturkana.org/wp-content/uploads/2025/01/Footter-Gallery-01.jpg"
     ]
 }

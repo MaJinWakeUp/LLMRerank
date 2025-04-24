@@ -1,0 +1,68 @@
+{
+    "best_guess_labels": [
+        "document"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.letras.com/giveon/lie-again/significado.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://akamai.sscdn.co/letras/og/?meaning_id=121562"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.5065000057220459,
+            "description": "Lyrics"
+        },
+        {
+            "score": 0.5043500065803528,
+            "description": "Lie Again"
+        },
+        {
+            "score": 0.44269999861717224,
+            "description": "Loving"
+        },
+        {
+            "score": 0.40549999475479126,
+            "description": "Song"
+        },
+        {
+            "score": 0.3379564583301544,
+            "description": "Text"
+        },
+        {
+            "score": 0.3140000104904175,
+            "description": "Artist"
+        },
+        {
+            "score": 0.3077000081539154,
+            "description": "emotional vulnerability"
+        },
+        {
+            "score": 0.29319998621940613,
+            "description": "Letras.mus.br"
+        },
+        {
+            "score": 0.28290000557899475,
+            "description": "Complexity"
+        },
+        {
+            "score": 0.2768999934196472,
+            "description": ""
+        }
+    ],
+    "visually_similar_images": [
+        "https://help.iubenda.com/wp-content/uploads/2023/10/IAB-framework-preference-not-found-CS.png",
+        "https://www.quetext.com/assets/img/citation/3.png",
+        "https://en.support.wordpress.com/wp-content/uploads/2023/09/domain-connection-manual-setup.png",
+        "https://en.support.wordpress.com/wp-content/uploads/2023/09/update-name-servers.png",
+        "https://make.wordpress.org/plugins/files/2024/09/plugin-check-results.png",
+        "https://support.panopto.com/servlet/rtaImage?eid=ka6Pb0000004Frh&feoid=00N5Y00000UHUJw&refid=0EM5Y000006PAXX",
+        "https://indico.docs.cern.ch/assets/conferences/timetable/fit_to_content_reschedule.png",
+        "https://mcmw.abilitynet.org.uk/media/public/2024/10/mcmw_assistive_access_fig_1a.PNG",
+        "https://docs.github.com/assets/cb-206326/images/help/desktop/available-actions.png",
+        "https://learn.microsoft.com/en-us/graph/images/connectors-images/build12.png"
+    ]
+}

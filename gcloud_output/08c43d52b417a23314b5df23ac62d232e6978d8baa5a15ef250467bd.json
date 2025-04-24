@@ -1,0 +1,131 @@
+{
+    "best_guess_labels": [
+        "female ira fighter"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.snopes.com/news/2020/04/30/ira-woman-with-rifle-in-belfast/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.snopes.com/uploads/2020/04/IRA-woman.jpg"
+            ]
+        },
+        {
+            "url": "https://ifunny.co/picture/XpPCxOI1C",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img.ifunny.co/images/4e553c5f095c45130f4fa208c4149129dcd9361ad48bf1b979530728b8932861_1.jpg"
+            ]
+        },
+        {
+            "url": "https://news.knowledia.com/US/en/articles/is-this-an-ira-fighter-defending-her-fiance-471f4fedaca9441f1cfca1038805098b86dfb1c0",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://www.snopes.com/tachyon/2020/04/IRA-woman.jpg"
+            ]
+        },
+        {
+            "url": "https://x.com/Rucha7824/status/1237657574251442176",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://pbs.twimg.com/media/ES0K_wXU0AAgFe7?format=jpg&name=4096x4096"
+            ]
+        },
+        {
+            "url": "https://ifunny.co/picture/Dq5qsIkcA",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img.ifunny.co/images/4e553c5f095c45130f4fa208c4149129dcd9361ad48bf1b979530728b8932861_1.jpg"
+            ]
+        },
+        {
+            "url": "https://9gag.com/gag/abGz4zb",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img-comment-fun.9cache.com/media/a1RpLY/aWlM6K3X_700w_0.jpg"
+            ]
+        },
+        {
+            "url": "https://brainly.com/question/26296114",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://us-static.z-dn.net/files/dad/e9ca5ea33d79ed7b575c58320813eb60.jpg"
+            ]
+        },
+        {
+            "url": "https://ifunny.co/picture/VTumMctzB",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img.ifunny.co/images/4e553c5f095c45130f4fa208c4149129dcd9361ad48bf1b979530728b8932861_1.jpg"
+            ]
+        },
+        {
+            "url": "https://ifunny.co/picture/Su3XREf88",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://img.ifunny.co/images/4e553c5f095c45130f4fa208c4149129dcd9361ad48bf1b979530728b8932861_1.jpg"
+            ]
+        },
+        {
+            "url": "https://www.instagram.com/cultu_art/p/DHG8WlRz2Xx/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3586819587893585393"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.7001000046730042,
+            "description": ""
+        },
+        {
+            "score": 0.6923999786376953,
+            "description": "Ireland"
+        },
+        {
+            "score": 0.6436499953269958,
+            "description": "The Troubles"
+        },
+        {
+            "score": 0.6111000180244446,
+            "description": "Irish female"
+        },
+        {
+            "score": 0.46160000562667847,
+            "description": ""
+        },
+        {
+            "score": 0.45879998803138733,
+            "description": "Provisional Irish Republican Army"
+        },
+        {
+            "score": 0.3898000121116638,
+            "description": "Volunteer"
+        },
+        {
+            "score": 0.3813999891281128,
+            "description": "Girlfriend"
+        },
+        {
+            "score": 0.2870999872684479,
+            "description": "Funny meme"
+        },
+        {
+            "score": 0.26820001006126404,
+            "description": "Photograph"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.snopes.com/uploads/2020/04/IRA-woman.jpg",
+        "https://img.newspapers.com/img/img?user=7448702&id=253444401&clippingId=39178010&width=592&height=2046&crop=815_1745_592_2046&rotation=0",
+        "https://images.findagrave.com/photos/2024/227/102985402_f4969b3f-b523-48d5-998a-343126f04707.jpeg",
+        "https://img.newspapers.com/img/img?user=2195923&id=791993242&clippingId=123132658&width=820&height=1658&crop=2103_662_1000_2022&rotation=0",
+        "https://images.findagrave.com/photos/2011/195/73255586_131075842967.jpg",
+        "https://img.newspapers.com/img/img?user=3323754&id=265323451&clippingId=10759147&width=697&height=2031&crop=2375_483_697_2031&rotation=0",
+        "https://theapopkachief.com/wp-content/uploads/2024/03/Laura-Lee-Coveney.jpg",
+        "https://images2.imgbox.com/51/d8/8bt5nQad_o.jpg",
+        "https://images.findagrave.com/photos/2024/143/114474248_86553aa2-7007-4d9c-ba66-463ff263375a.jpeg",
+        "http://www.collectingcandy.com/wordpress/wp-content/uploads/2012/06/CC_Nestle-100000-bar-trade-clipping-June-1973.jpg"
+    ]
+}

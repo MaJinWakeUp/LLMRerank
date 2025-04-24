@@ -1,0 +1,131 @@
+{
+    "best_guess_labels": [
+        "street"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://twitter.com/hkorndorffer",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/GPnn-IiWkAAfY_C.png"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2021/07/30/hochwasser-markierungen-an-hauswaenden-ueberschwemmungen-gab-es-schon-immer-sie-werden-jedoch-durch-den-klimawandel-wahrscheinlicher/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2022/08/25/trockenheit-am-bodensee-niedrige-pegelstaende-gab-es-schon-1540-doch-heute-haeufen-sich-solche-ereignisse-durch-den-klimawandel/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2021/09/09/ein-artikel-aus-dem-jahr-1912-der-den-klimawandel-durch-kohleverbrennung-vorhersagt-ist-echt/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2021/08/04/nein-in-rheinland-pfalz-wurden-keine-600-kinderleichen-in-der-flut-gefunden/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2022/06/17/warum-ein-bild-der-ausgetrockneten-elbe-im-jahr-1904-keinen-klima-schwindel-beweist/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2024/02/09/hochwasser-warum-diese-historischen-pegelstaende-nicht-den-klimawandel-widerlegen/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2022/06/29/irrefuehrende-schlagzeilen-ja-es-war-frueher-ab-und-zu-heiss-aber-ein-experte-leugnete-das-nicht/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/2021/09/10/klimawandel-darum-hat-karl-lauterbach-vor-kaelteren-wintern-in-europa-gewarnt/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        },
+        {
+            "url": "https://correctiv.org/faktencheck/hintergrund/2022/06/21/streit-um-die-farbe-rot-warum-jeden-sommer-behauptet-wird-die-medien-wuerden-wetterkarten-manipulieren/",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg"
+            ]
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 0.9340000152587891,
+            "description": "Water level"
+        },
+        {
+            "score": 0.5782999992370605,
+            "description": "Stream gauge"
+        },
+        {
+            "score": 0.48030000925064087,
+            "description": "Hochwasser"
+        },
+        {
+            "score": 0.47699999809265137,
+            "description": "High tide"
+        },
+        {
+            "score": 0.44020000100135803,
+            "description": "Baseflow"
+        },
+        {
+            "score": 0.3928999900817871,
+            "description": "Climate"
+        },
+        {
+            "score": 0.36649999022483826,
+            "description": "Flood"
+        },
+        {
+            "score": 0.34439998865127563,
+            "description": "Climate change"
+        },
+        {
+            "score": 0.303600013256073,
+            "description": "Likely"
+        },
+        {
+            "score": 0.27070000767707825,
+            "description": "marked"
+        }
+    ],
+    "visually_similar_images": [
+        "https://correctiv.org/wp-content/uploads/2021/07/collage-pegel-1412x772.jpg",
+        "https://www.tjekdet.dk/sites/default/files/styles/6_10_570x950/public/2021-08/My%20Post%20-%202021-08-25T103516.910.jpg?itok=kYLPZ9sc",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3197490617616583755",
+        "https://live.staticflickr.com/65535/54112811911_0bcbbb6a47_w.jpg",
+        "https://mdt-dodin.ru/media/uploads/2023/10/13/photo_1_2023-10-13_15-56-55.jpg",
+        "https://mmm-yoso.typepad.com/.a/6a00d83451b81169e202a30d4e82ce200b-500wi",
+        "x-raw-image:///2fb461da3c58eb7e8cb7261e2e92ed0e76efe5d34a60d355977fc4c4144e53ac",
+        "https://img.italiaonline.it/0WO5p000003pAa2GAE/IOL4YOU_1687956125148.jpg",
+        "https://img.restaurantguru.com/r137-design-Ze-Manel-dos-Ossos-2022-09.jpg",
+        "x-raw-image:///d1133d5fd9e4785f043e30abd3db95798fc4f280f28185299f061bdad3be9aea"
+    ]
+}

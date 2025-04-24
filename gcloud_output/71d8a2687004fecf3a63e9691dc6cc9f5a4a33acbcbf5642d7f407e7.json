@@ -1,0 +1,137 @@
+{
+    "best_guess_labels": [
+        "ukraine dog feeding station"
+    ],
+    "pages_with_matching_images": [
+        {
+            "url": "https://www.pravda.com.ua/eng/news/2022/10/21/7372888/",
+            "full_matching_images": [
+                "https://img.pravda.com/images/doc/9/2/923551f-9.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.itv.com/news/2022-10-29/theyre-incredibly-traumatised-the-lives-of-ukraines-war-zone-dogs",
+            "full_matching_images": [
+                "https://images.ctfassets.net/pjshm78m9jt4/1yUU4h8vQy7hBABu0DK20m/5d7e8b72a3d85c602f5a12fcbce58a00/dogs_ukraine_mook.jpg?fm=jpg&fit=fill&w=400&h=225&q=80",
+                "https://images.ctfassets.net/pjshm78m9jt4/1yUU4h8vQy7hBABu0DK20m/5d7e8b72a3d85c602f5a12fcbce58a00/dogs_ukraine_mook.jpg?fm=jpg&fit=fill&w=1600&q=80",
+                "https://images.ctfassets.net/pjshm78m9jt4/1yUU4h8vQy7hBABu0DK20m/5d7e8b72a3d85c602f5a12fcbce58a00/dogs_ukraine_mook.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.thedodo.com/daily-dodo/man-sees-ukrainian-dogs-waiting-patiently-in-line-then-realizes-why",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://assets3.thrillist.com/v1/image/3116309/792x396/scale;webp=auto;jpeg_quality=60.jpg",
+                "https://assets3.thrillist.com/v1/image/3116309/1200x600/crop;;webp=auto;jpeg_quality=85.jpg",
+                "https://assets3.thrillist.com/v1/image/3116309/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=pwBfQAGb43s",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.ytimg.com/vi/pwBfQAGb43s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAB0ZO7tIzDxntMZFoCfnswmQIvIQ"
+            ]
+        },
+        {
+            "url": "https://www.newsweek.com/fact-check-are-stray-dogs-lining-pet-food-war-torn-kramatorsk-1755411",
+            "full_matching_images": [
+                "https://d.newsweek.com/en/full/2141061/dogs-line-food-ukraine.png?w=1200&f=5c7028efd628b655f93770ddd5724c8c",
+                "https://d.newsweek.com/en/full/2141061/dogs-line-food-ukraine.png",
+                "https://d.newsweek.com/en/full/2141061/dogs-line-food-ukraine.webp"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://x.com/natemook/status/1583238219566415872",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/FfjKxHtXkAI_Y4K.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://www.dailymail.co.uk/news/article-11345635/Homeless-dogs-Ukraine-left-streets-Putins-invasion-patiently-line-food.html",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://i.dailymail.co.uk/1s/2022/10/23/16/63765127-11345635-image-a-54_1666537520416.jpg"
+            ]
+        },
+        {
+            "url": "https://www.linkedin.com/posts/voitsekhivskyi_ukrainevictory-activity-6989185305203335168-spLE",
+            "full_matching_images": [],
+            "partial_matching_images": [
+                "https://media.licdn.com/dms/image/v2/C4E22AQET_m1Krx6HXw/feedshare-shrink_800/feedshare-shrink_800/0/1666351628728?e=2147483647&v=beta&t=-lOfH6A02GOAAS7se7JlQgiNm296QRixoXgNdCK4r4g"
+            ]
+        },
+        {
+            "url": "https://x.com/jeterella?lang=bg",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/FfjKxHtXkAI_Y4K.jpg"
+            ],
+            "partial_matching_images": []
+        },
+        {
+            "url": "https://x.com/zmejuka1",
+            "full_matching_images": [
+                "https://pbs.twimg.com/media/FfjKxHtXkAI_Y4K.jpg"
+            ],
+            "partial_matching_images": []
+        }
+    ],
+    "web_entities": [
+        {
+            "score": 1.1179499626159668,
+            "description": "Dog"
+        },
+        {
+            "score": 0.9354000091552734,
+            "description": "Ukraine"
+        },
+        {
+            "score": 0.8508000373840332,
+            "description": "Pet food"
+        },
+        {
+            "score": 0.7020000219345093,
+            "description": "Dog Feeding Station"
+        },
+        {
+            "score": 0.6236000061035156,
+            "description": ""
+        },
+        {
+            "score": 0.5920106172561646,
+            "description": "Working dog"
+        },
+        {
+            "score": 0.5828999876976013,
+            "description": "street dog"
+        },
+        {
+            "score": 0.5774316787719727,
+            "description": "Hunting dog"
+        },
+        {
+            "score": 0.5128639340400696,
+            "description": "Guard dog"
+        },
+        {
+            "score": 0.46230000257492065,
+            "description": "found"
+        }
+    ],
+    "visually_similar_images": [
+        "https://www.goethe.de/resources/files/jpg525/5-Im-Hofgarten-formatkey-jpg-default.jpg",
+        "https://utulsa.edu/wp-content/uploads/2024/12/241113-Fall-Campus-Beauty-014_Web_UT_Cards_Square_Navigational_462x398.jpg",
+        "https://www.citescope.fr/wp-content/uploads/2021/10/%C2%A9Antoine_Meyssonnier-6209-taille-mini.jpg",
+        "https://www.ucalgary.ca/legal-services/sites/default/files/styles/ucws_image_with_text_desktop/public/2019-11/170926_Fall-Photos-007.png?itok=z4Pat6OJ",
+        "https://www.artsci.utoronto.ca/sites/default/files/UofT86400_u-of-t-engineering_50510980006_o-lpr.jpg",
+        "https://future.utoronto.ca/wp-content/uploads/menu-visit.jpg",
+        "https://pbs.twimg.com/media/GLxwYkYXwAAIMhn.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=966186585555670",
+        "https://images.ctfassets.net/ni9rh5nu0d99/H1p5qYmnEfYtPxisym7Zy/9aca2a40761c1a6f6bf5834deac321cd/university-park-campus-fall-foliage.jpg",
+        "https://www.woodlandtrust.org.uk/media/1557/parent-and-child-walking-through-urban-trees-alamy-e7233m-keith-morris-news.jpg"
+    ]
+}

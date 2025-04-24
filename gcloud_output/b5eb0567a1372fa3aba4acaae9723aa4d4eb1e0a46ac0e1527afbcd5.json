@@ -1,0 +1,31 @@
+{
+    "best_guess_labels": [
+        "poster"
+    ],
+    "web_entities": [
+        {
+            "score": 0.35951748490333557,
+            "description": "Poster"
+        },
+        {
+            "score": 0.31992822885513306,
+            "description": "Photo caption"
+        },
+        {
+            "score": 0.28290000557899475,
+            "description": "Meter"
+        }
+    ],
+    "visually_similar_images": [
+        "https://pbs.twimg.com/media/Gm7emXZWMAE4__3?format=jpg&name=large",
+        "https://lookaside.fbsbx.com/lookaside/crawler/threads/DHpIaTSxsTo/0/image.jpg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twqxpwemk3z3rrwezz7z7fpr/bafkreib4u2aev4ws73h3xtwiydfr3vnojcedurcjvxo2uhv5kmxk7nebou@jpeg",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:henqliujmlq5itnzmwrydely/bafkreib5uzduw4g6kljgxy3mfwjf5bvblvanuwkp3ajanr26putbxgud3e@jpeg",
+        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3084585714881092076",
+        "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7y56hbn7lt6gkqrjj65quotl/bafkreicky6zwow5b7ubjmwh2sa4fywhyk5ogyytpkpgb2rgwdmh4vllpry@jpeg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DHoNG5pRAMC/0/image.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/instagram/DHnrLZYvqhD/0/image.jpg",
+        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1128815026016737",
+        "https://media.licdn.com/dms/image/v2/D5622AQGnF4sKTt1zJw/feedshare-shrink_480/B56ZWSlUUdHQAY-/0/1741921011585?e=2147483647&v=beta&t=Yi3gj9KldtaPMNa1aDmUT4FjrEyqd_GaHST_f3WiSmU"
+    ]
+}
